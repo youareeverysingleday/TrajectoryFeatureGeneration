@@ -1,10 +1,12 @@
 
 from pyproj import Transformer
 import math
+from typing import Any, List
 
 class GridMapperWebMercator:
     # lon1, lat1, lon2, lat2
-    def __init__(self, lon_min, lat_min, lon_max, lat_max, grid_size_m):
+    def __init__(self, lon_min:float, lat_min:float, 
+                        lon_max:float, lat_max:float, grid_size_m:int)->None:
         """_summary_
         Web Mercator 投影，就类似平常看到的地图上的显示。保角不保距离。会导致计算的栅格数量明显变多。
         大约为原来的数量的1.3倍。
@@ -42,7 +44,7 @@ class GridMapperWebMercator:
         self.num_rows = math.ceil((self.y_max - self.y_min) / grid_size_m)
         self.total_grids = self.num_cols * self.num_rows
 
-    def latlon_to_grid(self, lon, lat):
+    def latlon_to_grid(self, lon:float, lat:float)->int:
         """_summary_
         输入经纬度 -> 输出栅格ID(从1开始)
         Args:
@@ -65,7 +67,7 @@ class GridMapperWebMercator:
         grid_id = row * self.num_cols + col + 1  # 从1开始编号
         return grid_id
 
-    def grid_to_latlon(self, grid_id):
+    def grid_to_latlon(self, grid_id:int):
         """_summary_
         输入栅格ID -> 输出栅格中心点经纬度
         Args:
