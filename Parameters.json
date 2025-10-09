@@ -5,6 +5,7 @@
     "gMethod": "rect",
     "gActivityTime":1800,
     "gStayDurationthreshold":604800,
+    "gMatrixSecondDimension":10,
     "gTrajectoryFolderPath": "./Data/Geolife Trajectories 1.3/Data/",
     "gStaySavePath": "./Data/Output/Stay.csv",
     "gMoveSavePath": "./Data/Output/Move.csv",
