@@ -23,4 +23,7 @@
 
 ##去除哪些路径
 /Data/Geolife Trajectories 1.3
+/Data/MoreUser
+/Data/train_all_stay.csv
+/Data/test_all_stay.csv
 
