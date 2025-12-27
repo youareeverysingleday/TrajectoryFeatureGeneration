@@ -199,13 +199,13 @@ if __name__ == "__main__":
     # ShareData.dat = None
     ProcessPool = multiprocessing.Pool()
 
-    # gUserTrajPath = './Data/MoreUser/Input'
-    # OutputStayPath = "./Data/MoreUser/Output/"
-    # OutputAllStayPath = "./Data/MoreUser/Output/all.csv"
+    gUserTrajPath = './Data/MoreUser/Input/'
+    OutputStayPath = "./Data/MoreUser/Output/"
+    OutputAllStayPath = "./Data/MoreUser/all.csv"
     
-    gUserTrajPath = './Data/Test/Stays/'
-    OutputStayPath = "./Data/Test/Context/"
-    OutputAllStayPath = "./Data/Test/all.csv"
+    # gUserTrajPath = './Data/Test/Stays/'
+    # OutputStayPath = "./Data/Test/Context/"
+    # OutputAllStayPath = "./Data/Test/all.csv"
 
     all_files = get_all_file_paths(gUserTrajPath)
 
