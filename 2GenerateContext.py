@@ -48,7 +48,7 @@ def get_fuzzy_time_expression(time_delta, target_time):
 
 # --- 核心函数：生成上下文（同时生成模糊和精确时间上下文） ---
 def generate_context_for_df(df_input: pd.DataFrame, N_top_frequent: int,
-                            StaySavePath: str, ShareData, Lock):
+                            StaySavePath: str) -> None:
     """
     根据给定的详细逻辑，为单个用户的停留点数据生成上下文。
     同时生成两列：context_fuzzy（模糊时间）和 context_precise（精确时间）。
@@ -141,11 +141,11 @@ def generate_context_for_df(df_input: pd.DataFrame, N_top_frequent: int,
         df.to_csv(StaySavePath+f"{user_id}.csv", index=True)
     
     # 合并单个文件为整体文件。
-    with Lock:
-        if ShareData.dat is None:
-            ShareData.dat = df
-        else:
-            ShareData.dat = pd.concat([ShareData.dat, df], ignore_index=True)
+    # with Lock:
+    #     if ShareData.dat is None:
+    #         ShareData.dat = df
+    #     else:
+    #         ShareData.dat = pd.concat([ShareData.dat, df], ignore_index=True)
 
 
 def get_all_file_paths(directory):
@@ -163,6 +163,22 @@ def get_all_file_paths(directory):
             file_paths.append(os.path.join(root, file))
     return file_paths
 
+
+def merge_csvs(folder_path:str, output_path:str) -> None:
+    """
+    将指定文件夹下的所有 CSV 文件合并为一个 DataFrame 并保存。
+    """
+    all_files = get_all_file_paths(folder_path)
+    csv_files = [f for f in all_files if f.endswith('.csv')]
+    if not csv_files:
+        print("没有找到 CSV 文件。")
+        return
+    df_list = [pd.read_csv(file) for file in csv_files]
+    merged_df = pd.concat(df_list, ignore_index=True)
+    merged_df.to_csv(output_path, index=False)
+    print(f"成功合并 {len(csv_files)} 个 CSV 文件并保存到 {output_path}")
+
+
 # 使用示例
 # all_files = get_all_file_paths('./Data/Output/Stays')
 # print(all_files)
@@ -178,9 +194,9 @@ if __name__ == "__main__":
 
     # 将资源管理放循环外
     ProcessManager = multiprocessing.Manager()
-    Lock = ProcessManager.Lock()
-    ShareData = ProcessManager.Namespace()
-    ShareData.dat = None
+    # Lock = ProcessManager.Lock()
+    # ShareData = ProcessManager.Namespace()
+    # ShareData.dat = None
     ProcessPool = multiprocessing.Pool()
 
     # gUserTrajPath = './Data/MoreUser/Input'
@@ -202,18 +218,13 @@ if __name__ == "__main__":
 
         ProcessPool.apply_async(generate_context_for_df, 
                                     args=(singleUserDf, N_top_frequent,
-                                            OutputStayPath, 
-                                            ShareData, Lock))
+                                            OutputStayPath))
     ProcessPool.close()
     ProcessPool.join()
-
-    if ShareData.dat is not None:
-        # 把所有用户保存到一个单一文件中，便于模型训练。
-        ShareData.dat.to_csv(OutputAllStayPath, index=True)
-        print(f"\n 成功合并所有用户数据并保存到: {OutputAllStayPath}")
-
-    ShareData.dat = None
-    print(f"数据处理完成。")
-
     ProcessManager.shutdown()
+
+    print("所有用户数据处理完毕，开始合并数据...")
+    # 合并所有生成的上下文文件为一个 DataFrame 并保存
+    merge_csvs(OutputStayPath, OutputAllStayPath)
+
     print(f"全部数据处理完成，总耗时 {time.time() - start_time:.2f} 秒")
