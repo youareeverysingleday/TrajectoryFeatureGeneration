@@ -5,6 +5,9 @@ import os
 import numpy as np
 import multiprocessing
 
+import time
+from tqdm import tqdm
+
 # --- 配置和常量定义 ---
 N_TOP_FREQUENT = 3 # 排除的周期停留点数量
 TIME_LIMITS = {
@@ -44,7 +47,8 @@ def get_fuzzy_time_expression(time_delta, target_time):
 
 
 # --- 核心函数：生成上下文（同时生成模糊和精确时间上下文） ---
-def generate_context_for_df(df_input: pd.DataFrame, N_top_frequent: int = 3) -> pd.DataFrame:
+def generate_context_for_df(df_input: pd.DataFrame, N_top_frequent: int,
+                            StaySavePath: str, ShareData, Lock):
     """
     根据给定的详细逻辑，为单个用户的停留点数据生成上下文。
     同时生成两列：context_fuzzy（模糊时间）和 context_precise（精确时间）。
@@ -61,7 +65,7 @@ def generate_context_for_df(df_input: pd.DataFrame, N_top_frequent: int = 3) -> 
 
     # 2. 识别周期停留点并构建 aperiodic_stay_list
     top_n_grids = df['grid'].value_counts().nlargest(N_top_frequent).index.tolist()
-    print(top_n_grids)
+    # print(top_n_grids)
     aperiodic_stay_list = df[~df['grid'].isin(top_n_grids)].index.tolist()
     current_stay_candidates = df.index[:-1].tolist()
 
@@ -134,130 +138,82 @@ def generate_context_for_df(df_input: pd.DataFrame, N_top_frequent: int = 3) -> 
         aperiodic_stay_list.remove(generate_context_stay_idx)
         current_stay_candidates.remove(current_stay_idx)
 
-    return df
-
-
-# --- 主控制函数：处理指定文件夹下的所有数据 ---
-def process_data_directory(
-    data_dir: str, 
-    individual_output_dir: str,
-    combined_output_filepath: str,
-    N_top_frequent: int = 3
-):
-    """
-    处理指定输入文件夹下的所有用户停留点数据，并将结果保存到指定的输出路径。
-
-    参数:
-    data_dir (str): 原始用户停留点数据文件 (.csv) 所在的文件夹路径。
-    individual_output_dir (str): 用于保存每个用户单独上下文文件的文件夹路径。
-    combined_output_filepath (str): 用于保存所有用户合并数据的完整文件路径（包括文件名）。
-    N_top_frequent (int): 排除的周期停留点数量。
-    """
+        df.to_csv(StaySavePath+f"{user_id}.csv", index=True)
     
-    if not os.path.exists(data_dir):
-        print(f"错误：未找到指定的输入文件夹路径 -> {data_dir}")
-        return
-        
-    # 确保单个用户输出文件夹存在
-    if not os.path.exists(individual_output_dir):
-        os.makedirs(individual_output_dir)
-        print(f"创建输出文件夹: {individual_output_dir}")
+    # 合并单个文件为整体文件。
+    with Lock:
+        if ShareData.dat is None:
+            ShareData.dat = df
+        else:
+            ShareData.dat = pd.concat([ShareData.dat, df], ignore_index=True)
 
-    all_users_data = []
-    
-    # 遍历输入文件夹下的所有文件
-    for filename in os.listdir(data_dir):
-        # 跳过已经生成的上下文文件和合并文件
-        # if filename.startswith(OUTPUT_PREFIX) or filename == os.path.basename(combined_output_filepath):
-        #     continue
-            
-        if filename.endswith(".csv"):
-            filepath = os.path.join(data_dir, filename)
-            
-            print(f"\n--- 正在处理文件: {filename} ---")
-            try:
-                # 1. 读取数据
-                df_raw = pd.read_csv(filepath, index_col=0) 
-                
-                if df_raw.empty or len(df_raw) < 2:
-                    print(f"Skipping: 数据为空或行数不足。")
-                    continue
-                
-                # 2. 调用核心函数处理数据
-                df_processed = generate_context_for_df(df_raw, N_top_frequent)
-                
-                # 确保 userID 列存在
-                if 'userID' not in df_processed.columns:
-                    print("警告: 缺少 'userID' 列。尝试从文件名推断 UserID。")
-                    user_id = filename.split('_')[0] 
-                    df_processed.insert(0, 'userID', user_id)
-                
-                # 形式一：每个用户单独保存（保存到指定 Individual 路径）
-                # 保存后包含两列上下文：context_fuzzy 和 context_precise
-                output_filename_single = f"{filename}"
-                output_filepath_single = os.path.join(individual_output_dir, output_filename_single)
-                df_processed.to_csv(output_filepath_single, index=True)
-                print(f" 保存单个用户数据到: {output_filepath_single}")
-                print(f" 包含上下文列: context_fuzzy 和 context_precise")
-                
-                all_users_data.append(df_processed)
 
-            except Exception as e:
-                print(f"处理文件 {filename} 时发生错误: {e}")
-                continue
+def get_all_file_paths(directory):
+    """_summary_
+    提供所有用户的停留点文件路径列表。
+    Args:
+        directory (_type_): _description_
 
-    # 形式二：所有用户数据合并保存（保存到指定 Combined 路径）
-    if all_users_data:
-        df_all = pd.concat(all_users_data)
-        df_all.to_csv(combined_output_filepath, index=True)
-        print(f"\n 成功合并所有用户数据并保存到: {combined_output_filepath}")
-    else:
-        print("\n 没有新的 CSV 文件被成功处理和合并。")
+    Returns:
+        _type_: _description_
+    """
+    file_paths = []
+    for root, dirs, files in os.walk(directory):
+        for file in files:
+            file_paths.append(os.path.join(root, file))
+    return file_paths
 
-import time
-gUserTrajPath = './Data/MoreUser/Input'
+# 使用示例
+# all_files = get_all_file_paths('./Data/Output/Stays')
+# print(all_files)
+
 
 # --- 执行示例 (需要替换路径) ---
 if __name__ == "__main__":
-    # # --- 示例路径配置 ---
-    # INPUT_FOLDER = "./Data/Output/Stays" 
-    # INDIVIDUAL_OUTPUT_FOLDER = "./Data/Output/Context"
-    # COMBINED_OUTPUT_FILE = "./Data/Output/all_users_context_combined.csv" 
-    
-    # process_data_directory(
-    #     data_dir=INPUT_FOLDER,
-    #     individual_output_dir=INDIVIDUAL_OUTPUT_FOLDER,
-    #     combined_output_filepath=COMBINED_OUTPUT_FILE
-    # )
+
 
     start_time = time.time()
-
-    # 获取所有轨迹用户ID。
-    userList = next(os.walk(gUserTrajPath))[2]
-    userList = [x.split('.')[0] for x in userList]
-    users_pd = pd.DataFrame(userList, columns=['ID'])
-    
-    # 分为测试机和训练集。
-    train_users = users_pd.sample(frac=0.8, random_state=42)
-    test_users = users_pd.drop(train_users.index)
+    # all_files = get_all_file_paths('./Data/Test/Stays/')
+    # print(all_files)
 
     # 将资源管理放循环外
     ProcessManager = multiprocessing.Manager()
     Lock = ProcessManager.Lock()
     ShareData = ProcessManager.Namespace()
     ShareData.dat = None
+    ProcessPool = multiprocessing.Pool()
 
-    trainOutputStayPath = "./Data/MoreUser/Output/Train/"
-    testOutputStayPath = "./Data/MoreUser/Output/Test/"
+    # gUserTrajPath = './Data/MoreUser/Input'
+    # OutputStayPath = "./Data/MoreUser/Output/"
+    # OutputAllStayPath = "./Data/MoreUser/Output/all.csv"
+    
+    gUserTrajPath = './Data/Test/Stays/'
+    OutputStayPath = "./Data/Test/Context/"
+    OutputAllStayPath = "./Data/Test/all.csv"
 
-    trainOutputAllStayPath = "./Data/MoreUser/Output/Train.csv"
-    testOutputAllStayPath = "./Data/MoreUser/Output/Test.csv"
+    all_files = get_all_file_paths(gUserTrajPath)
 
-    for dataset_type, users, stay_path, all_stay_path in [
-        ("train", train_users, trainOutputStayPath, trainOutputAllStayPath),
-        ("test", test_users, testOutputStayPath, testOutputAllStayPath)]:
-        for user in users:
-            p = multiprocessing.Process(target=generate_context_for_df, 
-                                        args=(user, dataset_type, stay_path, all_stay_path, Lock, ShareData))
-            p.start()
-            p.join()
+    # 高频停留点获取的数量。
+    N_top_frequent = 3
+
+    # 每个文件启动一个进程进行处理。
+    for singleuserfile in tqdm(all_files):
+        singleUserDf = pd.read_csv(singleuserfile, index_col=0)
+
+        ProcessPool.apply_async(generate_context_for_df, 
+                                    args=(singleUserDf, N_top_frequent,
+                                            OutputStayPath, 
+                                            ShareData, Lock))
+    ProcessPool.close()
+    ProcessPool.join()
+
+    if ShareData.dat is not None:
+        # 把所有用户保存到一个单一文件中，便于模型训练。
+        ShareData.dat.to_csv(OutputAllStayPath, index=True)
+        print(f"\n 成功合并所有用户数据并保存到: {OutputAllStayPath}")
+
+    ShareData.dat = None
+    print(f"数据处理完成。")
+
+    ProcessManager.shutdown()
+    print(f"全部数据处理完成，总耗时 {time.time() - start_time:.2f} 秒")
