@@ -55,8 +55,8 @@ def generate_context_for_df(df_input: pd.DataFrame, N_top_frequent: int,
     """
     df = df_input.copy()
     
-    df['stime'] = pd.to_datetime(df['stime'])
-    df['etime'] = pd.to_datetime(df['etime'])
+    df['stime'] = pd.to_datetime(df['stime'], format="%Y-%m-%d %H:%M:%S")
+    df['etime'] = pd.to_datetime(df['etime'], format="%Y-%m-%d %H:%M:%S")
     df['context_fuzzy'] = None  # 包含模糊时间的上下文
     df['context_precise'] = None  # 包含精确时间的上下文
     
@@ -139,6 +139,7 @@ def generate_context_for_df(df_input: pd.DataFrame, N_top_frequent: int,
         current_stay_candidates.remove(current_stay_idx)
 
         df.to_csv(StaySavePath+f"{user_id}.csv", index=True)
+        print(f'--- {user_id}')
     
     # 合并单个文件为整体文件。
     # with Lock:
