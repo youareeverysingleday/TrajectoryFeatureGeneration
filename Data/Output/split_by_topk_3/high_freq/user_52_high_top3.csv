@@ -1,0 +1,81 @@
+userID,stime,etime,lon,lat,duration,grid,context_fuzzy,context_precise
+52,2008-01-16 09:03:50,2008-01-17 09:24:49,116.34855,39.9829666666667,87659.0,15184,"User 52 will move from grid 15184 to grid 14428, arriving around in about 4 months.","User 52 will move from grid 15184 to grid 14428, at 2008-05-21 06:57:01."
+52,2008-01-18 07:54:06,2008-01-19 06:56:29,116.348616666667,39.9829833333333,82943.0,15184,"User 52 will move from grid 15184 to grid 18391, arriving around in the next month.","User 52 will move from grid 15184 to grid 18391, at 2008-03-02 12:59:06."
+52,2008-02-23 09:08:51,2008-02-26 02:46:26,116.350666666667,39.9853166666667,236255.0,15184,"User 52 will move from grid 15184 to grid 16130, at 2008-03-04 00:26:04.","User 52 will move from grid 15184 to grid 16130, at 2008-03-04 00:26:04."
+52,2008-03-14 05:36:51,2008-03-14 08:37:57,116.3512,39.9853333333333,10866.0,15184,"User 52 will move from grid 15184 to grid 17073, arriving around in about 4 months.","User 52 will move from grid 15184 to grid 17073, at 2008-07-21 08:15:56."
+52,2008-03-14 08:57:28,2008-03-15 05:24:23,116.350816666667,39.9852666666667,73615.0,15184,"User 52 will move from grid 15184 to grid 13664, arriving around in about 3 months.","User 52 will move from grid 15184 to grid 13664, at 2008-06-04 12:14:03."
+52,2008-03-18 13:19:54,2008-03-19 07:19:35,116.349016666667,39.98525,64781.0,15184,"User 52 will move from grid 15184 to grid 14988, arriving around in about 3 months.","User 52 will move from grid 15184 to grid 14988, at 2008-06-07 11:11:45."
+52,2008-05-20 09:55:05,2008-05-20 11:25:59,116.348612,39.985318,5454.0,15184,"User 52 will move from grid 15184 to grid 13664, arriving around in the next month.","User 52 will move from grid 15184 to grid 13664, at 2008-07-01 08:39:09."
+52,2008-05-20 11:30:05,2008-05-20 12:01:38,116.351281,39.98009,1893.0,15184,"User 52 will move from grid 15184 to grid 14429, arriving around later today, late at night.","User 52 will move from grid 15184 to grid 14429, at 2008-05-21 04:21:52."
+52,2008-05-20 14:25:14,2008-05-21 03:25:40,116.355465,39.989025,46826.0,15374,"User 52 will move from grid 15374 to grid 13664, arriving around in about 3 weeks, specifically next Thursday.","User 52 will move from grid 15374 to grid 13664, at 2008-06-12 23:32:36."
+52,2008-05-21 07:40:27,2008-05-21 10:13:53,116.348588,39.98481,9206.0,15184,"User 52 will move from grid 15184 to grid 14618, at 2008-05-25 08:35:47.","User 52 will move from grid 15184 to grid 14618, at 2008-05-25 08:35:47."
+52,2008-05-21 14:29:41,2008-05-22 09:01:58,116.348547,39.985182,66737.0,15184,"User 52 will move from grid 15184 to grid 15185, at 2008-06-02 08:00:38.","User 52 will move from grid 15184 to grid 15185, at 2008-06-02 08:00:38."
+52,2008-05-23 06:52:00,2008-05-25 05:31:31,116.348666,39.985234,167971.0,15184,"User 52 will move from grid 15184 to grid 14806, arriving around in the next month.","User 52 will move from grid 15184 to grid 14806, at 2008-06-26 20:48:41."
+52,2008-05-25 13:08:33,2008-05-26 05:59:31,116.348685,39.985283,60658.0,15184,"User 52 will move from grid 15184 to grid 13475, at 2008-06-05 10:10:51.","User 52 will move from grid 15184 to grid 13475, at 2008-06-05 10:10:51."
+52,2008-05-26 05:59:57,2008-05-26 12:36:53,116.352828,39.985462,23816.0,15374,"User 52 will move from grid 15374 to grid 14616, at 2008-05-28 09:46:28.","User 52 will move from grid 15374 to grid 14616, at 2008-05-28 09:46:28."
+52,2008-05-26 17:01:13,2008-05-27 07:44:55,116.348733,39.985243,53022.0,15184,"User 52 will move from grid 15184 to grid 15753, arriving around in about 2 months.","User 52 will move from grid 15184 to grid 15753, at 2008-07-24 06:51:35."
+52,2008-05-27 11:34:49,2008-05-27 12:46:55,116.348736,39.985121,4326.0,15184,"User 52 will move from grid 15184 to grid 15373, arriving around in about 1 weeks, specifically next Tuesday.","User 52 will move from grid 15184 to grid 15373, at 2008-06-03 14:18:23."
+52,2008-05-31 07:31:14,2008-05-31 09:33:06,116.34855,39.985121,7312.0,15184,"User 52 will move from grid 15184 to grid 14617, arriving around in the next month.","User 52 will move from grid 15184 to grid 14617, at 2008-07-09 16:20:12."
+52,2008-06-01 14:00:26,2008-06-02 03:47:48,116.348544,39.98312,49642.0,15184,"User 52 will move from grid 15184 to grid 14429, at 2008-06-02 04:15:56.","User 52 will move from grid 15184 to grid 14429, at 2008-06-02 04:15:56."
+52,2008-06-02 06:44:36,2008-06-02 07:55:08,116.348654,39.985123,4232.0,15184,,
+52,2008-06-03 04:34:26,2008-06-03 09:23:15,116.348763,39.985355,17329.0,15184,"User 52 will move from grid 15184 to grid 15753, arriving around in the next month.","User 52 will move from grid 15184 to grid 15753, at 2008-07-11 05:06:06."
+52,2008-06-04 13:53:13,2008-06-05 08:35:35,116.348653,39.98527,67342.0,15184,"User 52 will move from grid 15184 to grid 14617, arriving around in about 1 days, on 2008-06-06.","User 52 will move from grid 15184 to grid 14617, at 2008-06-06 09:05:00."
+52,2008-06-06 04:23:32,2008-06-06 08:03:00,116.348755,39.985366,13168.0,15184,"User 52 will move from grid 15184 to grid 13475, arriving around in about 5 days, on 2008-06-12.","User 52 will move from grid 15184 to grid 13475, at 2008-06-12 05:17:19."
+52,2008-06-06 08:03:14,2008-06-06 08:47:40,116.352015,39.985326,2666.0,15184,"User 52 will move from grid 15184 to grid 15753, arriving around in about 2 months.","User 52 will move from grid 15184 to grid 15753, at 2008-07-22 12:39:54."
+52,2008-06-06 13:28:14,2008-06-07 09:33:15,116.348673,39.985368,72301.0,15184,"User 52 will move from grid 15184 to grid 13475, arriving around in about 1 weeks, specifically next Tuesday.","User 52 will move from grid 15184 to grid 13475, at 2008-06-17 05:28:03."
+52,2008-06-07 13:17:13,2008-06-07 15:59:23,116.353872,39.986965,9730.0,15374,"User 52 will move from grid 15374 to grid 14616, arriving around in about 1 days, on 2008-06-09.","User 52 will move from grid 15374 to grid 14616, at 2008-06-09 10:32:51."
+52,2008-06-07 16:09:59,2008-06-07 19:27:36,116.35298,39.989054,11857.0,15374,,
+52,2008-06-07 19:38:18,2008-06-08 03:50:16,116.354466,39.988852,29518.0,15374,"User 52 will move from grid 15374 to grid 14617, at 2008-06-09 03:55:05.","User 52 will move from grid 15374 to grid 14617, at 2008-06-09 03:55:05."
+52,2008-06-08 03:50:22,2008-06-09 03:48:07,116.352952,39.986268,86265.0,15374,"User 52 will move from grid 15374 to grid 15185, arriving around in about 2 weeks, specifically next Saturday.","User 52 will move from grid 15374 to grid 15185, at 2008-06-21 16:12:53."
+52,2008-06-09 09:31:25,2008-06-09 10:08:05,116.3603,39.985656,2200.0,15374,"User 52 will move from grid 15374 to grid 13475, arriving around in the next month.","User 52 will move from grid 15374 to grid 13475, at 2008-07-17 03:49:44."
+52,2008-06-09 12:40:25,2008-06-09 15:53:37,116.348719,39.985286,11592.0,15184,"User 52 will move from grid 15184 to grid 14617, arriving around later today, in the afternoon.","User 52 will move from grid 15184 to grid 14617, at 2008-06-10 12:16:56."
+52,2008-06-10 13:46:28,2008-06-10 15:53:50,116.348712,39.985091,7642.0,15184,"User 52 will move from grid 15184 to grid 15373, arriving around later today, in the afternoon.","User 52 will move from grid 15184 to grid 15373, at 2008-06-10 15:57:32."
+52,2008-06-12 09:11:57,2008-06-12 22:23:31,116.348567,39.985198,47494.0,15184,,
+52,2008-06-13 03:14:36,2008-06-13 04:24:11,116.348937,39.985377,4175.0,15184,"User 52 will move from grid 15184 to grid 14617, arriving around in about 2 months.","User 52 will move from grid 15184 to grid 14617, at 2008-08-27 11:10:02."
+52,2008-06-14 13:36:22,2008-06-15 06:52:31,116.34856,39.980261,62169.0,15184,"User 52 will move from grid 15184 to grid 16323, arriving around in about 2 months.","User 52 will move from grid 15184 to grid 16323, at 2008-08-22 00:59:35."
+52,2008-06-15 14:34:46,2008-06-15 15:39:06,116.34856,39.985284,3860.0,15184,"User 52 will move from grid 15184 to grid 14996, at 2008-06-20 10:30:31.","User 52 will move from grid 15184 to grid 14996, at 2008-06-20 10:30:31."
+52,2008-06-16 07:23:33,2008-06-17 04:31:23,116.348841,39.985029,76070.0,15184,"User 52 will move from grid 15184 to grid 14996, at 2008-06-25 05:34:12.","User 52 will move from grid 15184 to grid 14996, at 2008-06-25 05:34:12."
+52,2008-06-17 08:08:58,2008-06-20 01:28:32,116.349289,39.985049,235174.0,15184,"User 52 will move from grid 15184 to grid 15932, arriving around in the next month.","User 52 will move from grid 15184 to grid 15932, at 2008-07-25 01:57:31."
+52,2008-06-20 04:58:42,2008-06-20 10:06:31,116.359998,39.989956,18469.0,15374,"User 52 will move from grid 15374 to grid 27027, arriving around in about 3 months.","User 52 will move from grid 15374 to grid 27027, at 2008-10-02 04:33:02."
+52,2008-06-20 11:21:16,2008-06-20 12:02:11,116.360395,39.985658,2455.0,15374,,
+52,2008-06-20 12:24:41,2008-06-21 01:38:11,116.362374,39.991987,47610.0,15374,"User 52 will move from grid 15374 to grid 14429, at 2008-06-25 07:13:37.","User 52 will move from grid 15374 to grid 14429, at 2008-06-25 07:13:37."
+52,2008-06-25 13:00:48,2008-06-26 20:43:56,116.348969,39.985348,114188.0,15184,"User 52 will move from grid 15184 to grid 15753, arriving around in about 4 weeks, specifically next Wednesday.","User 52 will move from grid 15184 to grid 15753, at 2008-07-23 12:35:27."
+52,2008-06-29 09:27:22,2008-07-01 08:39:09,116.348612,39.985184,169907.0,15184,,
+52,2008-07-02 12:44:38,2008-07-03 06:34:27,116.349175,39.985236,64189.0,15184,"User 52 will move from grid 15184 to grid 15935, at 2008-07-20 08:13:18.","User 52 will move from grid 15184 to grid 15935, at 2008-07-20 08:13:18."
+52,2008-07-03 11:55:02,2008-07-03 15:04:22,116.348957,39.985347,11360.0,15184,"User 52 will move from grid 15184 to grid 15753, at 2008-07-17 01:16:44.","User 52 will move from grid 15184 to grid 15753, at 2008-07-17 01:16:44."
+52,2008-07-03 19:27:59,2008-07-06 09:02:11,116.360106,39.989995,221652.0,15374,"User 52 will move from grid 15374 to grid 14616, at 2008-07-09 02:34:01.","User 52 will move from grid 15374 to grid 14616, at 2008-07-09 02:34:01."
+52,2008-07-06 11:48:16,2008-07-07 06:39:13,116.353954,39.987726,67857.0,15374,,
+52,2008-07-07 06:47:48,2008-07-07 10:47:33,116.348776,39.985222,14385.0,15184,,
+52,2008-07-07 11:57:33,2008-07-07 16:41:33,116.348738,39.980245,17040.0,15184,,
+52,2008-07-07 16:43:28,2008-07-08 12:53:30,116.360376,39.99022,72602.0,15374,"User 52 will move from grid 15374 to grid 14806, at 2008-07-17 09:59:46.","User 52 will move from grid 15374 to grid 14806, at 2008-07-17 09:59:46."
+52,2008-07-08 13:11:35,2008-07-09 02:18:11,116.348584,39.98309,47196.0,15184,"User 52 will move from grid 15184 to grid 14806, arriving around in about 1 weeks, specifically next Thursday.","User 52 will move from grid 15184 to grid 14806, at 2008-07-17 11:12:56."
+52,2008-07-09 04:45:26,2008-07-09 09:53:32,116.360306,39.99021,18486.0,15374,"User 52 will move from grid 15374 to grid 15180, arriving around in about 3 months.","User 52 will move from grid 15374 to grid 15180, at 2008-10-17 06:47:35."
+52,2008-07-09 13:40:37,2008-07-09 14:27:22,116.35769,39.989431,2805.0,15374,,
+52,2008-07-09 14:41:17,2008-07-09 15:43:37,116.348867,39.980283,3740.0,15184,"User 52 will move from grid 15184 to grid 16312, arriving around in about 3 months.","User 52 will move from grid 15184 to grid 16312, at 2008-10-07 02:44:48."
+52,2008-07-09 19:00:27,2008-07-09 21:22:50,116.348982,39.985334,8543.0,15184,"User 52 will move from grid 15184 to grid 16135, arriving around in the next month.","User 52 will move from grid 15184 to grid 16135, at 2008-08-20 04:07:42."
+52,2008-07-10 01:13:55,2008-07-10 06:53:30,116.36055,39.99061,20375.0,15374,"User 52 will move from grid 15374 to grid 14996, arriving around in about 2 weeks, specifically next Saturday.","User 52 will move from grid 15374 to grid 14996, at 2008-07-26 09:12:31."
+52,2008-07-10 06:53:30,2008-07-10 09:09:43,116.351309,39.983727,8173.0,15184,"User 52 will move from grid 15184 to grid 14429, arriving around in about 2 weeks, specifically next Thursday.","User 52 will move from grid 15184 to grid 14429, at 2008-07-24 03:35:20."
+52,2008-07-10 13:49:28,2008-07-11 01:58:41,116.348733,39.985318,43753.0,15184,"User 52 will move from grid 15184 to grid 15753, arriving around in about 2 weeks, specifically next Friday.","User 52 will move from grid 15184 to grid 15753, at 2008-07-25 08:17:59."
+52,2008-07-11 13:37:01,2008-07-11 14:07:31,116.363024,39.989149,1830.0,15374,,
+52,2008-07-11 14:07:56,2008-07-15 10:47:13,116.360339,39.990204,333557.0,15374,"User 52 will move from grid 15374 to grid 14618, arriving around in about 2 days, on 2008-07-18.","User 52 will move from grid 15374 to grid 14618, at 2008-07-18 05:19:40."
+52,2008-07-15 11:35:54,2008-07-16 08:36:01,116.372133,40.000433,75607.0,15564,,
+52,2008-07-16 09:02:01,2008-07-16 13:29:02,116.348735,39.985324,16021.0,15184,"User 52 will move from grid 15184 to grid 15753, arriving around in about 5 days, on 2008-07-22.","User 52 will move from grid 15184 to grid 15753, at 2008-07-22 09:45:24."
+52,2008-07-16 13:39:47,2008-07-16 15:35:42,116.37244,40.000227,6955.0,15564,,
+52,2008-07-17 12:20:31,2008-07-18 04:59:15,116.37258,40.000369,59924.0,15564,,
+52,2008-07-18 06:24:25,2008-07-19 04:54:56,116.372262,40.000483,81031.0,15564,,
+52,2008-07-19 16:32:51,2008-07-20 04:51:23,116.372362,40.0003,44312.0,15564,"User 52 will move from grid 15564 to grid 14427, arriving around in the next month.","User 52 will move from grid 15564 to grid 14427, at 2008-09-01 12:49:03."
+52,2008-07-20 10:45:28,2008-07-21 04:18:36,116.372483,40.000393,63188.0,15564,,
+52,2008-07-21 12:46:26,2008-07-22 04:27:54,116.374257,39.998413,56488.0,15564,"User 52 will move from grid 15564 to grid 14807, at 2008-07-24 05:08:40.","User 52 will move from grid 15564 to grid 14807, at 2008-07-24 05:08:40."
+52,2008-07-23 08:33:17,2008-07-23 09:56:42,116.372189,40.000387,5005.0,15564,"User 52 will move from grid 15564 to grid 16135, at 2008-08-25 01:07:05.","User 52 will move from grid 15564 to grid 16135, at 2008-08-25 01:07:05."
+52,2008-07-23 16:03:22,2008-07-24 01:39:45,116.375466,40.001393,34583.0,15564,"User 52 will move from grid 15564 to grid 15753, arriving around in about 2 days, on 2008-07-26.","User 52 will move from grid 15564 to grid 15753, at 2008-07-26 17:38:36."
+52,2008-07-24 10:02:35,2008-07-25 00:27:41,116.37207,40.000193,51906.0,15564,,
+52,2008-07-27 09:49:27,2008-07-27 11:14:49,116.372323,40.000313,5122.0,15564,"User 52 will move from grid 15564 to grid 14427, arriving around in the next month.","User 52 will move from grid 15564 to grid 14427, at 2008-08-31 13:06:36."
+52,2008-07-29 13:18:06,2008-07-30 09:31:39,116.372107,40.000419,72813.0,15564,"User 52 will move from grid 15564 to grid 16324, arriving around in about 3 weeks, specifically next Wednesday.","User 52 will move from grid 15564 to grid 16324, at 2008-08-20 02:38:08."
+52,2008-07-30 12:09:09,2008-07-30 12:51:44,116.349176,39.984382,2555.0,15184,,
+52,2008-07-30 13:42:24,2008-07-30 22:50:12,116.372178,40.000388,32868.0,15564,"User 52 will move from grid 15564 to grid 14427, at 2008-08-18 11:38:20.","User 52 will move from grid 15564 to grid 14427, at 2008-08-18 11:38:20."
+52,2008-10-03 07:26:20,2008-10-05 09:49:28,116.372281,40.000488,181388.0,15564,"User 52 will move from grid 15564 to grid 14617, arriving around later today, in the morning.","User 52 will move from grid 15564 to grid 14617, at 2008-10-05 10:47:25."
+52,2008-10-05 14:17:52,2008-10-06 03:24:37,116.372371,40.000317,47205.0,15564,,
+52,2008-10-06 03:41:17,2008-10-06 13:57:57,116.348881,39.985309,37000.0,15184,"User 52 will move from grid 15184 to grid 16131, at 2008-10-07 00:12:10.","User 52 will move from grid 15184 to grid 16131, at 2008-10-07 00:12:10."
+52,2008-10-06 14:10:02,2008-10-07 00:05:40,116.372211,40.000207,35738.0,15564,,
+52,2008-10-07 11:42:13,2008-10-08 03:51:43,116.372213,40.000344,58170.0,15564,,
+52,2008-10-08 07:08:28,2008-10-09 10:07:38,116.372209,40.000322,97150.0,15564,"User 52 will move from grid 15564 to grid 14616, at 2008-10-09 10:17:16.","User 52 will move from grid 15564 to grid 14616, at 2008-10-09 10:17:16."

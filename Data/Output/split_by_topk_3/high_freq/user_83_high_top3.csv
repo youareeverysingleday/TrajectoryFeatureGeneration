@@ -1,0 +1,18 @@
+userID,stime,etime,lon,lat,duration,grid,context_fuzzy,context_precise
+83,2009-01-08 21:57:25,2009-01-08 22:43:55,116.395725,39.9754983,2790.0,15939,"User 83 will move from grid 15939 to grid 16130, arriving around in about 2 months.","User 83 will move from grid 15939 to grid 16130, at 2009-03-08 20:14:31."
+83,2009-01-08 22:57:04,2009-01-09 00:58:38,116.4052283,39.9791,7294.0,16129,"User 83 will move from grid 16129 to grid 16280, at 2009-01-13 10:03:21.","User 83 will move from grid 16129 to grid 16280, at 2009-01-13 10:03:21."
+83,2009-01-09 00:58:43,2009-01-09 22:49:37,116.400945,39.9794683,78654.0,16129,"User 83 will move from grid 16129 to grid 13102, arriving around in about 3 weeks, specifically next Friday.","User 83 will move from grid 16129 to grid 13102, at 2009-01-30 10:18:13."
+83,2009-01-09 23:05:03,2009-01-10 11:37:51,116.3963649,39.9754416,45168.0,15939,"User 83 will move from grid 15939 to grid 13672, arriving around in about 2 weeks, specifically next Tuesday.","User 83 will move from grid 15939 to grid 13672, at 2009-01-27 17:21:48."
+83,2009-01-10 11:51:17,2009-01-10 12:26:03,116.3013983,39.9809266,2086.0,14428,"User 83 will move from grid 14428 to grid 14805, arriving around in about 3 weeks, specifically next Friday.","User 83 will move from grid 14428 to grid 14805, at 2009-01-30 11:17:43."
+83,2009-01-10 12:26:03,2009-01-10 13:55:39,116.3014233,39.9835033,5376.0,14428,"User 83 will move from grid 14428 to grid 16118, arriving around in about 2 weeks, specifically next Monday.","User 83 will move from grid 14428 to grid 16118, at 2009-01-26 14:55:00."
+83,2009-01-13 21:51:16,2009-01-14 20:05:59,116.3957833,39.9754816,80083.0,15939,,
+83,2009-01-25 13:08:22,2009-01-26 12:19:42,116.2949616,39.9801233,83480.0,14428,"User 83 will move from grid 14428 to grid 15560, at 2009-01-26 16:54:53.","User 83 will move from grid 14428 to grid 15560, at 2009-01-26 16:54:53."
+83,2009-01-27 16:47:40,2009-01-27 17:21:48,116.3014016,39.9810266,2048.0,14428,,
+83,2009-02-03 22:30:47,2009-02-09 22:40:37,116.2999383,39.9801033,518990.0,14428,"User 83 will move from grid 14428 to grid 14618, arriving around in about 4 weeks, specifically next Sunday.","User 83 will move from grid 14428 to grid 14618, at 2009-03-08 19:09:46."
+83,2009-02-19 21:47:42,2009-02-20 09:50:23,116.2950483,39.9800666,43361.0,14428,"User 83 will move from grid 14428 to grid 14617, arriving around in about 2 weeks, specifically next Sunday.","User 83 will move from grid 14428 to grid 14617, at 2009-03-08 18:10:39."
+83,2009-02-20 22:10:44,2009-02-21 15:17:34,116.3012999,39.98422,61610.0,14428,,
+83,2009-03-05 23:39:37,2009-03-06 07:47:25,116.3957399,39.9754499,29268.0,15939,"User 83 will move from grid 15939 to grid 15559, arriving around in about 7 months.","User 83 will move from grid 15939 to grid 15559, at 2009-09-19 10:35:42."
+83,2009-03-06 08:18:55,2009-03-08 17:32:06,116.4077499,39.983435,205991.0,16129,,
+83,2009-03-08 21:04:30,2009-03-08 21:35:37,116.4024083,39.9800583,1867.0,16129,"User 83 will move from grid 16129 to grid 14994, at 2009-09-19 16:51:03.","User 83 will move from grid 16129 to grid 14994, at 2009-09-19 16:51:03."
+83,2009-03-08 21:37:23,2009-03-08 22:14:38,116.4044566,39.97993,2235.0,16129,"User 83 will move from grid 16129 to grid 17452, arriving around in about 6 months.","User 83 will move from grid 16129 to grid 17452, at 2009-09-19 12:48:25."
+83,2009-03-08 22:22:36,2009-03-09 06:29:57,116.4044616,39.9775066,29241.0,16129,,

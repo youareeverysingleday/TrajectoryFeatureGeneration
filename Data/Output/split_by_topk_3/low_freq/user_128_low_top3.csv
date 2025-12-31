@@ -1,0 +1,1027 @@
+userID,stime,etime,lon,lat,duration,grid,context_fuzzy,context_precise
+128,2007-04-15 05:39:51,2007-04-15 06:41:44,116.287583333333,40.2352666666667,3713.0,14267,"User 128 will move from grid 14267 to grid 17068, arriving around in about 3 months.","User 128 will move from grid 14267 to grid 17068, at 2007-07-22 12:38:50."
+128,2007-04-15 07:04:10,2007-04-15 08:15:58,116.25335,40.2122833333333,4308.0,13698,"User 128 will move from grid 13698 to grid 15183, at 2007-04-18 11:58:56.","User 128 will move from grid 13698 to grid 15183, at 2007-04-18 11:58:56."
+128,2007-04-18 11:58:56,2007-04-18 14:21:54,116.346966666667,39.9680333333333,8578.0,15183,"User 128 will move from grid 15183 to grid 17066, arriving around in about 12 months.","User 128 will move from grid 15183 to grid 17066, at 2008-04-05 01:20:41."
+128,2007-04-19 02:21:57,2007-04-19 13:43:29,116.333033333333,39.9784666666667,40892.0,14995,"User 128 will move from grid 14995 to grid 9556, arriving around in about 2 weeks, specifically next Saturday.","User 128 will move from grid 14995 to grid 9556, at 2007-05-05 06:07:40."
+128,2007-04-20 01:25:33,2007-04-20 15:00:50,116.333783333333,39.97565,48917.0,14994,"User 128 will move from grid 14994 to grid 14805, arriving around in about 37 months.","User 128 will move from grid 14994 to grid 14805, at 2010-04-22 13:15:54."
+128,2007-04-21 06:20:33,2007-04-21 07:31:16,116.02335,40.0698333333333,4243.0,10091,"User 128 will move from grid 10091 to grid 14816, at 2007-04-21 15:06:15.","User 128 will move from grid 10091 to grid 14816, at 2007-04-21 15:06:15."
+128,2007-04-21 07:37:48,2007-04-21 08:32:43,116.033283333333,40.0696,3295.0,10091,"User 128 will move from grid 10091 to grid 14995, at 2009-09-22 01:14:54.","User 128 will move from grid 10091 to grid 14995, at 2009-09-22 01:14:54."
+128,2007-04-21 09:55:13,2007-04-21 11:31:23,116.254333333333,39.9116333333333,5770.0,13664,"User 128 will move from grid 13664 to grid 16319, arriving around in about 20 months.","User 128 will move from grid 13664 to grid 16319, at 2008-11-28 13:14:38."
+128,2007-04-21 12:04:12,2007-04-21 13:58:04,116.420266666667,39.9678,6832.0,16317,"User 128 will move from grid 16317 to grid 14994, at 2007-06-07 01:27:38.","User 128 will move from grid 16317 to grid 14994, at 2007-06-07 01:27:38."
+128,2007-04-21 15:06:15,2007-04-22 09:52:09,116.328483333333,40.0723,67554.0,14816,"User 128 will move from grid 14816 to grid 17071, arriving around in about 13 months.","User 128 will move from grid 14816 to grid 17071, at 2008-05-14 00:57:02."
+128,2007-04-30 12:57:23,2007-05-04 23:58:06,116.2948,40.0615333333333,385243.0,14437,"User 128 will move from grid 14437 to grid 13892, arriving around in about 25 months.","User 128 will move from grid 14437 to grid 13892, at 2009-05-27 08:55:49."
+128,2007-05-05 02:21:37,2007-05-05 03:04:35,116.22935,40.1855833333333,2578.0,13317,"User 128 will move from grid 13317 to grid 28065, arriving around in about 30 months.","User 128 will move from grid 13317 to grid 28065, at 2009-10-17 03:11:40."
+128,2007-05-05 03:48:18,2007-05-05 05:31:23,116.006933333333,40.3547833333333,6185.0,9745,"User 128 will move from grid 9745 to grid 14994, arriving around in about 12 months.","User 128 will move from grid 9745 to grid 14994, at 2008-04-24 13:08:19."
+128,2007-05-05 05:31:23,2007-05-05 06:06:42,116.0067,40.3542333333333,2119.0,9744,"User 128 will move from grid 9744 to grid 14995, arriving around in about 4 weeks, specifically next Monday.","User 128 will move from grid 9744 to grid 14995, at 2007-06-04 01:32:37."
+128,2007-05-05 06:07:40,2007-05-06 03:34:06,115.994916666667,40.3587166666667,77186.0,9556,"User 128 will move from grid 9556 to grid 17243, arriving around in about 26 months.","User 128 will move from grid 9556 to grid 17243, at 2009-06-21 04:10:12."
+128,2007-05-06 05:30:29,2007-05-06 06:07:30,116.3859,39.98665,2221.0,15752,"User 128 will move from grid 15752 to grid 12728, arriving around in about 13 months.","User 128 will move from grid 15752 to grid 12728, at 2008-05-16 07:55:20."
+128,2007-05-06 06:15:43,2007-05-06 07:21:07,116.383966666667,39.9845333333333,3924.0,15751,"User 128 will move from grid 15751 to grid 17257, arriving around in about 13 months.","User 128 will move from grid 15751 to grid 17257, at 2008-05-20 10:44:51."
+128,2007-05-06 08:15:00,2007-05-06 08:46:27,116.385333333333,40.0321833333333,1887.0,15757,"User 128 will move from grid 15757 to grid 15555, arriving around in about 12 months.","User 128 will move from grid 15757 to grid 15555, at 2008-04-26 14:52:43."
+128,2007-05-27 04:07:29,2007-05-27 05:10:12,116.111033333333,40.2315166666667,3763.0,11432,"User 128 will move from grid 11432 to grid 16503, arriving around in about 23 months.","User 128 will move from grid 11432 to grid 16503, at 2009-04-11 04:24:35."
+128,2007-05-27 10:08:07,2007-05-27 10:52:06,116.315683333333,40.0789833333333,2639.0,14628,"User 128 will move from grid 14628 to grid 18590, arriving around in about 14 months.","User 128 will move from grid 14628 to grid 18590, at 2008-07-06 07:24:44."
+128,2007-05-29 01:36:16,2007-05-29 14:41:18,116.331866666667,39.9757,47102.0,14994,"User 128 will move from grid 14994 to grid 17257, arriving around in about 11 months.","User 128 will move from grid 14994 to grid 17257, at 2008-04-26 20:53:45."
+128,2007-05-30 11:45:57,2007-05-31 00:59:25,116.347033333333,39.96795,47608.0,15183,"User 128 will move from grid 15183 to grid 14994, arriving around in about 16 months.","User 128 will move from grid 15183 to grid 14994, at 2008-09-10 02:29:35."
+128,2007-05-31 01:41:56,2007-05-31 13:16:08,116.333466666667,39.9754166666667,41652.0,14994,"User 128 will move from grid 14994 to grid 13891, arriving around in about 20 months.","User 128 will move from grid 14994 to grid 13891, at 2009-01-10 01:52:09."
+128,2007-06-01 01:01:33,2007-06-01 02:29:25,116.453433333333,39.9454333333333,5272.0,16881,"User 128 will move from grid 16881 to grid 14805, arriving around in about 11 months.","User 128 will move from grid 16881 to grid 14805, at 2008-04-24 02:14:12."
+128,2007-06-01 02:51:26,2007-06-01 14:47:32,116.327716666667,39.9742666666667,42966.0,14805,"User 128 will move from grid 14805 to grid 20737, arriving around in about 25 months.","User 128 will move from grid 14805 to grid 20737, at 2009-06-14 05:12:46."
+128,2007-06-03 08:57:18,2007-06-04 01:03:53,116.3676,40.05195,57995.0,15570,"User 128 will move from grid 15570 to grid 14627, arriving around in about 37 months.","User 128 will move from grid 15570 to grid 14627, at 2010-06-24 12:08:00."
+128,2007-06-04 01:32:37,2007-06-04 13:08:36,116.33265,39.9798833333333,41759.0,14995,"User 128 will move from grid 14995 to grid 17257, arriving around in about 12 months.","User 128 will move from grid 14995 to grid 17257, at 2008-05-19 11:44:56."
+128,2007-06-05 01:42:58,2007-06-05 05:45:00,116.33335,39.9777666666667,14522.0,14995,"User 128 will move from grid 14995 to grid 14438, arriving around in about 30 months.","User 128 will move from grid 14995 to grid 14438, at 2009-11-24 01:54:14."
+128,2007-06-05 06:30:43,2007-06-05 13:07:41,116.332116666667,39.97155,23818.0,14994,"User 128 will move from grid 14994 to grid 14994, at 2007-06-27 01:52:15.","User 128 will move from grid 14994 to grid 14994, at 2007-06-27 01:52:15."
+128,2007-06-06 01:49:17,2007-06-06 13:17:31,116.333083333333,39.9782333333333,41294.0,14995,"User 128 will move from grid 14995 to grid 20925, arriving around in about 25 months.","User 128 will move from grid 14995 to grid 20925, at 2009-06-14 03:03:18."
+128,2007-06-07 01:27:38,2007-06-07 05:47:20,116.332983333333,39.9753666666667,15582.0,14994,"User 128 will move from grid 14994 to grid 18028, arriving around in about 14 months.","User 128 will move from grid 14994 to grid 18028, at 2008-07-19 05:23:55."
+128,2007-06-07 07:07:02,2007-06-07 13:35:06,116.3343,39.9751666666667,23284.0,14994,"User 128 will move from grid 14994 to grid 15554, arriving around in about 10 months.","User 128 will move from grid 14994 to grid 15554, at 2008-04-05 08:34:15."
+128,2007-06-07 13:35:06,2007-06-08 01:22:48,116.327716666667,40.0725,42462.0,14816,"User 128 will move from grid 14816 to grid 14994, arriving around in about 20 months.","User 128 will move from grid 14816 to grid 14994, at 2009-02-05 01:52:59."
+128,2007-06-21 01:46:47,2007-06-21 05:33:24,116.3318,39.9753166666667,13597.0,14994,"User 128 will move from grid 14994 to grid 17257, arriving around in about 11 months.","User 128 will move from grid 14994 to grid 17257, at 2008-05-21 10:30:16."
+128,2007-06-21 05:33:24,2007-06-25 01:39:53,116.32795,40.0709666666667,331589.0,14816,"User 128 will move from grid 14816 to grid 14816, arriving around in about 14 months.","User 128 will move from grid 14816 to grid 14816, at 2008-08-28 13:16:00."
+128,2007-06-25 01:44:18,2007-06-25 10:23:37,116.310183333333,40.0697666666667,31159.0,14627,"User 128 will move from grid 14627 to grid 14050, arriving around in about 14 months.","User 128 will move from grid 14627 to grid 14050, at 2008-08-05 11:46:54."
+128,2007-06-25 10:25:23,2007-06-26 01:02:24,116.289633333333,40.02295,52621.0,14244,"User 128 will move from grid 14244 to grid 16131, arriving around in about 17 months.","User 128 will move from grid 14244 to grid 16131, at 2008-11-08 01:59:26."
+128,2007-06-26 01:32:11,2007-06-26 14:21:06,116.33325,39.9754666666667,46135.0,14994,"User 128 will move from grid 14994 to grid 14994, arriving around in about 29 months.","User 128 will move from grid 14994 to grid 14994, at 2009-11-26 02:18:26."
+128,2007-06-27 01:52:15,2007-06-27 11:57:52,116.333666666667,39.9754,36337.0,14994,"User 128 will move from grid 14994 to grid 18975, arriving around in about 4 weeks, specifically next Wednesday.","User 128 will move from grid 14994 to grid 18975, at 2007-07-25 00:48:14."
+128,2007-06-27 12:01:25,2007-06-27 14:51:19,116.33845,39.9661166666667,10194.0,14993,"User 128 will move from grid 14993 to grid 14816, at 2007-07-03 01:41:55.","User 128 will move from grid 14993 to grid 14816, at 2007-07-03 01:41:55."
+128,2007-06-27 14:51:19,2007-06-28 01:25:18,116.327716666667,40.0751666666667,38039.0,14816,"User 128 will move from grid 14816 to grid 15184, at 2009-03-22 04:13:13.","User 128 will move from grid 14816 to grid 15184, at 2009-03-22 04:13:13."
+128,2007-06-28 01:52:18,2007-06-29 15:10:39,116.333683333333,39.9754333333333,134301.0,14994,"User 128 will move from grid 14994 to grid 14994, arriving around in about 34 months.","User 128 will move from grid 14994 to grid 14994, at 2010-04-11 13:02:42."
+128,2007-07-01 07:54:22,2007-07-01 11:15:40,116.309816666667,39.9884833333333,12078.0,14618,"User 128 will move from grid 14618 to grid 15185, arriving around in about 12 months.","User 128 will move from grid 14618 to grid 15185, at 2008-07-11 11:00:09."
+128,2007-07-03 01:41:55,2007-07-06 12:55:12,116.321583333333,40.0693,299597.0,14816,"User 128 will move from grid 14816 to grid 15183, arriving around in about 2 weeks, specifically next Saturday.","User 128 will move from grid 14816 to grid 15183, at 2007-07-21 11:05:31."
+128,2007-07-06 12:55:12,2007-07-06 22:26:29,116.329383333333,39.9751833333333,34277.0,14994,"User 128 will move from grid 14994 to grid 14994, arriving around in about 16 months.","User 128 will move from grid 14994 to grid 14994, at 2008-10-22 02:19:03."
+128,2007-07-07 01:28:19,2007-07-07 02:03:05,115.972383333333,40.4569,2086.0,9189,"User 128 will move from grid 9189 to grid 12555, arriving around in about 13 months.","User 128 will move from grid 9189 to grid 12555, at 2008-08-12 10:17:13."
+128,2007-07-07 03:45:43,2007-07-07 04:19:14,116.1181,40.6097,2011.0,11663,"User 128 will move from grid 11663 to grid 14994, at 2008-05-06 23:56:37.","User 128 will move from grid 11663 to grid 14994, at 2008-05-06 23:56:37."
+128,2007-07-07 04:54:10,2007-07-07 06:36:01,116.1827,40.65175,6111.0,12612,"User 128 will move from grid 12612 to grid 17069, arriving around in about 10 months.","User 128 will move from grid 12612 to grid 17069, at 2008-05-15 13:31:47."
+128,2007-07-07 10:17:02,2007-07-07 11:08:27,116.6029,40.7183166666667,3085.0,19424,"User 128 will move from grid 19424 to grid 15183, at 2007-07-29 13:17:08.","User 128 will move from grid 19424 to grid 15183, at 2007-07-29 13:17:08."
+128,2007-07-07 11:14:56,2007-07-08 00:16:31,116.631366666667,40.73095,46895.0,19803,"User 128 will move from grid 19803 to grid 17255, arriving around in about 11 months.","User 128 will move from grid 19803 to grid 17255, at 2008-05-19 00:31:32."
+128,2007-07-08 03:44:04,2007-07-08 05:14:37,116.784433333333,40.6022833333333,5433.0,22246,"User 128 will move from grid 22246 to grid 14822, arriving around in about 10 months.","User 128 will move from grid 22246 to grid 14822, at 2008-05-11 05:47:43."
+128,2007-07-08 05:52:07,2007-07-08 06:49:57,116.810416666667,40.5184166666667,3470.0,22804,"User 128 will move from grid 22804 to grid 14816, arriving around in about 13 months.","User 128 will move from grid 22804 to grid 14816, at 2008-08-06 11:38:53."
+128,2007-07-21 05:08:52,2007-07-21 11:05:31,116.3453,39.9672333333333,21399.0,15182,"User 128 will move from grid 15182 to grid 9353, at 2008-05-10 08:21:59.","User 128 will move from grid 15182 to grid 9353, at 2008-05-10 08:21:59."
+128,2007-07-21 11:05:31,2007-07-21 13:13:26,116.34475,39.9711166666667,7675.0,15183,"User 128 will move from grid 15183 to grid 17257, arriving around in about 10 months.","User 128 will move from grid 15183 to grid 17257, at 2008-05-28 11:25:28."
+128,2007-07-21 13:43:28,2007-07-22 04:13:35,116.344616666667,39.97095,52207.0,15183,"User 128 will move from grid 15183 to grid 15941, arriving around in about 9 months.","User 128 will move from grid 15183 to grid 15941, at 2008-04-24 06:38:26."
+128,2007-07-22 04:17:48,2007-07-22 06:23:51,116.312983333333,39.97115,7563.0,14616,"User 128 will move from grid 14616 to grid 14989, arriving around in about 12 months.","User 128 will move from grid 14616 to grid 14989, at 2008-07-03 10:50:50."
+128,2007-07-22 06:23:51,2007-07-22 08:22:43,116.32735,39.975,7132.0,14805,"User 128 will move from grid 14805 to grid 6494, arriving around in about 11 months.","User 128 will move from grid 14805 to grid 6494, at 2008-06-28 06:58:36."
+128,2007-07-22 09:56:37,2007-07-22 10:41:52,116.407783333333,40.02825,2715.0,16134,"User 128 will move from grid 16134 to grid 15554, arriving around in about 25 months.","User 128 will move from grid 16134 to grid 15554, at 2009-08-01 09:25:51."
+128,2007-07-22 10:59:28,2007-07-22 12:21:48,116.344516666667,39.9665833333333,4940.0,15182,"User 128 will move from grid 15182 to grid 14438, arriving around in about 19 months.","User 128 will move from grid 15182 to grid 14438, at 2009-02-20 01:53:54."
+128,2007-07-22 12:38:50,2007-07-24 00:28:36,116.466616666667,39.9292333333333,128986.0,17068,"User 128 will move from grid 17068 to grid 18218, arriving around in about 9 months.","User 128 will move from grid 17068 to grid 18218, at 2008-04-26 00:55:35."
+128,2007-07-24 00:40:07,2007-07-24 01:10:59,116.471783333333,39.908,1852.0,17255,"User 128 will move from grid 17255 to grid 14994, arriving around in about 14 months.","User 128 will move from grid 17255 to grid 14994, at 2008-09-24 11:24:27."
+128,2007-07-24 01:10:59,2007-07-24 11:05:33,116.403033333333,39.94955,35674.0,16126,"User 128 will move from grid 16126 to grid 16500, arriving around in about 9 months.","User 128 will move from grid 16126 to grid 16500, at 2008-04-29 19:01:38."
+128,2007-07-24 11:09:51,2007-07-24 12:52:45,116.401816666667,39.9529166666667,6174.0,16126,"User 128 will move from grid 16126 to grid 14816, arriving around in about 22 months.","User 128 will move from grid 16126 to grid 14816, at 2009-05-17 05:05:32."
+128,2007-07-24 13:11:21,2007-07-24 23:42:05,116.4664,39.92945,37844.0,17068,"User 128 will move from grid 17068 to grid 17436, arriving around in about 16 months.","User 128 will move from grid 17068 to grid 17436, at 2008-11-08 03:59:38."
+128,2007-07-25 00:03:53,2007-07-25 00:48:14,116.5835,40.0792666666667,2661.0,18975,"User 128 will move from grid 18975 to grid 15752, arriving around in about 10 months.","User 128 will move from grid 18975 to grid 15752, at 2008-05-23 14:42:50."
+128,2007-07-25 00:48:14,2007-07-28 22:59:46,116.57825,40.0789666666667,339092.0,18975,"User 128 will move from grid 18975 to grid 14805, arriving around in about 10 months.","User 128 will move from grid 18975 to grid 14805, at 2008-05-15 01:58:49."
+128,2007-07-28 23:28:32,2007-07-29 01:22:12,116.344766666667,39.9665,6820.0,15182,"User 128 will move from grid 15182 to grid 14994, arriving around in about 9 months.","User 128 will move from grid 15182 to grid 14994, at 2008-04-27 08:00:08."
+128,2007-07-29 01:22:12,2007-07-29 13:12:28,116.333283333333,39.9665166666667,42616.0,14993,"User 128 will move from grid 14993 to grid 14993, arriving around in about 9 months.","User 128 will move from grid 14993 to grid 14993, at 2008-05-01 02:44:02."
+128,2007-07-29 13:17:08,2007-07-29 13:48:17,116.34685,39.9681333333333,1869.0,15183,"User 128 will move from grid 15183 to grid 16880, arriving around in about 9 months.","User 128 will move from grid 15183 to grid 16880, at 2008-04-26 20:10:25."
+128,2007-07-29 13:49:44,2007-07-29 16:26:50,116.3278,39.9748333333333,9426.0,14805,"User 128 will move from grid 14805 to grid 4988, at 2008-06-28 03:31:52.","User 128 will move from grid 14805 to grid 4988, at 2008-06-28 03:31:52."
+128,2007-07-29 16:28:27,2007-07-30 01:59:16,116.344816666667,39.971,34249.0,15183,"User 128 will move from grid 15183 to grid 14994, arriving around in about 24 months.","User 128 will move from grid 15183 to grid 14994, at 2009-07-29 03:33:59."
+128,2007-11-28 13:12:25,2007-11-28 17:12:37,116.2066,39.9669899,14412.0,12914,"User 128 will move from grid 12914 to grid 15932, arriving around in about 4 months.","User 128 will move from grid 12914 to grid 15932, at 2008-04-05 06:09:57."
+128,2008-04-05 01:20:41,2008-04-05 03:20:53,116.465183333333,39.9073,7212.0,17066,"User 128 will move from grid 17066 to grid 14627, arriving around in about 8 months.","User 128 will move from grid 17066 to grid 14627, at 2008-11-29 01:37:55."
+128,2008-04-05 03:45:39,2008-04-05 05:31:18,116.40535,39.9082833333333,6339.0,16121,"User 128 will move from grid 16121 to grid 15932, arriving around in about 3 weeks, specifically next Thursday.","User 128 will move from grid 16121 to grid 15932, at 2008-04-24 08:24:24."
+128,2008-04-05 06:09:57,2008-04-05 08:30:38,116.391066666667,39.9080666666667,8441.0,15932,"User 128 will move from grid 15932 to grid 14994, arriving around in about 3 weeks, specifically next Friday.","User 128 will move from grid 15932 to grid 14994, at 2008-04-25 01:46:37."
+128,2008-04-05 08:34:15,2008-04-05 09:05:57,116.3679,39.9080333333333,1902.0,15554,"User 128 will move from grid 15554 to grid 14816, arriving around in about 12 months.","User 128 will move from grid 15554 to grid 14816, at 2009-03-27 02:41:31."
+128,2008-04-24 02:14:12,2008-04-24 06:26:40,116.3275399,39.9755,15148.0,14805,"User 128 will move from grid 14805 to grid 14994, arriving around in about 6 months.","User 128 will move from grid 14805 to grid 14994, at 2008-10-06 07:55:32."
+128,2008-04-24 06:38:26,2008-04-24 07:35:37,116.3956933,39.9887016,3431.0,15941,"User 128 will move from grid 15941 to grid 15941, arriving around in about 4 weeks, specifically next Friday.","User 128 will move from grid 15941 to grid 15941, at 2008-05-23 10:10:38."
+128,2008-04-24 08:24:24,2008-04-24 12:56:25,116.3899616,39.9062366,16321.0,15932,"User 128 will move from grid 15932 to grid 15395, arriving around in about 20 months.","User 128 will move from grid 15932 to grid 15395, at 2009-12-19 07:02:45."
+128,2008-04-24 13:08:19,2008-04-24 13:43:44,116.3326933,39.9753683,2125.0,14994,"User 128 will move from grid 14994 to grid 13848, at 2008-07-07 05:44:06.","User 128 will move from grid 14994 to grid 13848, at 2008-07-07 05:44:06."
+128,2008-04-24 14:07:56,2008-04-25 01:23:43,116.3283249,40.0731266,40547.0,14816,"User 128 will move from grid 14816 to grid 8800, arriving around in about 3 weeks, specifically next Sunday.","User 128 will move from grid 14816 to grid 8800, at 2008-05-18 06:33:24."
+128,2008-04-25 01:46:37,2008-04-25 10:12:42,116.33347,39.9753316,30365.0,14994,"User 128 will move from grid 14994 to grid 8127, at 2008-05-01 05:04:28.","User 128 will move from grid 14994 to grid 8127, at 2008-05-01 05:04:28."
+128,2008-04-25 11:17:18,2008-04-25 13:40:29,116.3269016,39.9891299,8591.0,14807,"User 128 will move from grid 14807 to grid 15931, arriving around in about 4 months.","User 128 will move from grid 14807 to grid 15931, at 2008-08-24 11:56:50."
+128,2008-04-26 00:55:35,2008-04-26 08:26:54,116.5391833,40.0724233,27079.0,18218,"User 128 will move from grid 18218 to grid 18401, arriving around in the next month.","User 128 will move from grid 18218 to grid 18401, at 2008-05-30 07:40:23."
+128,2008-04-26 13:24:08,2008-04-26 14:48:24,116.3835716,39.9214866,5056.0,15744,"User 128 will move from grid 15744 to grid 11432, arriving around in about 27 months.","User 128 will move from grid 15744 to grid 11432, at 2010-07-18 05:22:52."
+128,2008-04-26 14:52:43,2008-04-26 19:51:47,116.3676083,39.91652,17944.0,15555,"User 128 will move from grid 15555 to grid 14995, arriving around in about 3 weeks, specifically next Friday.","User 128 will move from grid 15555 to grid 14995, at 2008-05-16 02:08:34."
+128,2008-04-26 20:10:25,2008-04-26 20:53:45,116.4467083,39.93238,2600.0,16880,"User 128 will move from grid 16880 to grid 16138, arriving around in about 3 weeks, specifically next Saturday.","User 128 will move from grid 16880 to grid 16138, at 2008-05-17 11:22:43."
+128,2008-04-26 20:53:45,2008-04-27 01:21:09,116.4708816,39.927265,16044.0,17257,"User 128 will move from grid 17257 to grid 16882, arriving around in about 3 weeks, specifically next Thursday.","User 128 will move from grid 17257 to grid 16882, at 2008-05-15 04:49:44."
+128,2008-04-27 04:05:03,2008-04-27 06:56:36,116.343735,40.0776216,10293.0,15195,"User 128 will move from grid 15195 to grid 14815, arriving around in about 27 months.","User 128 will move from grid 15195 to grid 14815, at 2010-07-05 12:55:27."
+128,2008-04-27 06:56:36,2008-04-27 07:40:16,116.3352516,40.0773583,2620.0,15006,"User 128 will move from grid 15006 to grid 16500, arriving around in about 3 days, on 2008-04-30.","User 128 will move from grid 15006 to grid 16500, at 2008-04-30 15:28:54."
+128,2008-04-27 08:00:08,2008-04-27 09:24:35,116.33279,39.9753016,5067.0,14994,"User 128 will move from grid 14994 to grid 15182, arriving around in about 3 days, on 2008-04-30.","User 128 will move from grid 14994 to grid 15182, at 2008-04-30 21:43:16."
+128,2008-04-27 10:04:42,2008-04-27 10:38:38,116.2736366,39.9812283,2036.0,14050,"User 128 will move from grid 14050 to grid 15011, arriving around in about 12 months.","User 128 will move from grid 14050 to grid 15011, at 2009-04-18 02:48:12."
+128,2008-04-27 10:50:37,2008-04-27 14:24:28,116.327745,39.9711649,12831.0,14805,"User 128 will move from grid 14805 to grid 17257, at 2008-04-29 21:54:29.","User 128 will move from grid 14805 to grid 17257, at 2008-04-29 21:54:29."
+128,2008-04-29 01:57:19,2008-04-29 08:46:58,116.3329399,39.9799533,24579.0,14995,"User 128 will move from grid 14995 to grid 14995, arriving around in about 21 months.","User 128 will move from grid 14995 to grid 14995, at 2010-01-19 02:26:23."
+128,2008-04-29 09:08:22,2008-04-29 18:42:34,116.4622583,39.95518,34452.0,17071,"User 128 will move from grid 17071 to grid 16137, arriving around in about 2 weeks, specifically next Wednesday.","User 128 will move from grid 17071 to grid 16137, at 2008-05-14 11:06:20."
+128,2008-04-29 19:01:38,2008-04-29 21:27:09,116.4282216,39.9213849,8731.0,16500,"User 128 will move from grid 16500 to grid 12728, arriving around in about 2 weeks, specifically next Friday.","User 128 will move from grid 16500 to grid 12728, at 2008-05-16 06:13:51."
+128,2008-04-29 21:54:29,2008-04-30 01:06:22,116.471755,39.9267883,11513.0,17257,"User 128 will move from grid 17257 to grid 15006, arriving around in about 20 months.","User 128 will move from grid 17257 to grid 15006, at 2010-01-01 06:56:35."
+128,2008-04-30 01:21:08,2008-04-30 09:04:28,116.3150266,40.0693,27800.0,14627,"User 128 will move from grid 14627 to grid 17069, at 2008-05-12 08:50:31.","User 128 will move from grid 14627 to grid 17069, at 2008-05-12 08:50:31."
+128,2008-04-30 09:50:25,2008-04-30 10:47:08,116.4291283,39.9175682,3403.0,16500,"User 128 will move from grid 16500 to grid 17257, at 2008-05-26 11:09:54.","User 128 will move from grid 16500 to grid 17257, at 2008-05-26 11:09:54."
+128,2008-04-30 11:21:03,2008-04-30 12:03:20,116.3473366,39.9170483,2537.0,15177,"User 128 will move from grid 15177 to grid 14995, arriving around in about 6 months.","User 128 will move from grid 15177 to grid 14995, at 2008-10-31 02:20:53."
+128,2008-04-30 12:10:46,2008-04-30 14:56:33,116.3606866,39.9095833,9947.0,15365,"User 128 will move from grid 15365 to grid 14816, arriving around in about 28 months.","User 128 will move from grid 15365 to grid 14816, at 2010-08-21 07:23:47."
+128,2008-04-30 15:28:54,2008-04-30 21:21:23,116.42911,39.9192716,21149.0,16500,"User 128 will move from grid 16500 to grid 14994, arriving around in about 29 months.","User 128 will move from grid 16500 to grid 14994, at 2010-09-21 01:48:03."
+128,2008-04-30 21:43:16,2008-05-01 02:36:31,116.3483766,39.9665499,17595.0,15182,"User 128 will move from grid 15182 to grid 15557, at 2011-01-02 10:13:44.","User 128 will move from grid 15182 to grid 15557, at 2011-01-02 10:13:44."
+128,2008-05-01 02:44:02,2008-05-01 03:27:08,116.3368099,39.965905,2586.0,14993,"User 128 will move from grid 14993 to grid 14994, arriving around in about 11 months.","User 128 will move from grid 14993 to grid 14994, at 2009-04-01 01:29:14."
+128,2008-05-01 05:04:28,2008-05-03 10:44:23,115.9149299,39.4027133,193195.0,8127,"User 128 will move from grid 8127 to grid 15183, arriving around in about 16 months.","User 128 will move from grid 8127 to grid 15183, at 2009-08-12 11:54:04."
+128,2008-05-06 23:56:37,2008-05-07 11:24:40,116.3328233,39.9753933,41283.0,14994,"User 128 will move from grid 14994 to grid 14994, arriving around in about 2 months.","User 128 will move from grid 14994 to grid 14994, at 2008-06-30 01:53:09."
+128,2008-05-08 02:24:02,2008-05-09 07:32:44,116.3324466,39.9755866,104922.0,14994,"User 128 will move from grid 14994 to grid 14994, arriving around in about 4 months.","User 128 will move from grid 14994 to grid 14994, at 2008-09-19 01:48:30."
+128,2008-05-09 09:01:22,2008-05-09 13:58:48,116.4665499,39.9322966,17846.0,17069,"User 128 will move from grid 17069 to grid 15558, arriving around in about 15 months.","User 128 will move from grid 17069 to grid 15558, at 2009-08-01 08:40:51."
+128,2008-05-10 08:21:59,2008-05-10 10:04:26,115.9818183,40.2320766,6147.0,9353,"User 128 will move from grid 9353 to grid 17069, arriving around in about 2 weeks, specifically next Saturday.","User 128 will move from grid 9353 to grid 17069, at 2008-05-24 07:59:59."
+128,2008-05-10 14:38:42,2008-05-11 05:13:34,116.4772433,39.9324749,52492.0,17258,"User 128 will move from grid 17258 to grid 14809, arriving around in about 24 months.","User 128 will move from grid 17258 to grid 14809, at 2010-04-24 03:51:45."
+128,2008-05-11 05:47:43,2008-05-11 06:30:56,116.325035,40.1276683,2593.0,14822,"User 128 will move from grid 14822 to grid 15006, at 2008-08-23 11:56:00.","User 128 will move from grid 14822 to grid 15006, at 2008-08-23 11:56:00."
+128,2008-05-11 10:02:54,2008-05-12 00:53:12,116.4670533,39.92613,53418.0,17068,"User 128 will move from grid 17068 to grid 14994, arriving around in about 14 months.","User 128 will move from grid 17068 to grid 14994, at 2009-06-29 00:09:24."
+128,2008-05-12 08:50:31,2008-05-12 13:47:09,116.4663899,39.9325966,17798.0,17069,"User 128 will move from grid 17069 to grid 17255, arriving around in about 1 weeks, specifically next Friday.","User 128 will move from grid 17069 to grid 17255, at 2008-05-23 00:50:30."
+128,2008-05-13 01:47:08,2008-05-13 04:13:11,116.3331516,39.97532,8763.0,14994,"User 128 will move from grid 14994 to grid 15383, at 2008-08-23 04:00:21.","User 128 will move from grid 14994 to grid 15383, at 2008-08-23 04:00:21."
+128,2008-05-13 04:36:52,2008-05-13 14:24:52,116.454595,39.9544149,35280.0,16882,"User 128 will move from grid 16882 to grid 14994, arriving around in about 2 months.","User 128 will move from grid 16882 to grid 14994, at 2008-07-07 09:49:33."
+128,2008-05-13 14:28:05,2008-05-14 00:50:44,116.4682199,39.93496,37359.0,17069,"User 128 will move from grid 17069 to grid 14995, arriving around in about 3 months.","User 128 will move from grid 17069 to grid 14995, at 2008-07-29 02:21:16."
+128,2008-05-14 00:57:02,2008-05-14 01:31:04,116.4620683,39.9532583,2042.0,17071,"User 128 will move from grid 17071 to grid 14994, arriving around in about 27 months.","User 128 will move from grid 17071 to grid 14994, at 2010-08-05 01:30:12."
+128,2008-05-14 01:56:22,2008-05-14 10:11:15,116.3328799,39.9795166,29693.0,14995,"User 128 will move from grid 14995 to grid 15374, arriving around in about 14 months.","User 128 will move from grid 14995 to grid 15374, at 2009-07-21 09:34:09."
+128,2008-05-14 11:06:20,2008-05-14 14:21:32,116.4075683,40.0521749,11712.0,16137,"User 128 will move from grid 16137 to grid 14994, arriving around in about 20 months.","User 128 will move from grid 16137 to grid 14994, at 2010-01-05 02:02:12."
+128,2008-05-14 14:24:59,2008-05-15 00:42:42,116.4679366,39.9349649,37063.0,17069,"User 128 will move from grid 17069 to grid 14994, arriving around in about 25 months.","User 128 will move from grid 17069 to grid 14994, at 2010-05-31 12:43:33."
+128,2008-05-15 01:58:49,2008-05-15 04:30:34,116.32771,39.9722999,9105.0,14805,"User 128 will move from grid 14805 to grid 14249, arriving around in about 2 days, on 2008-05-18.","User 128 will move from grid 14805 to grid 14249, at 2008-05-18 00:34:00."
+128,2008-05-15 04:49:44,2008-05-15 12:29:42,116.4547883,39.9542199,27598.0,16882,"User 128 will move from grid 16882 to grid 14995, arriving around in about 20 months.","User 128 will move from grid 16882 to grid 14995, at 2009-12-24 02:32:45."
+128,2008-05-15 13:31:47,2008-05-16 01:02:29,116.4679366,39.9349133,41442.0,17069,"User 128 will move from grid 17069 to grid 17071, arriving around later today, late at night.","User 128 will move from grid 17069 to grid 17071, at 2008-05-16 01:07:02."
+128,2008-05-16 01:07:02,2008-05-16 01:44:15,116.461995,39.9531733,2233.0,17071,"User 128 will move from grid 17071 to grid 14422, arriving around in about 4 months.","User 128 will move from grid 17071 to grid 14422, at 2008-09-22 05:23:52."
+128,2008-05-16 02:08:34,2008-05-16 05:40:00,116.3335999,39.9787449,12686.0,14995,"User 128 will move from grid 14995 to grid 15941, at 2008-05-23 11:14:55.","User 128 will move from grid 14995 to grid 15941, at 2008-05-23 11:14:55."
+128,2008-05-16 06:13:51,2008-05-16 07:54:47,116.1987383,39.9890266,6056.0,12728,"User 128 will move from grid 12728 to grid 15554, at 2008-05-16 11:11:35.","User 128 will move from grid 12728 to grid 15554, at 2008-05-16 11:11:35."
+128,2008-05-16 07:55:20,2008-05-16 09:35:41,116.1963,39.9890483,6021.0,12728,"User 128 will move from grid 12728 to grid 17255, arriving around in about 2 weeks, specifically next Wednesday.","User 128 will move from grid 12728 to grid 17255, at 2008-05-28 00:23:09."
+128,2008-05-16 11:11:35,2008-05-16 13:32:38,116.3720116,39.9059683,8463.0,15554,"User 128 will move from grid 15554 to grid 17076, at 2009-07-03 11:01:53.","User 128 will move from grid 15554 to grid 17076, at 2009-07-03 11:01:53."
+128,2008-05-17 04:50:38,2008-05-17 08:48:30,116.471171,39.927439,14272.0,17257,"User 128 will move from grid 17257 to grid 16689, arriving around in about 23 months.","User 128 will move from grid 17257 to grid 16689, at 2010-03-26 09:36:26."
+128,2008-05-17 11:22:43,2008-05-17 14:17:22,116.4027566,40.0610666,10479.0,16138,"User 128 will move from grid 16138 to grid 14816, arriving around in about 7 months.","User 128 will move from grid 16138 to grid 14816, at 2008-12-15 12:07:52."
+128,2008-05-18 00:01:00,2008-05-18 00:32:00,116.2871307,40.0689168,1860.0,14249,"User 128 will move from grid 14249 to grid 16693, arriving around in about 24 months.","User 128 will move from grid 14249 to grid 16693, at 2010-05-22 07:49:04."
+128,2008-05-18 00:34:00,2008-05-18 02:22:20,116.2871876,40.0722189,6500.0,14249,"User 128 will move from grid 14249 to grid 15939, arriving around in about 2 months.","User 128 will move from grid 14249 to grid 15939, at 2008-07-07 04:05:22."
+128,2008-05-18 04:10:01,2008-05-18 04:54:34,116.0068299,40.3548133,2673.0,9745,"User 128 will move from grid 9745 to grid 14803, arriving around in about 2 months.","User 128 will move from grid 9745 to grid 14803, at 2008-07-08 10:44:33."
+128,2008-05-18 04:54:34,2008-05-18 06:07:20,116.0136533,40.3577883,4366.0,9934,"User 128 will move from grid 9934 to grid 14805, arriving around in about 9 months.","User 128 will move from grid 9934 to grid 14805, at 2009-02-11 05:58:12."
+128,2008-05-18 06:33:24,2008-05-18 07:36:19,115.9477766,40.3613183,3775.0,8800,"User 128 will move from grid 8800 to grid 14994, arriving around in about 4 months.","User 128 will move from grid 8800 to grid 14994, at 2008-09-03 01:45:38."
+128,2008-05-18 08:31:15,2008-05-19 00:20:39,116.3016316,40.0728266,56964.0,14438,"User 128 will move from grid 14438 to grid 14438, arriving around in about 4 months.","User 128 will move from grid 14438 to grid 14438, at 2008-09-18 01:23:56."
+128,2008-05-19 00:31:32,2008-05-19 01:36:48,116.4717633,39.908055,3916.0,17255,"User 128 will move from grid 17255 to grid 14994, arriving around in about 2 months.","User 128 will move from grid 17255 to grid 14994, at 2008-07-09 01:31:03."
+128,2008-05-19 11:44:56,2008-05-20 00:32:52,116.4721149,39.92613,46076.0,17257,"User 128 will move from grid 17257 to grid 17255, at 2008-05-20 00:34:20.","User 128 will move from grid 17257 to grid 17255, at 2008-05-20 00:34:20."
+128,2008-05-20 00:34:20,2008-05-20 10:29:49,116.4716099,39.9081133,35729.0,17255,"User 128 will move from grid 17255 to grid 14805, at 2008-05-24 06:55:13.","User 128 will move from grid 17255 to grid 14805, at 2008-05-24 06:55:13."
+128,2008-05-20 10:44:51,2008-05-21 00:26:26,116.47207,39.9261933,49295.0,17257,"User 128 will move from grid 17257 to grid 14816, at 2008-10-16 13:19:12.","User 128 will move from grid 17257 to grid 14816, at 2008-10-16 13:19:12."
+128,2008-05-21 00:38:08,2008-05-21 10:15:02,116.4718583,39.9075983,34614.0,17255,"User 128 will move from grid 17255 to grid 14608, at 2009-04-22 05:05:53.","User 128 will move from grid 17255 to grid 14608, at 2009-04-22 05:05:53."
+128,2008-05-21 10:30:16,2008-05-22 12:20:37,116.4716599,39.926185,93021.0,17257,"User 128 will move from grid 17257 to grid 16121, at 2008-05-22 13:04:42.","User 128 will move from grid 17257 to grid 16121, at 2008-05-22 13:04:42."
+128,2008-05-22 13:04:42,2008-05-22 13:36:36,116.407455,39.9065066,1914.0,16121,"User 128 will move from grid 16121 to grid 225, arriving around in about 6 months.","User 128 will move from grid 16121 to grid 225, at 2008-11-20 01:04:50."
+128,2008-05-22 13:49:49,2008-05-23 00:38:26,116.4721783,39.9261466,38917.0,17257,"User 128 will move from grid 17257 to grid 14995, arriving around in about 24 months.","User 128 will move from grid 17257 to grid 14995, at 2010-05-07 01:20:13."
+128,2008-05-23 00:50:30,2008-05-23 10:10:38,116.4714316,39.9080883,33608.0,17255,,
+128,2008-05-23 10:10:38,2008-05-23 11:14:33,116.3946649,39.9927999,3835.0,15941,,
+128,2008-05-23 11:14:55,2008-05-23 14:38:00,116.3918083,39.9910466,12185.0,15941,"User 128 will move from grid 15941 to grid 14994, arriving around in about 6 days, on 2008-05-30.","User 128 will move from grid 15941 to grid 14994, at 2008-05-30 12:47:37."
+128,2008-05-23 14:42:50,2008-05-24 02:27:06,116.3838733,39.9881199,42256.0,15752,"User 128 will move from grid 15752 to grid 17255, at 2008-05-26 00:35:20.","User 128 will move from grid 15752 to grid 17255, at 2008-05-26 00:35:20."
+128,2008-05-24 02:47:43,2008-05-24 06:15:17,116.3365583,39.966365,12454.0,14993,"User 128 will move from grid 14993 to grid 15184, arriving around in about 10 months.","User 128 will move from grid 14993 to grid 15184, at 2009-03-24 11:07:58."
+128,2008-05-24 06:55:13,2008-05-24 07:31:58,116.3250166,39.9752716,2205.0,14805,"User 128 will move from grid 14805 to grid 14994, arriving around in about 23 months.","User 128 will move from grid 14805 to grid 14994, at 2010-04-05 12:43:59."
+128,2008-05-24 07:59:59,2008-05-26 00:35:16,116.4666016,39.9322783,146117.0,17069,"User 128 will move from grid 17069 to grid 17255, arriving around later today, late at night.","User 128 will move from grid 17069 to grid 17255, at 2008-05-27 00:34:07."
+128,2008-05-26 00:35:20,2008-05-26 10:56:38,116.4715766,39.9081016,37278.0,17255,"User 128 will move from grid 17255 to grid 15006, arriving around in the next month.","User 128 will move from grid 17255 to grid 15006, at 2008-07-05 13:13:31."
+128,2008-05-26 11:09:54,2008-05-27 00:21:01,116.4721633,39.9289399,47467.0,17257,"User 128 will move from grid 17257 to grid 13716, arriving around in about 3 months.","User 128 will move from grid 17257 to grid 13716, at 2008-09-06 05:14:16."
+128,2008-05-27 00:34:07,2008-05-27 11:27:08,116.4715716,39.9081016,39181.0,17255,"User 128 will move from grid 17255 to grid 17257, arriving around later today, in the morning.","User 128 will move from grid 17255 to grid 17257, at 2008-05-27 11:40:55."
+128,2008-05-27 11:40:55,2008-05-28 00:22:12,116.4723199,39.9261483,45677.0,17257,"User 128 will move from grid 17257 to grid 14236, arriving around in the next month.","User 128 will move from grid 17257 to grid 14236, at 2008-07-11 00:38:09."
+128,2008-05-28 00:23:09,2008-05-28 11:14:10,116.4719866,39.9080766,39061.0,17255,"User 128 will move from grid 17255 to grid 15222, at 2008-06-07 07:17:40.","User 128 will move from grid 17255 to grid 15222, at 2008-06-07 07:17:40."
+128,2008-05-28 11:25:28,2008-05-29 13:01:18,116.47228,39.9261383,92150.0,17257,"User 128 will move from grid 17257 to grid 14994, arriving around in about 5 months.","User 128 will move from grid 17257 to grid 14994, at 2008-10-29 02:29:07."
+128,2008-05-29 13:16:48,2008-05-30 02:38:17,116.4720433,39.9262283,48089.0,17257,"User 128 will move from grid 17257 to grid 20468, arriving around in about 4 months.","User 128 will move from grid 17257 to grid 20468, at 2008-09-13 07:15:47."
+128,2008-05-30 02:48:56,2008-05-30 06:38:34,116.4715666,39.9081033,13778.0,17255,"User 128 will move from grid 17255 to grid 14995, arriving around in about 22 months.","User 128 will move from grid 17255 to grid 14995, at 2010-03-17 02:38:45."
+128,2008-05-30 07:40:23,2008-05-30 12:02:57,116.5488399,40.0149783,15754.0,18401,,
+128,2008-05-30 12:47:37,2008-06-06 12:20:41,116.336715,39.9749899,603184.0,14994,"User 128 will move from grid 14994 to grid 17251, arriving around in about 5 months.","User 128 will move from grid 14994 to grid 17251, at 2008-10-29 12:35:52."
+128,2008-06-07 04:16:57,2008-06-07 06:44:39,116.3604433,40.3887916,8862.0,15418,"User 128 will move from grid 15418 to grid 14805, arriving around in about 7 months.","User 128 will move from grid 15418 to grid 14805, at 2009-01-05 05:08:05."
+128,2008-06-07 07:17:40,2008-06-07 08:02:54,116.348295,40.3274899,2714.0,15222,"User 128 will move from grid 15222 to grid 14248, arriving around in about 4 months.","User 128 will move from grid 15222 to grid 14248, at 2008-09-26 01:49:12."
+128,2008-06-07 10:34:10,2008-06-10 01:19:46,116.3330866,40.0789733,225936.0,15006,"User 128 will move from grid 15006 to grid 14994, at 2009-03-24 12:19:21.","User 128 will move from grid 15006 to grid 14994, at 2009-03-24 12:19:21."
+128,2008-06-28 03:31:52,2008-06-28 04:31:49,115.7128116,40.0699749,3597.0,4988,"User 128 will move from grid 4988 to grid 14627, arriving around in about 2 days, on 2008-06-30.","User 128 will move from grid 4988 to grid 14627, at 2008-06-30 12:02:41."
+128,2008-06-28 06:58:36,2008-06-29 14:09:32,115.8069666,40.0145216,112256.0,6494,"User 128 will move from grid 6494 to grid 14995, arriving around in about 1 days, on 2008-07-01.","User 128 will move from grid 6494 to grid 14995, at 2008-07-01 01:50:50."
+128,2008-06-30 01:53:09,2008-06-30 11:49:14,116.3348216,39.9741666,35765.0,14994,"User 128 will move from grid 14994 to grid 14995, arriving around in about 12 months.","User 128 will move from grid 14994 to grid 14995, at 2009-06-18 01:17:31."
+128,2008-06-30 12:02:41,2008-07-01 01:18:11,116.3131749,40.0700399,47730.0,14627,"User 128 will move from grid 14627 to grid 14995, arriving around in about 15 months.","User 128 will move from grid 14627 to grid 14995, at 2009-09-18 01:17:30."
+128,2008-07-01 01:50:50,2008-07-01 13:36:35,116.3332999,39.9785366,42345.0,14995,"User 128 will move from grid 14995 to grid 11041, arriving around in about 5 months.","User 128 will move from grid 14995 to grid 11041, at 2008-11-16 03:30:15."
+128,2008-07-03 10:50:50,2008-07-03 12:11:35,116.3367783,39.9293416,4845.0,14989,,
+128,2008-07-05 05:25:24,2008-07-05 11:32:27,116.6592383,39.8736366,22023.0,20275,"User 128 will move from grid 20275 to grid 14038, arriving around in about 1 days, on 2008-07-07.","User 128 will move from grid 20275 to grid 14038, at 2008-07-07 08:38:40."
+128,2008-07-05 12:38:21,2008-07-05 13:10:04,116.3308299,40.088155,1903.0,15007,"User 128 will move from grid 15007 to grid 13135, at 2008-09-06 04:04:37.","User 128 will move from grid 15007 to grid 13135, at 2008-09-06 04:04:37."
+128,2008-07-05 13:13:31,2008-07-06 00:50:22,116.3327116,40.0786816,41811.0,15006,"User 128 will move from grid 15006 to grid 14606, arriving around in about 26 months.","User 128 will move from grid 15006 to grid 14606, at 2010-08-25 08:02:53."
+128,2008-07-06 07:24:44,2008-07-06 09:07:44,116.5609216,40.0128049,6180.0,18590,"User 128 will move from grid 18590 to grid 13491, arriving around in about 2 months.","User 128 will move from grid 18590 to grid 13491, at 2008-08-28 01:33:14."
+128,2008-07-06 09:21:49,2008-07-06 10:19:01,116.5612949,40.0134416,3432.0,18590,"User 128 will move from grid 18590 to grid 14995, arriving around in about 15 months.","User 128 will move from grid 18590 to grid 14995, at 2009-09-23 01:23:39."
+128,2008-07-07 04:05:22,2008-07-07 04:58:44,116.3955733,39.9708533,3202.0,15939,"User 128 will move from grid 15939 to grid 14252, arriving around in about 4 months.","User 128 will move from grid 15939 to grid 14252, at 2008-11-02 09:08:04."
+128,2008-07-07 05:44:06,2008-07-07 08:33:40,116.2585266,39.8630399,10174.0,13848,"User 128 will move from grid 13848 to grid 14995, arriving around in the next month.","User 128 will move from grid 13848 to grid 14995, at 2008-08-07 02:59:09."
+128,2008-07-07 08:38:40,2008-07-07 09:49:33,116.2735216,39.8721666,4253.0,14038,"User 128 will move from grid 14038 to grid 15563, arriving around in about 2 months.","User 128 will move from grid 14038 to grid 15563, at 2008-08-23 07:23:13."
+128,2008-07-07 09:49:33,2008-07-07 12:38:25,116.33609,39.9746716,10132.0,14994,"User 128 will move from grid 14994 to grid 13106, arriving around in the next month.","User 128 will move from grid 14994 to grid 13106, at 2008-08-18 02:45:21."
+128,2008-07-08 10:44:33,2008-07-08 12:35:05,116.3175949,39.9527666,6632.0,14803,"User 128 will move from grid 14803 to grid 14994, arriving around in about 4 months.","User 128 will move from grid 14803 to grid 14994, at 2008-11-07 02:11:25."
+128,2008-07-09 01:31:03,2008-07-09 13:31:18,116.3332316,39.9752133,43215.0,14994,"User 128 will move from grid 14994 to grid 14995, at 2008-11-04 02:08:28.","User 128 will move from grid 14994 to grid 14995, at 2008-11-04 02:08:28."
+128,2008-07-11 00:38:09,2008-07-11 10:55:33,116.2873233,39.9523233,37044.0,14236,"User 128 will move from grid 14236 to grid 14997, arriving around in about 2 months.","User 128 will move from grid 14236 to grid 14997, at 2008-09-14 09:55:20."
+128,2008-07-11 11:00:09,2008-07-13 09:09:39,116.3485783,39.9854766,166170.0,15185,"User 128 will move from grid 15185 to grid 14994, arriving around in about 20 months.","User 128 will move from grid 15185 to grid 14994, at 2010-02-25 03:31:06."
+128,2008-07-19 05:23:55,2008-07-19 07:06:47,116.5250616,40.0660049,6172.0,18028,"User 128 will move from grid 18028 to grid 15941, arriving around in about 10 months.","User 128 will move from grid 18028 to grid 15941, at 2009-05-02 11:31:54."
+128,2008-07-28 02:00:18,2008-07-28 11:17:09,116.2619766,40.0544033,33411.0,13869,"User 128 will move from grid 13869 to grid 12191, arriving around in about 13 months.","User 128 will move from grid 13869 to grid 12191, at 2009-08-30 06:17:51."
+128,2008-07-29 02:21:16,2008-07-29 12:51:15,116.3329833,39.9788816,37799.0,14995,,
+128,2008-07-30 02:32:49,2008-07-31 12:26:07,116.3332049,39.97881,121998.0,14995,"User 128 will move from grid 14995 to grid 16309, arriving around in about 2 weeks, specifically next Tuesday.","User 128 will move from grid 14995 to grid 16309, at 2008-08-12 08:53:15."
+128,2008-08-05 11:46:54,2008-08-05 12:47:19,116.2745483,39.9800233,3625.0,14050,,
+128,2008-08-06 11:38:53,2008-08-07 02:42:41,116.3254299,40.0741133,54228.0,14816,,
+128,2008-08-07 02:59:09,2008-08-07 13:19:38,116.3328199,39.9795933,37229.0,14995,"User 128 will move from grid 14995 to grid 14437, arriving around in about 8 months.","User 128 will move from grid 14995 to grid 14437, at 2009-04-09 13:14:26."
+128,2008-08-08 01:41:50,2008-08-12 07:22:39,116.3090483,40.0714599,366049.0,14627,,
+128,2008-08-12 08:53:15,2008-08-12 09:58:05,116.4127166,39.9040032,3890.0,16309,"User 128 will move from grid 16309 to grid 16318, arriving around in about 1 weeks, specifically next Saturday.","User 128 will move from grid 16309 to grid 16318, at 2008-08-23 05:18:27."
+128,2008-08-12 10:17:13,2008-08-13 00:44:36,116.1860199,40.135695,52043.0,12555,"User 128 will move from grid 12555 to grid 14439, arriving around in about 15 months.","User 128 will move from grid 12555 to grid 14439, at 2009-11-01 06:17:06."
+128,2008-08-13 01:29:25,2008-08-14 06:01:11,116.3328516,39.9798433,102706.0,14995,"User 128 will move from grid 14995 to grid 16121, arriving around in about 4 months.","User 128 will move from grid 14995 to grid 16121, at 2008-12-22 08:29:54."
+128,2008-08-14 07:16:56,2008-08-15 04:55:56,116.6860733,40.1689299,77940.0,20686,,
+128,2008-08-15 06:26:13,2008-08-15 10:18:27,116.6669149,40.1694733,13934.0,20308,"User 128 will move from grid 20308 to grid 14627, arriving around in the next month.","User 128 will move from grid 20308 to grid 14627, at 2008-09-26 12:04:10."
+128,2008-08-18 02:45:21,2008-08-21 14:07:52,116.2149266,39.9883883,300151.0,13106,"User 128 will move from grid 13106 to grid 14996, arriving around in about 4 months.","User 128 will move from grid 13106 to grid 14996, at 2008-12-27 07:37:32."
+128,2008-08-22 02:13:29,2008-08-22 14:16:43,116.3321416,39.9756049,43394.0,14994,"User 128 will move from grid 14994 to grid 16119, arriving around in about 9 months.","User 128 will move from grid 14994 to grid 16119, at 2009-05-17 03:19:55."
+128,2008-08-23 04:00:21,2008-08-23 04:42:35,116.3605199,40.0691,2534.0,15383,"User 128 will move from grid 15383 to grid 15179, arriving around in about 2 months.","User 128 will move from grid 15383 to grid 15179, at 2008-10-31 13:30:37."
+128,2008-08-23 05:18:27,2008-08-23 07:09:04,116.4109249,39.9784666,6637.0,16318,"User 128 will move from grid 16318 to grid 14627, arriving around in about 2 months.","User 128 will move from grid 16318 to grid 14627, at 2008-10-23 13:11:51."
+128,2008-08-23 07:23:13,2008-08-23 09:14:26,116.3708266,39.9900266,6673.0,15563,,
+128,2008-08-23 09:50:11,2008-08-23 11:10:36,116.348415,40.0102133,4825.0,15187,,
+128,2008-08-23 11:56:00,2008-08-24 09:54:08,116.3399383,40.0761266,79088.0,15006,"User 128 will move from grid 15006 to grid 14995, arriving around in about 21 months.","User 128 will move from grid 15006 to grid 14995, at 2010-05-17 01:50:56."
+128,2008-08-24 11:56:50,2008-08-25 01:11:38,116.3935416,39.9032866,47688.0,15931,"User 128 will move from grid 15931 to grid 16141, arriving around in about 3 months.","User 128 will move from grid 15931 to grid 16141, at 2008-11-29 05:03:19."
+128,2008-08-25 12:32:06,2008-08-25 14:01:02,116.3952716,39.9320566,5336.0,15935,"User 128 will move from grid 15935 to grid 14995, arriving around in about 6 months.","User 128 will move from grid 15935 to grid 14995, at 2009-02-19 01:44:30."
+128,2008-08-26 01:59:42,2008-08-26 12:51:21,116.3322416,39.9751116,39099.0,14994,"User 128 will move from grid 14994 to grid 14994, arriving around in about 16 months.","User 128 will move from grid 14994 to grid 14994, at 2009-12-15 02:18:29."
+128,2008-08-28 01:33:14,2008-08-28 13:12:11,116.2384499,40.0532899,41937.0,13491,,
+128,2008-08-28 13:16:00,2008-08-29 02:06:52,116.3281966,40.0734466,46252.0,14816,"User 128 will move from grid 14816 to grid 14995, arriving around in about 2 months.","User 128 will move from grid 14816 to grid 14995, at 2008-10-17 02:02:43."
+128,2008-09-02 01:44:23,2008-09-02 13:26:07,116.3331533,39.9795516,42104.0,14995,"User 128 will move from grid 14995 to grid 13720, at 2008-09-06 07:13:33.","User 128 will move from grid 14995 to grid 13720, at 2008-09-06 07:13:33."
+128,2008-09-02 13:47:09,2008-09-03 01:22:20,116.3281733,40.0701183,41711.0,14816,"User 128 will move from grid 14816 to grid 14995, arriving around in about 22 months.","User 128 will move from grid 14816 to grid 14995, at 2010-06-12 01:32:40."
+128,2008-09-03 01:45:38,2008-09-03 13:26:14,116.3336266,39.9753949,42036.0,14994,"User 128 will move from grid 14994 to grid 19844, arriving around in about 4 weeks, specifically next Tuesday.","User 128 will move from grid 14994 to grid 19844, at 2008-09-30 04:22:39."
+128,2008-09-04 01:46:39,2008-09-04 12:52:50,116.2817099,39.9757283,39971.0,14238,"User 128 will move from grid 14238 to grid 15919, at 2008-09-30 02:58:38.","User 128 will move from grid 14238 to grid 15919, at 2008-09-30 02:58:38."
+128,2008-09-05 01:57:01,2008-09-05 09:19:40,116.3308116,39.9793516,26559.0,14995,"User 128 will move from grid 14995 to grid 14994, arriving around in about 28 months.","User 128 will move from grid 14995 to grid 14994, at 2010-12-17 01:30:13."
+128,2008-09-05 10:06:29,2008-09-05 12:25:35,116.3721466,39.90692,8346.0,15554,"User 128 will move from grid 15554 to grid 15947, arriving around in about 2 months.","User 128 will move from grid 15554 to grid 15947, at 2008-11-19 22:06:08."
+128,2008-09-06 04:04:37,2008-09-06 04:47:36,116.2160416,40.2497016,2579.0,13135,"User 128 will move from grid 13135 to grid 14995, arriving around in about 2 months.","User 128 will move from grid 13135 to grid 14995, at 2008-10-28 02:14:37."
+128,2008-09-06 05:14:16,2008-09-06 05:50:31,116.2463083,40.376345,2175.0,13716,"User 128 will move from grid 13716 to grid 13878, arriving around in about 21 months.","User 128 will move from grid 13716 to grid 13878, at 2010-06-05 11:38:26."
+128,2008-09-06 05:55:45,2008-09-06 07:12:27,116.2589466,40.4029599,4602.0,13908,,
+128,2008-09-06 07:13:33,2008-09-06 08:07:29,116.2535166,40.4154649,3236.0,13720,"User 128 will move from grid 13720 to grid 17255, at 2008-09-13 11:05:25.","User 128 will move from grid 13720 to grid 17255, at 2008-09-13 11:05:25."
+128,2008-09-07 04:06:48,2008-09-07 06:33:54,116.3306449,39.9704866,8826.0,14994,"User 128 will move from grid 14994 to grid 14805, arriving around in about 5 months.","User 128 will move from grid 14994 to grid 14805, at 2009-02-11 12:03:42."
+128,2008-09-08 01:28:43,2008-09-08 13:50:18,116.3360266,39.9746433,44495.0,14994,"User 128 will move from grid 14994 to grid 14995, arriving around in about 9 months.","User 128 will move from grid 14994 to grid 14995, at 2009-05-27 01:20:34."
+128,2008-09-09 01:42:55,2008-09-09 13:22:58,116.1630649,40.2237766,42003.0,12187,,
+128,2008-09-10 02:29:35,2008-09-10 13:19:44,116.3328849,39.9755983,39009.0,14994,,
+128,2008-09-12 01:18:02,2008-09-12 10:56:15,116.3364383,39.9731333,34693.0,14994,"User 128 will move from grid 14994 to grid 18590, at 2008-10-26 00:07:47.","User 128 will move from grid 14994 to grid 18590, at 2008-10-26 00:07:47."
+128,2008-09-13 07:15:47,2008-09-13 10:45:35,116.6778466,39.9116933,12588.0,20468,"User 128 will move from grid 20468 to grid 14994, arriving around in about 12 months.","User 128 will move from grid 20468 to grid 14994, at 2009-08-24 13:09:45."
+128,2008-09-13 11:05:25,2008-09-13 11:52:55,116.4775599,39.9071099,2850.0,17255,,
+128,2008-09-14 09:55:20,2008-09-14 13:57:18,116.3314399,39.9977566,14518.0,14997,"User 128 will move from grid 14997 to grid 11605, at 2008-09-15 08:31:01.","User 128 will move from grid 14997 to grid 11605, at 2008-09-15 08:31:01."
+128,2008-09-15 08:31:01,2008-09-15 09:43:11,116.12718,40.0881116,4330.0,11605,,
+128,2008-09-16 01:51:25,2008-09-16 13:32:27,116.3336149,39.977505,42062.0,14995,"User 128 will move from grid 14995 to grid 14995, arriving around in about 14 months.","User 128 will move from grid 14995 to grid 14995, at 2009-11-04 01:26:20."
+128,2008-09-17 02:24:55,2008-09-17 11:17:22,116.3252833,39.9751433,31947.0,14805,,
+128,2008-09-17 11:17:22,2008-09-18 01:13:47,116.3283149,40.0734633,50185.0,14816,"User 128 will move from grid 14816 to grid 14995, arriving around in about 9 months.","User 128 will move from grid 14816 to grid 14995, at 2009-06-19 01:11:52."
+128,2008-09-18 01:23:56,2008-09-18 11:58:38,116.3012549,40.0708249,38082.0,14438,"User 128 will move from grid 14438 to grid 10460, arriving around in about 3 weeks, specifically next Sunday.","User 128 will move from grid 14438 to grid 10460, at 2008-10-12 06:10:26."
+128,2008-09-19 01:48:30,2008-09-19 10:22:57,116.3306183,39.9721533,30867.0,14994,"User 128 will move from grid 14994 to grid 16888, arriving around in about 10 months.","User 128 will move from grid 14994 to grid 16888, at 2009-07-08 10:38:45."
+128,2008-09-20 06:37:19,2008-09-20 10:16:08,116.3367016,40.1283833,13129.0,15011,,
+128,2008-09-22 05:23:52,2008-09-22 13:30:36,116.3007149,39.9229766,29204.0,14422,"User 128 will move from grid 14422 to grid 15006, arriving around in about 19 months.","User 128 will move from grid 14422 to grid 15006, at 2010-04-11 10:22:22."
+128,2008-09-24 07:42:14,2008-09-24 10:43:12,116.2054983,39.9980766,10858.0,12918,"User 128 will move from grid 12918 to grid 15180, arriving around in about 15 months.","User 128 will move from grid 12918 to grid 15180, at 2009-12-10 10:06:17."
+128,2008-09-24 11:24:27,2008-09-24 12:44:05,116.3361066,39.9750316,4778.0,14994,,
+128,2008-09-25 02:42:36,2008-09-25 14:08:04,116.3326033,39.9763683,41128.0,14994,"User 128 will move from grid 14994 to grid 14231, at 2008-10-07 11:11:53.","User 128 will move from grid 14994 to grid 14231, at 2008-10-07 11:11:53."
+128,2008-09-26 01:49:12,2008-09-26 12:04:10,116.2892383,40.0584099,36898.0,14248,,
+128,2008-09-26 12:04:10,2008-09-27 01:32:20,116.3098983,40.0721466,48490.0,14627,,
+128,2008-09-27 02:10:30,2008-09-27 11:37:09,116.3336916,39.9755016,33999.0,14994,"User 128 will move from grid 14994 to grid 10852, arriving around in about 2 months.","User 128 will move from grid 14994 to grid 10852, at 2008-11-16 05:21:26."
+128,2008-09-30 02:18:17,2008-09-30 02:58:38,116.3727916,39.6635733,2421.0,15527,,
+128,2008-09-30 02:58:38,2008-09-30 03:59:55,116.3889383,39.7905916,3677.0,15919,,
+128,2008-09-30 04:22:39,2008-10-06 07:55:32,116.6283732,41.0976783,531173.0,19844,,
+128,2008-10-06 07:55:32,2008-10-07 10:32:21,116.3324516,39.9724666,95809.0,14994,,
+128,2008-10-07 11:11:53,2008-10-07 13:36:20,116.2896399,39.9076916,8667.0,14231,"User 128 will move from grid 14231 to grid 16502, arriving around in about 19 months.","User 128 will move from grid 14231 to grid 16502, at 2010-04-20 10:09:40."
+128,2008-10-09 14:26:04,2008-10-10 01:43:58,116.3134399,40.0737333,40674.0,14627,"User 128 will move from grid 14627 to grid 16314, arriving around in about 6 months.","User 128 will move from grid 14627 to grid 16314, at 2009-03-24 01:52:31."
+128,2008-10-10 02:09:07,2008-10-10 12:09:47,116.3321066,39.9794683,36040.0,14995,"User 128 will move from grid 14995 to grid 14231, at 2008-10-12 11:39:33.","User 128 will move from grid 14995 to grid 14231, at 2008-10-12 11:39:33."
+128,2008-10-12 06:10:26,2008-10-12 06:50:52,116.0477499,39.988965,2426.0,10460,"User 128 will move from grid 10460 to grid 15560, arriving around in about 7 months.","User 128 will move from grid 10460 to grid 15560, at 2009-04-29 14:07:44."
+128,2008-10-12 11:39:33,2008-10-12 13:21:57,116.2897716,39.9077466,6144.0,14231,,
+128,2008-10-16 13:19:12,2008-10-17 01:28:35,116.3252916,40.0697183,43763.0,14816,,
+128,2008-10-17 02:02:43,2008-10-17 12:42:42,116.3326616,39.9796883,38399.0,14995,"User 128 will move from grid 14995 to grid 14627, arriving around in about 2 months.","User 128 will move from grid 14995 to grid 14627, at 2008-12-09 13:56:26."
+128,2008-10-21 02:08:12,2008-10-21 11:39:06,116.33251,39.9795666,34254.0,14995,,
+128,2008-10-21 11:56:11,2008-10-22 01:40:02,116.3129233,40.0700199,49431.0,14627,,
+128,2008-10-22 02:19:03,2008-10-22 10:17:42,116.332495,39.9759066,28719.0,14994,"User 128 will move from grid 14994 to grid 16888, at 2009-12-28 06:53:51.","User 128 will move from grid 14994 to grid 16888, at 2009-12-28 06:53:51."
+128,2008-10-22 10:50:25,2008-10-22 12:11:19,116.2899466,39.9076733,4854.0,14231,,
+128,2008-10-23 13:11:51,2008-10-24 01:19:39,116.3132016,40.0696599,43668.0,14627,"User 128 will move from grid 14627 to grid 17452, arriving around in about 6 days, on 2008-10-30.","User 128 will move from grid 14627 to grid 17452, at 2008-10-30 07:07:00."
+128,2008-10-24 01:51:02,2008-10-24 13:31:10,116.3330183,39.9796483,42008.0,14995,"User 128 will move from grid 14995 to grid 14816, arriving around in about 17 months.","User 128 will move from grid 14995 to grid 14816, at 2010-03-29 11:48:46."
+128,2008-10-26 00:07:47,2008-10-26 05:07:04,116.5564799,40.0159549,17957.0,18590,"User 128 will move from grid 18590 to grid 14995, at 2008-11-10 01:56:42.","User 128 will move from grid 18590 to grid 14995, at 2008-11-10 01:56:42."
+128,2008-10-26 05:22:49,2008-10-26 06:00:48,116.5419566,40.0160699,2279.0,18401,"User 128 will move from grid 18401 to grid 16503, arriving around in about 7 months.","User 128 will move from grid 18401 to grid 16503, at 2009-05-10 12:57:20."
+128,2008-10-27 01:50:56,2008-10-27 11:46:24,116.3331733,39.9792249,35728.0,14995,"User 128 will move from grid 14995 to grid 13700, at 2009-01-10 06:41:01.","User 128 will move from grid 14995 to grid 13700, at 2009-01-10 06:41:01."
+128,2008-10-28 02:14:37,2008-10-28 12:40:14,116.3327666,39.9795983,37537.0,14995,,
+128,2008-10-29 02:29:07,2008-10-29 08:28:11,116.3334733,39.9753516,21544.0,14994,"User 128 will move from grid 14994 to grid 30196, at 2009-09-04 09:33:45.","User 128 will move from grid 14994 to grid 30196, at 2009-09-04 09:33:45."
+128,2008-10-29 08:44:33,2008-10-29 12:32:17,116.4554933,39.9434666,13664.0,16881,"User 128 will move from grid 16881 to grid 14995, arriving around in about 18 months.","User 128 will move from grid 16881 to grid 14995, at 2010-04-16 01:26:28."
+128,2008-10-29 12:35:52,2008-10-29 14:04:14,116.478305,39.876485,5302.0,17251,"User 128 will move from grid 17251 to grid 14995, arriving around in the next month.","User 128 will move from grid 17251 to grid 14995, at 2008-12-09 02:51:31."
+128,2008-10-30 02:26:42,2008-10-30 06:03:56,116.3357933,39.9751133,13034.0,14994,"User 128 will move from grid 14994 to grid 14995, arriving around in the next month.","User 128 will move from grid 14994 to grid 14995, at 2008-12-08 00:00:44."
+128,2008-10-30 07:07:00,2008-10-30 08:46:06,116.4836816,39.98035,5946.0,17452,,
+128,2008-10-30 08:51:21,2008-10-30 11:32:29,116.4550049,39.9764966,9668.0,16885,,
+128,2008-10-31 02:20:53,2008-10-31 13:18:11,116.3329766,39.9793483,39438.0,14995,"User 128 will move from grid 14995 to grid 19384, at 2009-03-28 05:08:32.","User 128 will move from grid 14995 to grid 19384, at 2009-03-28 05:08:32."
+128,2008-10-31 13:30:37,2008-10-31 14:10:11,116.3485249,39.9388666,2374.0,15179,,
+128,2008-11-01 10:37:50,2008-11-01 11:29:47,116.3673866,39.91697,3117.0,15555,"User 128 will move from grid 15555 to grid 14225, at 2008-11-02 00:04:00.","User 128 will move from grid 15555 to grid 14225, at 2008-11-02 00:04:00."
+128,2008-11-02 00:04:00,2008-11-02 01:01:02,116.2872576,39.8525197,3422.0,14225,"User 128 will move from grid 14225 to grid 15185, arriving around in the next month.","User 128 will move from grid 14225 to grid 15185, at 2008-12-02 01:34:15."
+128,2008-11-02 01:17:34,2008-11-02 05:00:08,116.3001891,39.8525225,13354.0,14414,"User 128 will move from grid 14414 to grid 17264, arriving around in about 9 months.","User 128 will move from grid 14414 to grid 17264, at 2009-08-09 10:55:32."
+128,2008-11-02 05:59:20,2008-11-02 08:07:49,116.4074533,40.1077266,7709.0,16143,"User 128 will move from grid 16143 to grid 15952, arriving around in about 12 months.","User 128 will move from grid 16143 to grid 15952, at 2009-10-31 02:43:35."
+128,2008-11-02 09:08:04,2008-11-03 02:04:24,116.2902266,40.0969299,60980.0,14252,"User 128 will move from grid 14252 to grid 18975, arriving around in about 10 months.","User 128 will move from grid 14252 to grid 18975, at 2009-09-13 04:28:53."
+128,2008-11-04 02:08:28,2008-11-04 11:30:19,116.3330783,39.9795433,33711.0,14995,"User 128 will move from grid 14995 to grid 14995, arriving around in about 22 months.","User 128 will move from grid 14995 to grid 14995, at 2010-08-13 01:50:32."
+128,2008-11-05 05:03:54,2008-11-05 13:41:38,116.3013949,39.9423649,31064.0,14424,"User 128 will move from grid 14424 to grid 15184, arriving around in about 4 months.","User 128 will move from grid 14424 to grid 15184, at 2009-03-14 11:48:12."
+128,2008-11-06 02:08:35,2008-11-06 13:02:02,116.3331316,39.9796316,39207.0,14995,,
+128,2008-11-07 02:11:25,2008-11-07 11:19:17,116.3331566,39.9754083,32872.0,14994,"User 128 will move from grid 14994 to grid 15935, arriving around in about 2 months.","User 128 will move from grid 14994 to grid 15935, at 2008-12-27 05:27:14."
+128,2008-11-08 01:59:26,2008-11-08 02:32:44,116.4106033,39.9962583,1998.0,16131,,
+128,2008-11-08 03:18:31,2008-11-08 03:58:27,116.3749066,39.8631333,2396.0,15549,"User 128 will move from grid 15549 to grid 14995, at 2010-04-20 01:38:21.","User 128 will move from grid 15549 to grid 14995, at 2010-04-20 01:38:21."
+128,2008-11-08 03:59:38,2008-11-08 10:40:21,116.4818966,39.8407633,24043.0,17436,"User 128 will move from grid 17436 to grid 14062, arriving around later today, in the morning.","User 128 will move from grid 17436 to grid 14062, at 2008-11-09 06:35:18."
+128,2008-11-09 06:35:18,2008-11-09 07:28:19,116.2778083,40.0897966,3181.0,14062,,
+128,2008-11-10 01:56:42,2008-11-10 13:10:35,116.3328633,39.9798533,40433.0,14995,,
+128,2008-11-15 05:45:25,2008-11-15 08:09:03,116.48337,39.9440933,8618.0,17448,"User 128 will move from grid 17448 to grid 14995, arriving around in about 4 months.","User 128 will move from grid 17448 to grid 14995, at 2009-03-20 02:38:43."
+128,2008-11-16 03:30:15,2008-11-16 04:25:22,116.0893066,40.11227,3307.0,11041,"User 128 will move from grid 11041 to grid 15003, arriving around in about 3 weeks, specifically next Friday.","User 128 will move from grid 11041 to grid 15003, at 2008-12-05 01:45:00."
+128,2008-11-16 04:51:09,2008-11-16 05:21:26,116.0773833,40.1166083,1817.0,10852,"User 128 will move from grid 10852 to grid 14995, at 2008-11-17 01:50:38.","User 128 will move from grid 10852 to grid 14995, at 2008-11-17 01:50:38."
+128,2008-11-16 05:21:26,2008-11-16 06:46:21,116.0733849,40.1149266,5095.0,10852,"User 128 will move from grid 10852 to grid 15012, arriving around in about 2 months.","User 128 will move from grid 10852 to grid 15012, at 2009-01-03 06:33:20."
+128,2008-11-16 06:59:19,2008-11-16 07:43:03,116.0775333,40.1095166,2624.0,10851,"User 128 will move from grid 10851 to grid 14615, arriving around in about 4 months.","User 128 will move from grid 10851 to grid 14615, at 2009-03-14 09:34:40."
+128,2008-11-17 01:50:38,2008-11-18 11:59:26,116.3330033,39.9796849,122928.0,14995,,
+128,2008-11-19 22:06:08,2008-11-20 00:32:17,116.3986683,40.0411716,8769.0,15947,,
+128,2008-11-20 01:04:50,2008-11-26 01:53:37,115.4144633,39.7266999,521327.0,225,"User 128 will move from grid 225 to grid 15183, arriving around in about 11 months.","User 128 will move from grid 225 to grid 15183, at 2009-10-28 12:08:14."
+128,2008-11-28 10:26:48,2008-11-28 13:07:28,116.4192466,39.9900133,9640.0,16319,,
+128,2008-11-28 13:14:38,2008-11-28 13:57:55,116.4178399,39.989055,2597.0,16319,"User 128 will move from grid 16319 to grid 15183, arriving around in about 5 months.","User 128 will move from grid 16319 to grid 15183, at 2009-04-29 11:51:55."
+128,2008-11-28 13:57:55,2008-11-28 14:30:21,116.3350299,39.9753416,1946.0,14994,,
+128,2008-11-29 01:37:55,2008-11-29 03:46:33,116.3131683,40.0746233,7718.0,14627,"User 128 will move from grid 14627 to grid 14997, at 2009-03-18 00:26:17.","User 128 will move from grid 14627 to grid 14997, at 2009-03-18 00:26:17."
+128,2008-11-29 05:03:19,2008-11-29 07:53:27,116.4077033,40.0912783,10208.0,16141,"User 128 will move from grid 16141 to grid 16502, at 2010-04-29 10:28:57.","User 128 will move from grid 16141 to grid 16502, at 2010-04-29 10:28:57."
+128,2008-12-01 02:09:32,2008-12-01 13:07:32,116.3329966,39.979185,39480.0,14995,"User 128 will move from grid 14995 to grid 14995, at 2009-05-26 01:24:27.","User 128 will move from grid 14995 to grid 14995, at 2009-05-26 01:24:27."
+128,2008-12-02 01:34:15,2008-12-02 02:31:59,116.3484733,39.9858866,3464.0,15185,"User 128 will move from grid 15185 to grid 14995, arriving around in about 8 months.","User 128 will move from grid 15185 to grid 14995, at 2009-08-14 01:05:22."
+128,2008-12-03 14:50:23,2008-12-04 01:29:56,116.3133849,40.07373,38373.0,14627,,
+128,2008-12-04 02:05:28,2008-12-04 15:32:49,116.3332583,39.975335,48441.0,14994,"User 128 will move from grid 14994 to grid 14800, arriving around in about 7 months.","User 128 will move from grid 14994 to grid 14800, at 2009-07-05 09:46:28."
+128,2008-12-04 15:45:41,2008-12-05 01:23:05,116.3141133,40.0740266,34644.0,14627,,
+128,2008-12-05 01:45:00,2008-12-05 14:18:38,116.3302583,40.0557616,45218.0,15003,"User 128 will move from grid 15003 to grid 24463, arriving around in the next month.","User 128 will move from grid 15003 to grid 24463, at 2009-01-18 03:41:14."
+128,2008-12-08 00:00:44,2008-12-08 11:53:41,116.3330733,39.979535,42777.0,14995,"User 128 will move from grid 14995 to grid 16882, at 2010-05-09 10:01:40.","User 128 will move from grid 14995 to grid 16882, at 2010-05-09 10:01:40."
+128,2008-12-09 02:51:31,2008-12-09 13:43:34,116.3333899,39.9792666,39123.0,14995,,
+128,2008-12-09 13:56:26,2008-12-10 01:59:45,116.3142249,40.0740333,43399.0,14627,"User 128 will move from grid 14627 to grid 17441, arriving around in about 4 months.","User 128 will move from grid 14627 to grid 17441, at 2009-04-11 06:30:36."
+128,2008-12-13 06:07:54,2008-12-13 06:58:19,116.2547916,40.2122349,3025.0,13698,,
+128,2008-12-15 12:07:52,2008-12-16 02:24:52,116.3284966,40.0710766,51420.0,14816,"User 128 will move from grid 14816 to grid 14994, arriving around in about 8 months.","User 128 will move from grid 14816 to grid 14994, at 2009-08-11 00:48:06."
+128,2008-12-16 02:51:29,2008-12-16 13:10:17,116.3330133,39.9797166,37128.0,14995,"User 128 will move from grid 14995 to grid 14843, arriving around in about 4 days, on 2008-12-21.","User 128 will move from grid 14995 to grid 14843, at 2008-12-21 05:07:47."
+128,2008-12-18 08:51:16,2008-12-18 09:27:09,116.2660633,39.9990383,2153.0,13863,"User 128 will move from grid 13863 to grid 2694, at 2009-07-05 01:54:11.","User 128 will move from grid 13863 to grid 2694, at 2009-07-05 01:54:11."
+128,2008-12-21 03:03:26,2008-12-21 04:28:57,116.2164583,40.2503583,5131.0,13135,"User 128 will move from grid 13135 to grid 14995, arriving around in about 5 months.","User 128 will move from grid 13135 to grid 14995, at 2009-06-02 00:41:44."
+128,2008-12-21 05:07:47,2008-12-21 07:18:05,116.3223099,40.3131433,7818.0,14843,"User 128 will move from grid 14843 to grid 15172, arriving around in about 12 months.","User 128 will move from grid 14843 to grid 15172, at 2009-12-13 03:15:31."
+128,2008-12-22 08:29:54,2008-12-22 11:36:06,116.4072816,39.907605,11172.0,16121,"User 128 will move from grid 16121 to grid 14994, arriving around in about 7 months.","User 128 will move from grid 16121 to grid 14994, at 2009-08-02 02:04:49."
+128,2008-12-22 11:52:06,2008-12-23 13:21:12,116.3367233,39.9751983,91746.0,14994,,
+128,2008-12-27 05:27:14,2008-12-27 06:11:11,116.3968966,39.9351716,2637.0,15935,,
+128,2008-12-27 07:37:32,2008-12-27 09:56:03,116.3367833,39.99183,8311.0,14996,,
+128,2008-12-30 02:39:01,2008-12-30 13:36:47,116.3330416,39.9797416,39466.0,14995,"User 128 will move from grid 14995 to grid 15755, arriving around in about 15 months.","User 128 will move from grid 14995 to grid 15755, at 2010-04-05 08:11:26."
+128,2008-12-31 03:18:49,2008-12-31 04:16:03,116.30969,39.9801666,3434.0,14617,,
+128,2009-01-01 06:01:08,2009-01-01 06:38:07,115.7689249,40.4656899,2219.0,5977,"User 128 will move from grid 5977 to grid 16881, arriving around in about 2 months.","User 128 will move from grid 5977 to grid 16881, at 2009-02-21 04:15:58."
+128,2009-01-02 02:53:40,2009-01-02 03:33:55,116.4272683,39.9435749,2415.0,16503,"User 128 will move from grid 16503 to grid 14616, at 2009-09-12 05:23:35.","User 128 will move from grid 16503 to grid 14616, at 2009-09-12 05:23:35."
+128,2009-01-02 05:01:26,2009-01-02 13:52:39,116.3277883,39.9718916,31873.0,14805,"User 128 will move from grid 14805 to grid 14438, arriving around in the next month.","User 128 will move from grid 14805 to grid 14438, at 2009-02-12 01:48:01."
+128,2009-01-03 06:33:20,2009-01-03 08:54:08,116.3361016,40.13178,8448.0,15012,,
+128,2009-01-05 04:05:00,2009-01-05 04:52:48,116.2774549,39.9201066,2868.0,14043,,
+128,2009-01-05 05:08:05,2009-01-05 12:42:25,116.3277633,39.9722083,27260.0,14805,"User 128 will move from grid 14805 to grid 17073, arriving around in about 10 months.","User 128 will move from grid 14805 to grid 17073, at 2009-10-23 11:07:45."
+128,2009-01-07 02:15:12,2009-01-07 13:27:56,116.3334966,39.9797249,40364.0,14995,"User 128 will move from grid 14995 to grid 14438, arriving around in the next month.","User 128 will move from grid 14995 to grid 14438, at 2009-02-10 02:06:18."
+128,2009-01-08 00:10:02,2009-01-08 01:06:03,116.185832,40.075693,3361.0,12549,"User 128 will move from grid 12549 to grid 16121, arriving around in about 3 months.","User 128 will move from grid 12549 to grid 16121, at 2009-04-11 11:14:13."
+128,2009-01-09 01:56:13,2009-01-09 07:58:32,116.3324466,39.9802516,21739.0,14995,"User 128 will move from grid 14995 to grid 14995, arriving around in about 2 months.","User 128 will move from grid 14995 to grid 14995, at 2009-03-26 02:02:39."
+128,2009-01-09 08:32:34,2009-01-09 09:05:00,116.27242,39.9890566,1946.0,14051,"User 128 will move from grid 14051 to grid 14995, arriving around in about 5 months.","User 128 will move from grid 14051 to grid 14995, at 2009-06-12 01:50:26."
+128,2009-01-10 01:52:09,2009-01-10 02:51:13,116.2689166,40.2517216,3544.0,13891,,
+128,2009-01-10 06:41:01,2009-01-12 01:14:53,116.2562433,40.2313499,153232.0,13700,"User 128 will move from grid 13700 to grid 14995, arriving around in about 16 months.","User 128 will move from grid 13700 to grid 14995, at 2010-04-28 01:44:40."
+128,2009-01-13 23:53:48,2009-01-14 13:04:17,116.3331933,39.9791099,47429.0,14995,,
+128,2009-01-17 03:04:12,2009-01-17 04:45:37,116.6552883,40.2947349,6085.0,20133,"User 128 will move from grid 20133 to grid 14627, arriving around in the next month.","User 128 will move from grid 20133 to grid 14627, at 2009-02-21 14:15:14."
+128,2009-01-18 03:41:14,2009-01-18 08:29:41,116.9162283,40.1417333,17307.0,24463,,
+128,2009-01-18 10:03:54,2009-01-18 13:13:13,116.3701233,39.9081183,11359.0,15554,,
+128,2009-01-18 13:17:00,2009-01-19 01:58:21,116.372245,40.0004099,45681.0,15564,"User 128 will move from grid 15564 to grid 14995, arriving around in about 12 months.","User 128 will move from grid 15564 to grid 14995, at 2010-01-21 02:38:47."
+128,2009-02-05 01:52:59,2009-02-05 13:28:23,116.333245,39.9755166,41724.0,14994,"User 128 will move from grid 14994 to grid 14801, arriving around in the next month.","User 128 will move from grid 14994 to grid 14801, at 2009-03-22 10:12:08."
+128,2009-02-06 09:27:09,2009-02-06 11:54:08,116.461945,39.9530716,8819.0,17071,"User 128 will move from grid 17071 to grid 14994, arriving around in about 7 months.","User 128 will move from grid 17071 to grid 14994, at 2009-09-11 01:08:49."
+128,2009-02-08 05:44:22,2009-02-08 08:10:18,116.3107949,39.7639683,8756.0,14593,,
+128,2009-02-10 02:06:18,2009-02-10 14:30:17,116.3009433,40.0710083,44639.0,14438,,
+128,2009-02-11 01:44:28,2009-02-11 05:04:11,116.3327233,39.97888,11983.0,14995,,
+128,2009-02-11 05:58:12,2009-02-11 10:34:43,116.3278199,39.971875,16591.0,14805,,
+128,2009-02-11 10:48:25,2009-02-11 11:51:12,116.3131983,39.9709149,3767.0,14616,,
+128,2009-02-11 12:03:42,2009-02-11 14:08:17,116.3249966,39.97225,7475.0,14805,,
+128,2009-02-12 01:48:01,2009-02-12 14:01:26,116.3007649,40.0708566,44005.0,14438,,
+128,2009-02-14 09:08:02,2009-02-14 12:50:43,116.3126899,39.9225799,13361.0,14611,"User 128 will move from grid 14611 to grid 16693, arriving around in about 14 months.","User 128 will move from grid 14611 to grid 16693, at 2010-04-22 11:40:11."
+128,2009-02-17 02:43:39,2009-02-17 13:42:45,116.3330033,39.9789766,39546.0,14995,"User 128 will move from grid 14995 to grid 16879, arriving around in about 14 months.","User 128 will move from grid 14995 to grid 16879, at 2010-04-09 10:31:19."
+128,2009-02-18 01:57:10,2009-02-18 12:58:48,116.257935,40.0339466,39698.0,13678,,
+128,2009-02-19 01:44:30,2009-02-19 13:38:48,116.3323366,39.9798716,42858.0,14995,"User 128 will move from grid 14995 to grid 14995, arriving around in about 2 months.","User 128 will move from grid 14995 to grid 14995, at 2009-04-27 01:05:56."
+128,2009-02-20 01:53:54,2009-02-20 05:51:02,116.30316,40.0702133,14228.0,14438,"User 128 will move from grid 14438 to grid 19011, arriving around in the next month.","User 128 will move from grid 14438 to grid 19011, at 2009-03-28 04:08:41."
+128,2009-02-21 04:15:58,2009-02-21 06:32:13,116.4540966,39.9476349,8175.0,16881,,
+128,2009-02-21 14:15:14,2009-02-22 00:01:17,116.3135549,40.0737149,35163.0,14627,"User 128 will move from grid 14627 to grid 18975, arriving around later today, late at night.","User 128 will move from grid 14627 to grid 18975, at 2009-02-22 00:28:16."
+128,2009-02-22 00:28:16,2009-02-22 03:52:05,116.5845649,40.0774733,12229.0,18975,"User 128 will move from grid 18975 to grid 15752, arriving around in about 9 months.","User 128 will move from grid 18975 to grid 15752, at 2009-11-29 11:01:42."
+128,2009-03-07 09:42:01,2009-03-07 13:18:59,116.454125,39.9477533,13018.0,16881,"User 128 will move from grid 16881 to grid 9178, arriving around in about 4 weeks, specifically next Saturday.","User 128 will move from grid 16881 to grid 9178, at 2009-04-04 05:58:51."
+128,2009-03-09 10:23:39,2009-03-09 11:21:03,116.3970433,39.9082399,3444.0,15932,,
+128,2009-03-09 11:45:16,2009-03-09 12:30:41,116.3721333,40.0003016,2725.0,15564,,
+128,2009-03-11 11:54:22,2009-03-11 13:59:09,116.3468766,39.97102,7487.0,15183,"User 128 will move from grid 15183 to grid 15006, arriving around in about 2 weeks, specifically next Saturday.","User 128 will move from grid 15183 to grid 15006, at 2009-03-28 07:37:46."
+128,2009-03-14 09:34:40,2009-03-14 11:19:29,116.3163166,39.9615133,6289.0,14615,"User 128 will move from grid 14615 to grid 15371, at 2009-08-06 12:04:25.","User 128 will move from grid 14615 to grid 15371, at 2009-08-06 12:04:25."
+128,2009-03-14 11:48:12,2009-03-14 14:12:01,116.3458983,39.9800099,8629.0,15184,,
+128,2009-03-15 09:05:41,2009-03-15 13:30:48,116.3723516,39.9315266,15907.0,15557,,
+128,2009-03-17 01:38:58,2009-03-17 14:38:16,116.3325849,39.9795666,46758.0,14995,"User 128 will move from grid 14995 to grid 11799, arriving around in about 3 weeks, specifically next Monday.","User 128 will move from grid 14995 to grid 11799, at 2009-04-06 05:31:13."
+128,2009-03-18 00:26:17,2009-03-18 08:20:39,116.3313766,39.9978216,28462.0,14997,"User 128 will move from grid 14997 to grid 17070, arriving around in about 14 months.","User 128 will move from grid 14997 to grid 17070, at 2010-05-20 10:43:09."
+128,2009-03-18 08:53:56,2009-03-18 11:59:05,116.3253133,39.97546,11109.0,14805,,
+128,2009-03-18 12:02:28,2009-03-18 14:07:55,116.3442549,39.9665716,7527.0,15182,"User 128 will move from grid 15182 to grid 17055, arriving around in about 12 months.","User 128 will move from grid 15182 to grid 17055, at 2010-03-07 01:42:32."
+128,2009-03-19 08:43:11,2009-03-19 11:39:41,116.336545,39.9754566,10590.0,14994,"User 128 will move from grid 14994 to grid 14995, arriving around in about 3 months.","User 128 will move from grid 14994 to grid 14995, at 2009-06-15 01:02:42."
+128,2009-03-20 02:38:43,2009-03-20 13:24:38,116.3328633,39.9795849,38755.0,14995,,
+128,2009-03-21 08:10:50,2009-03-21 12:24:07,116.4071983,39.9144899,15197.0,16122,,
+128,2009-03-22 03:02:11,2009-03-22 03:58:59,116.384485,40.0210033,3408.0,15755,,
+128,2009-03-22 04:13:13,2009-03-22 09:21:43,116.3454849,39.97996,18510.0,15184,,
+128,2009-03-22 10:12:08,2009-03-22 14:18:17,116.3248433,39.9371733,14769.0,14801,"User 128 will move from grid 14801 to grid 16887, arriving around in about 4 months.","User 128 will move from grid 14801 to grid 16887, at 2009-07-08 11:23:02."
+128,2009-03-24 01:52:31,2009-03-24 02:50:53,116.419245,39.9477016,3502.0,16314,,
+128,2009-03-24 03:04:53,2009-03-24 11:02:40,116.3358933,39.9752183,28667.0,14994,,
+128,2009-03-24 11:07:58,2009-03-24 12:19:21,116.3468216,39.9800599,4283.0,15184,"User 128 will move from grid 15184 to grid 15374, arriving around in about 9 months.","User 128 will move from grid 15184 to grid 15374, at 2009-12-14 02:21:41."
+128,2009-03-24 12:19:21,2009-03-24 15:20:46,116.3360533,39.9757466,10885.0,14994,,
+128,2009-03-26 02:02:39,2009-03-26 12:47:26,116.3328533,39.97917,38687.0,14995,,
+128,2009-03-27 02:41:31,2009-03-27 13:45:16,116.3241566,40.0694299,39825.0,14816,,
+128,2009-03-28 01:16:08,2009-03-28 01:49:06,116.4278616,39.9441166,1978.0,16503,"User 128 will move from grid 16503 to grid 14995, arriving around in about 14 months.","User 128 will move from grid 16503 to grid 14995, at 2010-05-13 01:20:42."
+128,2009-03-28 03:22:23,2009-03-28 03:58:03,116.5796216,40.3940633,2140.0,19010,,
+128,2009-03-28 04:08:41,2009-03-28 04:39:49,116.5754683,40.4027216,1868.0,19011,"User 128 will move from grid 19011 to grid 15183, arriving around in about 2 months.","User 128 will move from grid 19011 to grid 15183, at 2009-06-03 11:53:38."
+128,2009-03-28 05:08:32,2009-03-28 06:10:22,116.6096966,40.3609416,3710.0,19384,,
+128,2009-03-28 07:37:46,2009-03-29 01:31:47,116.3342249,40.0789666,64441.0,15006,"User 128 will move from grid 15006 to grid 14805, arriving around in about 16 months.","User 128 will move from grid 15006 to grid 14805, at 2010-07-27 02:15:33."
+128,2009-03-29 01:50:20,2009-03-29 02:51:54,116.4075316,40.091145,3694.0,16141,"User 128 will move from grid 16141 to grid 13668, at 2009-08-30 04:10:59.","User 128 will move from grid 16141 to grid 13668, at 2009-08-30 04:10:59."
+128,2009-03-29 08:02:16,2009-03-29 10:48:15,116.3099483,39.98007,9959.0,14617,,
+128,2009-03-30 09:43:35,2009-03-30 12:31:27,116.2859033,39.9613999,10072.0,14237,,
+128,2009-04-01 01:29:14,2009-04-01 12:50:03,116.3332849,39.9755649,40849.0,14994,,
+128,2009-04-02 02:00:27,2009-04-02 14:36:34,116.332405,39.9734933,45367.0,14994,"User 128 will move from grid 14994 to grid 14995, at 2009-04-10 01:44:25.","User 128 will move from grid 14994 to grid 14995, at 2009-04-10 01:44:25."
+128,2009-04-04 03:45:00,2009-04-04 05:18:38,115.9773916,40.3397883,5618.0,9365,,
+128,2009-04-04 05:58:51,2009-04-04 06:38:46,115.9675816,40.3580033,2395.0,9178,"User 128 will move from grid 9178 to grid 14995, arriving around in about 10 months.","User 128 will move from grid 9178 to grid 14995, at 2010-02-01 02:08:57."
+128,2009-04-05 05:01:38,2009-04-06 00:39:44,116.1485616,40.0667666,70686.0,11981,,
+128,2009-04-06 03:34:19,2009-04-06 05:15:09,116.0850333,40.0969933,6050.0,11039,"User 128 will move from grid 11039 to grid 15563, at 2009-04-08 01:11:58.","User 128 will move from grid 11039 to grid 15563, at 2009-04-08 01:11:58."
+128,2009-04-06 05:31:13,2009-04-06 09:29:31,116.1335316,40.1333583,14298.0,11799,,
+128,2009-04-06 10:55:34,2009-04-06 11:42:25,116.45379,39.8748633,2811.0,16873,"User 128 will move from grid 16873 to grid 14995, arriving around in about 14 months.","User 128 will move from grid 16873 to grid 14995, at 2010-06-01 01:38:29."
+128,2009-04-08 01:11:58,2009-04-08 12:24:08,116.3710183,39.9858316,40330.0,15563,"User 128 will move from grid 15563 to grid 14995, arriving around in about 2 weeks, specifically next Friday.","User 128 will move from grid 15563 to grid 14995, at 2009-04-24 01:26:39."
+128,2009-04-09 00:15:55,2009-04-09 01:43:53,116.4074633,40.0912283,5278.0,16141,,
+128,2009-04-09 13:14:26,2009-04-10 01:16:16,116.2949533,40.0613983,43310.0,14437,,
+128,2009-04-10 01:44:25,2009-04-10 13:09:56,116.3328016,39.979245,41131.0,14995,,
+128,2009-04-11 04:24:35,2009-04-11 05:59:19,116.4272,39.9434866,5684.0,16503,,
+128,2009-04-11 06:30:36,2009-04-11 11:01:37,116.4833633,39.8805033,16261.0,17441,,
+128,2009-04-11 11:14:13,2009-04-11 12:10:38,116.40152,39.9097583,3385.0,16121,"User 128 will move from grid 16121 to grid 16701, arriving around in about 7 months.","User 128 will move from grid 16121 to grid 16701, at 2009-10-29 01:45:00."
+128,2009-04-13 01:36:18,2009-04-13 14:18:20,116.3326249,39.9761616,45722.0,14994,,
+128,2009-04-15 01:50:48,2009-04-15 14:00:42,116.3329816,39.9797166,43794.0,14995,"User 128 will move from grid 14995 to grid 14995, arriving around in about 10 months.","User 128 will move from grid 14995 to grid 14995, at 2010-01-27 02:20:28."
+128,2009-04-18 02:48:12,2009-04-18 03:34:39,116.3364349,40.1283249,2787.0,15011,,
+128,2009-04-19 07:35:16,2009-04-19 13:55:09,116.45447,39.8922733,22793.0,16875,"User 128 will move from grid 16875 to grid 14995, arriving around in about 1 weeks, specifically next Wednesday.","User 128 will move from grid 16875 to grid 14995, at 2009-04-29 01:05:33."
+128,2009-04-20 01:56:39,2009-04-21 11:56:18,116.3329916,39.9799166,122379.0,14995,"User 128 will move from grid 14995 to grid 14997, arriving around in about 4 weeks, specifically next Wednesday.","User 128 will move from grid 14995 to grid 14997, at 2009-05-20 00:41:37."
+128,2009-04-22 05:05:53,2009-04-22 06:47:48,116.3130033,39.8960366,6115.0,14608,"User 128 will move from grid 14608 to grid 14995, arriving around in the next month.","User 128 will move from grid 14608 to grid 14995, at 2009-06-03 01:05:23."
+128,2009-04-23 09:42:47,2009-04-23 12:47:34,116.3195383,39.974985,11087.0,14805,"User 128 will move from grid 14805 to grid 14995, at 2009-06-10 01:14:34.","User 128 will move from grid 14805 to grid 14995, at 2009-06-10 01:14:34."
+128,2009-04-23 13:10:38,2009-04-24 01:03:30,116.3282066,40.0700483,42772.0,14816,,
+128,2009-04-24 01:26:39,2009-04-24 10:57:06,116.3330183,39.9795316,34227.0,14995,"User 128 will move from grid 14995 to grid 15183, arriving around in about 3 weeks, specifically next Wednesday.","User 128 will move from grid 14995 to grid 15183, at 2009-05-13 11:48:13."
+128,2009-04-27 01:05:56,2009-04-27 09:50:58,116.332945,39.97919,31502.0,14995,,
+128,2009-04-29 01:05:33,2009-04-29 11:49:28,116.3329066,39.97973,38635.0,14995,"User 128 will move from grid 14995 to grid 16131, arriving around in about 2 months.","User 128 will move from grid 14995 to grid 16131, at 2009-06-23 10:13:27."
+128,2009-04-29 11:51:55,2009-04-29 14:03:59,116.3469199,39.9703366,7924.0,15183,,
+128,2009-04-29 14:07:44,2009-04-30 00:53:27,116.3721166,39.9665416,38743.0,15560,"User 128 will move from grid 15560 to grid 16693, at 2010-04-02 08:40:12.","User 128 will move from grid 15560 to grid 16693, at 2010-04-02 08:40:12."
+128,2009-05-02 11:31:54,2009-05-02 13:22:07,116.3948316,39.9892666,6613.0,15941,"User 128 will move from grid 15941 to grid 16888, arriving around in about 3 months.","User 128 will move from grid 15941 to grid 16888, at 2009-07-29 09:29:23."
+128,2009-05-03 03:39:23,2009-05-03 06:52:37,116.3411949,40.4120666,11594.0,15232,"User 128 will move from grid 15232 to grid 14816, arriving around in about 2 months.","User 128 will move from grid 15232 to grid 14816, at 2009-06-28 13:11:40."
+128,2009-05-04 01:17:58,2009-05-04 09:55:46,116.33335,39.9769916,31068.0,14995,,
+128,2009-05-06 00:59:48,2009-05-06 13:43:17,116.3326016,39.9798866,45809.0,14995,,
+128,2009-05-09 03:16:41,2009-05-09 06:41:17,116.3314816,39.9977199,12276.0,14997,,
+128,2009-05-09 06:53:23,2009-05-09 07:26:53,116.3348116,39.9800566,2010.0,14995,,
+128,2009-05-10 02:33:01,2009-05-10 06:15:45,116.3676383,39.9081133,13364.0,15554,"User 128 will move from grid 15554 to grid 14994, arriving around in about 2 weeks, specifically next Monday.","User 128 will move from grid 15554 to grid 14994, at 2009-05-25 01:12:05."
+128,2009-05-10 12:57:20,2009-05-10 14:12:08,116.4278983,39.9443699,4488.0,16503,"User 128 will move from grid 16503 to grid 14816, arriving around in about 8 months.","User 128 will move from grid 16503 to grid 14816, at 2010-01-20 02:21:47."
+128,2009-05-13 11:48:13,2009-05-13 13:19:02,116.3468533,39.9709799,5449.0,15183,,
+128,2009-05-15 01:11:28,2009-05-15 09:10:55,116.3327116,39.97954,28767.0,14995,"User 128 will move from grid 14995 to grid 15941, arriving around in about 2 months.","User 128 will move from grid 14995 to grid 15941, at 2009-07-03 12:18:28."
+128,2009-05-17 01:52:09,2009-05-17 02:32:54,116.3939466,39.8901533,2445.0,15930,"User 128 will move from grid 15930 to grid 15184, arriving around in about 3 days, on 2009-05-20.","User 128 will move from grid 15930 to grid 15184, at 2009-05-20 09:45:09."
+128,2009-05-17 03:19:55,2009-05-17 04:11:10,116.3993449,39.8942066,3075.0,16119,"User 128 will move from grid 16119 to grid 15741, arriving around in about 5 months.","User 128 will move from grid 16119 to grid 15741, at 2009-10-25 04:30:23."
+128,2009-05-17 05:05:32,2009-05-18 00:27:08,116.3212033,40.0734466,69696.0,14816,"User 128 will move from grid 14816 to grid 14995, arriving around in about 15 months.","User 128 will move from grid 14816 to grid 14995, at 2010-08-02 01:44:20."
+128,2009-05-18 00:59:13,2009-05-18 09:45:00,116.3331249,39.9753866,31547.0,14994,"User 128 will move from grid 14994 to grid 17248, arriving around in about 1 days, on 2009-05-20.","User 128 will move from grid 14994 to grid 17248, at 2009-05-20 06:02:06."
+128,2009-05-20 00:41:37,2009-05-20 05:38:37,116.3314366,39.9946616,17820.0,14997,,
+128,2009-05-20 06:02:06,2009-05-20 09:04:15,116.4781133,39.8475616,10929.0,17248,"User 128 will move from grid 17248 to grid 14251, arriving around in about 7 months.","User 128 will move from grid 17248 to grid 14251, at 2009-12-12 03:34:03."
+128,2009-05-20 09:45:09,2009-05-20 12:55:02,116.3458816,39.9838199,11393.0,15184,"User 128 will move from grid 15184 to grid 17070, arriving around in about 3 months.","User 128 will move from grid 15184 to grid 17070, at 2009-08-18 12:41:15."
+128,2009-05-20 13:04:46,2009-05-20 14:02:35,116.3469066,39.9707183,3469.0,15183,,
+128,2009-05-22 01:23:42,2009-05-22 12:30:55,116.3329933,39.9790333,40033.0,14995,"User 128 will move from grid 14995 to grid 14805, arriving around in about 4 months.","User 128 will move from grid 14995 to grid 14805, at 2009-09-13 08:56:52."
+128,2009-05-25 01:12:05,2009-05-25 10:52:29,116.3334633,39.9757916,34824.0,14994,,
+128,2009-05-26 01:24:27,2009-05-26 10:08:37,116.3327583,39.9790366,31450.0,14995,"User 128 will move from grid 14995 to grid 14994, arriving around in about 6 months.","User 128 will move from grid 14995 to grid 14994, at 2009-12-02 01:44:37."
+128,2009-05-26 10:28:33,2009-05-27 00:57:28,116.3283999,40.0725083,52135.0,14816,"User 128 will move from grid 14816 to grid 14995, arriving around in about 11 months.","User 128 will move from grid 14816 to grid 14995, at 2010-04-27 01:44:25."
+128,2009-05-27 01:20:34,2009-05-27 06:02:29,116.3327616,39.9799833,16915.0,14995,"User 128 will move from grid 14995 to grid 10460, arriving around in about 1 days, on 2009-05-29.","User 128 will move from grid 14995 to grid 10460, at 2009-05-29 05:41:20."
+128,2009-05-27 08:55:49,2009-05-27 09:35:07,116.2660566,40.2572499,2358.0,13892,"User 128 will move from grid 13892 to grid 16694, at 2009-11-28 11:25:32.","User 128 will move from grid 13892 to grid 16694, at 2009-11-28 11:25:32."
+128,2009-05-29 03:29:06,2009-05-29 04:55:14,116.022925,40.0699783,5168.0,9902,"User 128 will move from grid 9902 to grid 14995, at 2009-06-01 01:05:40.","User 128 will move from grid 9902 to grid 14995, at 2009-06-01 01:05:40."
+128,2009-05-29 05:41:20,2009-05-29 06:39:07,116.0477483,39.9889466,3467.0,10460,"User 128 will move from grid 10460 to grid 15942, arriving around in about 7 months.","User 128 will move from grid 10460 to grid 15942, at 2009-12-31 12:31:02."
+128,2009-06-01 01:05:40,2009-06-01 10:45:53,116.3332199,39.979455,34813.0,14995,"User 128 will move from grid 14995 to grid 14995, arriving around in the next month.","User 128 will move from grid 14995 to grid 14995, at 2009-07-09 23:32:33."
+128,2009-06-02 00:41:44,2009-06-02 10:19:07,116.3326749,39.9791166,34643.0,14995,"User 128 will move from grid 14995 to grid 15952, arriving around in about 7 months.","User 128 will move from grid 14995 to grid 15952, at 2010-01-08 01:52:18."
+128,2009-06-03 01:05:23,2009-06-03 11:50:58,116.3328216,39.9793499,38735.0,14995,,
+128,2009-06-03 11:53:38,2009-06-03 13:56:00,116.3469533,39.9708766,7342.0,15183,,
+128,2009-06-05 00:56:22,2009-06-05 08:51:48,116.3330966,39.975375,28526.0,14994,"User 128 will move from grid 14994 to grid 14429, arriving around in about 3 weeks, specifically next Wednesday.","User 128 will move from grid 14994 to grid 14429, at 2009-06-24 10:31:42."
+128,2009-06-05 09:13:53,2009-06-06 03:47:46,116.4551366,40.0070816,66833.0,16888,"User 128 will move from grid 16888 to grid 14816, arriving around in about 10 months.","User 128 will move from grid 16888 to grid 14816, at 2010-04-01 00:41:32."
+128,2009-06-06 04:20:32,2009-06-06 09:40:39,116.454285,39.9324916,19207.0,16880,,
+128,2009-06-08 00:56:10,2009-06-08 11:17:29,116.3327616,39.9753833,37279.0,14994,,
+128,2009-06-09 01:23:39,2009-06-09 11:38:22,116.3327299,39.9796833,36883.0,14995,"User 128 will move from grid 14995 to grid 34585, arriving around in the next month.","User 128 will move from grid 14995 to grid 34585, at 2009-07-11 02:41:05."
+128,2009-06-10 01:14:34,2009-06-10 11:53:04,116.332405,39.9799833,38310.0,14995,"User 128 will move from grid 14995 to grid 16880, arriving around in about 2 months.","User 128 will move from grid 14995 to grid 16880, at 2009-08-21 09:36:20."
+128,2009-06-10 11:54:43,2009-06-10 13:53:05,116.34705,39.9704049,7102.0,15183,"User 128 will move from grid 15183 to grid 14251, arriving around in about 7 months.","User 128 will move from grid 15183 to grid 14251, at 2009-12-30 02:03:01."
+128,2009-06-11 01:39:42,2009-06-11 11:33:07,116.3473066,39.9865033,35605.0,15185,"User 128 will move from grid 15185 to grid 15562, arriving around in the next month.","User 128 will move from grid 15185 to grid 15562, at 2009-07-25 09:28:04."
+128,2009-06-12 01:50:26,2009-06-12 08:17:27,116.3328183,39.979215,23221.0,14995,"User 128 will move from grid 14995 to grid 14995, arriving around in about 3 months.","User 128 will move from grid 14995 to grid 14995, at 2009-09-01 01:15:09."
+128,2009-06-12 10:26:43,2009-06-12 14:10:41,116.4775816,39.9890616,13438.0,17264,,
+128,2009-06-13 09:30:16,2009-06-13 10:13:16,116.3367516,40.1300833,2580.0,15012,,
+128,2009-06-14 03:03:18,2009-06-14 03:57:39,116.6930666,40.6185583,3261.0,20925,"User 128 will move from grid 20925 to grid 14995, arriving around in about 3 months.","User 128 will move from grid 20925 to grid 14995, at 2009-09-15 01:18:16."
+128,2009-06-14 04:03:22,2009-06-14 05:01:43,116.6891299,40.6185833,3501.0,20736,"User 128 will move from grid 20736 to grid 14428, arriving around in about 13 months.","User 128 will move from grid 20736 to grid 14428, at 2010-07-04 08:42:05."
+128,2009-06-14 05:12:46,2009-06-14 06:06:38,116.6920999,40.6275849,3232.0,20737,,
+128,2009-06-15 01:02:42,2009-06-15 12:26:31,116.3327233,39.9789983,41029.0,14995,,
+128,2009-06-16 11:07:42,2009-06-16 12:39:57,116.46154,40.0071566,5535.0,17077,"User 128 will move from grid 17077 to grid 14237, arriving around in about 4 months.","User 128 will move from grid 17077 to grid 14237, at 2009-10-24 10:13:44."
+128,2009-06-18 01:17:31,2009-06-18 12:38:36,116.3327016,39.9795833,40865.0,14995,"User 128 will move from grid 14995 to grid 17070, arriving around in about 2 months.","User 128 will move from grid 14995 to grid 17070, at 2009-08-18 09:43:33."
+128,2009-06-19 01:11:52,2009-06-19 11:30:56,116.3326599,39.9793049,37144.0,14995,"User 128 will move from grid 14995 to grid 14805, arriving around in about 8 months.","User 128 will move from grid 14995 to grid 14805, at 2010-01-31 12:42:16."
+128,2009-06-21 02:33:36,2009-06-21 03:44:21,116.4780166,39.8476066,4245.0,17248,,
+128,2009-06-21 04:10:12,2009-06-21 04:58:06,116.4778916,39.8024933,2874.0,17243,,
+128,2009-06-21 05:04:57,2009-06-21 06:13:37,116.5078899,39.8091216,4120.0,17811,"User 128 will move from grid 17811 to grid 14995, arriving around in about 7 months.","User 128 will move from grid 17811 to grid 14995, at 2010-01-15 02:44:37."
+128,2009-06-21 07:02:38,2009-06-21 08:50:07,116.3377983,39.9770233,6449.0,14995,"User 128 will move from grid 14995 to grid 15006, arriving around in about 2 months.","User 128 will move from grid 14995 to grid 15006, at 2009-08-20 13:44:02."
+128,2009-06-21 08:50:07,2009-06-21 10:39:24,116.3281899,40.0734216,6557.0,14816,,
+128,2009-06-21 11:24:44,2009-06-22 00:35:22,116.3323666,40.0789183,47438.0,15006,,
+128,2009-06-22 01:03:23,2009-06-22 11:43:09,116.7403899,40.1025733,38386.0,21624,,
+128,2009-06-23 10:13:27,2009-06-23 11:58:00,116.4014633,39.9979583,6273.0,16131,"User 128 will move from grid 16131 to grid 10871, arriving around in about 7 months.","User 128 will move from grid 16131 to grid 10871, at 2010-01-16 06:01:53."
+128,2009-06-24 10:31:42,2009-06-24 12:35:26,116.29419,39.9899283,7424.0,14429,"User 128 will move from grid 14429 to grid 14805, arriving around in about 4 weeks, specifically next Thursday.","User 128 will move from grid 14429 to grid 14805, at 2009-07-23 02:03:48."
+128,2009-06-24 13:51:41,2009-06-24 22:38:25,116.3133166,40.0736749,31604.0,14627,,
+128,2009-06-27 10:48:24,2009-06-27 12:43:55,116.4066616,39.99806,6931.0,16131,,
+128,2009-06-28 08:40:48,2009-06-28 12:46:08,116.27783,39.9184533,14720.0,14043,"User 128 will move from grid 14043 to grid 16503, arriving around in about 14 months.","User 128 will move from grid 14043 to grid 16503, at 2010-08-21 04:31:21."
+128,2009-06-28 13:11:40,2009-06-28 23:42:59,116.3285149,40.0702099,37879.0,14816,,
+128,2009-06-29 00:09:24,2009-06-29 13:35:41,116.3333716,39.975275,48377.0,14994,,
+128,2009-07-01 11:04:00,2009-07-01 13:22:08,116.3481866,39.9664616,8288.0,15182,,
+128,2009-07-03 11:01:53,2009-07-03 11:59:28,116.4618083,39.9977499,3455.0,17076,,
+128,2009-07-03 12:18:28,2009-07-03 13:48:26,116.3949866,39.9892966,5398.0,15941,"User 128 will move from grid 15941 to grid 13686, arriving around in about 7 months.","User 128 will move from grid 15941 to grid 13686, at 2010-01-31 13:55:56."
+128,2009-07-04 06:04:26,2009-07-04 06:51:36,116.0365033,39.9800916,2830.0,10270,,
+128,2009-07-04 08:13:07,2009-07-05 00:34:59,115.6411532,39.9940233,58912.0,3845,,
+128,2009-07-05 01:54:11,2009-07-05 02:38:13,115.576105,39.8361483,2642.0,2694,,
+128,2009-07-05 02:38:13,2009-07-05 03:14:16,115.5826449,39.82976,2163.0,2882,,
+128,2009-07-05 04:13:07,2009-07-05 04:46:28,115.5966182,39.8271599,2001.0,3071,"User 128 will move from grid 3071 to grid 14807, arriving around in about 2 weeks, specifically next Sunday.","User 128 will move from grid 3071 to grid 14807, at 2009-07-19 11:28:25."
+128,2009-07-05 04:51:33,2009-07-05 05:24:01,115.5941483,39.823205,1948.0,3070,,
+128,2009-07-05 09:46:28,2009-07-05 12:17:59,116.3280499,39.92623,9091.0,14800,,
+128,2009-07-06 22:50:42,2009-07-07 13:06:47,116.3329316,39.9800216,51365.0,14995,,
+128,2009-07-07 23:50:31,2009-07-08 10:11:47,116.3332533,39.9793416,37276.0,14995,"User 128 will move from grid 14995 to grid 14627, arriving around in about 2 weeks, specifically next Friday.","User 128 will move from grid 14995 to grid 14627, at 2009-07-24 14:50:40."
+128,2009-07-08 10:38:45,2009-07-08 11:19:36,116.4548016,40.0101416,2451.0,16888,,
+128,2009-07-08 11:23:02,2009-07-08 12:35:03,116.4565783,39.9979933,4321.0,16887,,
+128,2009-07-09 23:32:33,2009-07-10 12:56:29,116.3327283,39.9798916,48236.0,14995,,
+128,2009-07-11 02:41:05,2009-07-15 03:36:22,117.5485566,41.0864383,348917.0,34585,"User 128 will move from grid 34585 to grid 14995, arriving around in about 9 months.","User 128 will move from grid 34585 to grid 14995, at 2010-03-29 01:50:34."
+128,2009-07-15 06:00:19,2009-07-15 08:30:46,116.36266,39.9776216,9027.0,15373,"User 128 will move from grid 15373 to grid 17636, at 2010-02-26 05:54:09.","User 128 will move from grid 15373 to grid 17636, at 2010-02-26 05:54:09."
+128,2009-07-16 10:03:49,2009-07-16 13:08:07,116.4568283,39.9981833,11058.0,16887,,
+128,2009-07-18 01:00:02,2009-07-18 04:10:21,116.3131049,40.0739033,11419.0,14627,,
+128,2009-07-18 06:32:34,2009-07-18 08:30:09,116.3636999,39.9711199,7055.0,15372,"User 128 will move from grid 15372 to grid 13699, arriving around in about 10 months.","User 128 will move from grid 15372 to grid 13699, at 2010-05-08 10:58:19."
+128,2009-07-18 08:36:18,2009-07-18 12:26:37,116.3359133,39.9750966,13819.0,14994,,
+128,2009-07-19 10:37:51,2009-07-19 11:12:05,116.4552416,40.0101583,2054.0,16888,,
+128,2009-07-19 11:28:25,2009-07-19 12:23:09,116.3247733,39.9941199,3284.0,14807,,
+128,2009-07-21 09:34:09,2009-07-21 10:09:54,116.3624983,39.9856166,2145.0,15374,"User 128 will move from grid 15374 to grid 14805, arriving around in about 1 weeks, specifically next Thursday.","User 128 will move from grid 15374 to grid 14805, at 2009-07-30 01:59:16."
+128,2009-07-21 10:31:42,2009-07-21 13:53:11,116.4772683,39.989025,12089.0,17264,"User 128 will move from grid 17264 to grid 14995, arriving around in about 5 months.","User 128 will move from grid 17264 to grid 14995, at 2009-12-18 01:50:35."
+128,2009-07-22 03:47:41,2009-07-22 11:51:38,116.3329133,39.9795866,29037.0,14995,,
+128,2009-07-22 11:51:38,2009-07-22 13:26:38,116.3422099,39.966965,5700.0,15182,,
+128,2009-07-22 23:12:39,2009-07-23 01:50:17,116.288445,39.9571649,9458.0,14236,,
+128,2009-07-23 02:03:48,2009-07-23 13:01:12,116.3277866,39.9717966,39444.0,14805,"User 128 will move from grid 14805 to grid 14995, at 2010-03-10 02:08:37.","User 128 will move from grid 14805 to grid 14995, at 2010-03-10 02:08:37."
+128,2009-07-24 14:50:40,2009-07-25 01:04:46,116.3134533,40.0736849,36846.0,14627,,
+128,2009-07-25 09:28:04,2009-07-25 13:40:04,116.3721583,39.9790549,15120.0,15562,,
+128,2009-07-29 03:33:59,2009-07-29 09:11:14,116.3367416,39.9751516,20235.0,14994,,
+128,2009-07-29 09:29:23,2009-07-29 11:43:16,116.4554199,40.0101666,8033.0,16888,,
+128,2009-07-30 01:59:16,2009-07-30 13:33:37,116.3277516,39.9720533,41661.0,14805,,
+128,2009-08-01 01:55:01,2009-08-01 02:45:48,116.4078466,40.0609816,3047.0,16138,,
+128,2009-08-01 08:40:51,2009-08-01 09:22:13,116.3720466,39.94777,2482.0,15558,"User 128 will move from grid 15558 to grid 17075, at 2009-08-03 12:26:42.","User 128 will move from grid 15558 to grid 17075, at 2009-08-03 12:26:42."
+128,2009-08-01 09:25:51,2009-08-01 13:12:01,116.3682516,39.9081216,13570.0,15554,,
+128,2009-08-02 02:04:49,2009-08-02 04:00:57,116.3366966,39.9749749,6968.0,14994,"User 128 will move from grid 14994 to grid 14805, arriving around in about 8 months.","User 128 will move from grid 14994 to grid 14805, at 2010-04-13 13:14:17."
+128,2009-08-03 01:44:27,2009-08-03 10:06:32,116.3357283,39.9750049,30125.0,14994,,
+128,2009-08-03 11:29:33,2009-08-03 12:08:16,116.4101283,40.0068983,2323.0,16132,,
+128,2009-08-03 12:26:42,2009-08-03 13:30:17,116.4663766,39.9925416,3815.0,17075,,
+128,2009-08-03 13:47:04,2009-08-03 21:49:33,116.405325,40.0210083,28949.0,16133,,
+128,2009-08-05 06:08:02,2009-08-05 14:11:40,116.34695,39.9890433,29018.0,15185,,
+128,2009-08-06 01:53:52,2009-08-06 10:39:47,116.3356449,39.9753466,31555.0,14994,"User 128 will move from grid 14994 to grid 15747, at 2009-11-28 06:51:42.","User 128 will move from grid 14994 to grid 15747, at 2009-11-28 06:51:42."
+128,2009-08-06 10:57:32,2009-08-06 11:44:17,116.4554083,40.0101183,2805.0,16888,"User 128 will move from grid 16888 to grid 14995, arriving around in about 2 months.","User 128 will move from grid 16888 to grid 14995, at 2009-09-29 23:41:40."
+128,2009-08-06 12:04:25,2009-08-06 13:17:27,116.3605433,39.96676,4382.0,15371,"User 128 will move from grid 15371 to grid 16694, arriving around in about 8 months.","User 128 will move from grid 15371 to grid 16694, at 2010-04-13 10:07:02."
+128,2009-08-07 06:05:17,2009-08-08 06:28:28,117.5414099,39.7284949,87791.0,34434,"User 128 will move from grid 34434 to grid 14994, arriving around in the next month.","User 128 will move from grid 34434 to grid 14994, at 2009-09-08 06:24:21."
+128,2009-08-09 09:47:00,2009-08-09 10:50:59,116.4616616,39.9977133,3839.0,17076,"User 128 will move from grid 17076 to grid 15006, arriving around in about 5 months.","User 128 will move from grid 17076 to grid 15006, at 2009-12-28 13:09:45."
+128,2009-08-09 10:55:32,2009-08-09 13:48:40,116.4781699,39.9901383,10388.0,17264,,
+128,2009-08-10 15:00:01,2009-08-11 00:20:50,116.3283649,40.0739599,33649.0,14816,"User 128 will move from grid 14816 to grid 13320, arriving around in about 8 months.","User 128 will move from grid 14816 to grid 13320, at 2010-04-11 07:36:43."
+128,2009-08-11 00:48:06,2009-08-11 12:28:56,116.3329366,39.9753949,42050.0,14994,"User 128 will move from grid 14994 to grid 13887, arriving around in the next month.","User 128 will move from grid 14994 to grid 13887, at 2009-09-19 11:34:23."
+128,2009-08-12 11:54:04,2009-08-12 13:42:20,116.34688,39.9710283,6496.0,15183,,
+128,2009-08-14 01:05:22,2009-08-14 12:44:26,116.3327966,39.9797033,41944.0,14995,"User 128 will move from grid 14995 to grid 14995, arriving around in about 3 months.","User 128 will move from grid 14995 to grid 14995, at 2009-11-21 05:47:13."
+128,2009-08-18 01:32:37,2009-08-18 09:43:33,116.3330983,39.9794999,29456.0,14995,"User 128 will move from grid 14995 to grid 10110, arriving around in about 2 months.","User 128 will move from grid 14995 to grid 10110, at 2009-11-02 01:42:14."
+128,2009-08-18 09:43:33,2009-08-18 11:40:33,116.4578299,39.9475766,7020.0,17070,,
+128,2009-08-18 11:40:33,2009-08-18 12:39:45,116.4663933,39.947855,3552.0,17070,,
+128,2009-08-18 12:41:15,2009-08-18 13:44:14,116.4663466,39.9438333,3779.0,17070,,
+128,2009-08-20 13:44:02,2009-08-21 01:12:39,116.3367516,40.0786183,41317.0,15006,,
+128,2009-08-21 09:36:20,2009-08-21 12:32:26,116.4545733,39.932465,10566.0,16880,,
+128,2009-08-23 09:35:24,2009-08-23 11:12:06,116.4664199,39.9438766,5802.0,17070,"User 128 will move from grid 17070 to grid 16693, arriving around in about 3 months.","User 128 will move from grid 17070 to grid 16693, at 2009-11-29 04:25:04."
+128,2009-08-24 10:24:37,2009-08-24 12:33:59,116.4550833,40.0102516,7762.0,16888,"User 128 will move from grid 16888 to grid 17065, arriving around in about 14 months.","User 128 will move from grid 16888 to grid 17065, at 2010-10-17 09:32:41."
+128,2009-08-24 13:09:45,2009-08-24 14:08:26,116.33572,39.9750433,3521.0,14994,"User 128 will move from grid 14994 to grid 10091, arriving around in about 3 months.","User 128 will move from grid 14994 to grid 10091, at 2009-11-21 03:03:30."
+128,2009-08-25 01:48:35,2009-08-25 13:58:30,116.33335,39.9752249,43795.0,14994,"User 128 will move from grid 14994 to grid 13699, arriving around in about 8 months.","User 128 will move from grid 14994 to grid 13699, at 2010-04-11 05:54:48."
+128,2009-08-30 04:10:59,2009-08-30 05:19:11,116.2548083,39.9454633,4092.0,13668,,
+128,2009-08-30 06:17:51,2009-08-30 08:03:26,116.1599299,40.261185,6335.0,12191,"User 128 will move from grid 12191 to grid 14994, arriving around in about 3 months.","User 128 will move from grid 12191 to grid 14994, at 2009-11-25 02:05:58."
+128,2009-08-30 08:08:55,2009-08-30 09:43:56,116.1580649,40.2612849,5701.0,12191,,
+128,2009-09-01 01:15:09,2009-09-01 10:01:03,116.3329733,39.9792,31554.0,14995,"User 128 will move from grid 14995 to grid 16314, arriving around in about 9 months.","User 128 will move from grid 14995 to grid 16314, at 2010-06-10 10:31:34."
+128,2009-09-01 10:14:10,2009-09-01 13:29:36,116.4546066,39.8926216,11726.0,16875,,
+128,2009-09-02 01:25:56,2009-09-02 05:20:45,116.3337099,39.975485,14089.0,14994,"User 128 will move from grid 14994 to grid 14995, arriving around in about 3 months.","User 128 will move from grid 14994 to grid 14995, at 2009-12-11 02:14:29."
+128,2009-09-02 08:12:09,2009-09-04 09:09:45,117.5420916,40.8740766,176256.0,34561,,
+128,2009-09-04 09:33:45,2009-09-04 13:10:07,117.2771733,40.7127566,12982.0,30196,,
+128,2009-09-05 08:57:52,2009-09-05 10:42:36,116.4768283,39.9070833,6284.0,17255,"User 128 will move from grid 17255 to grid 17070, arriving around in about 1 weeks, specifically next Sunday.","User 128 will move from grid 17255 to grid 17070, at 2009-09-13 02:32:58."
+128,2009-09-06 09:59:01,2009-09-06 12:07:13,116.461685,39.9441599,7692.0,17070,,
+128,2009-09-08 01:03:49,2009-09-08 04:34:10,116.332055,39.9753916,12621.0,14994,,
+128,2009-09-08 04:52:48,2009-09-08 05:48:49,116.384065,39.9862816,3361.0,15752,,
+128,2009-09-08 06:24:21,2009-09-08 13:10:11,116.3367449,39.9752933,24350.0,14994,,
+128,2009-09-11 01:08:49,2009-09-11 14:20:34,116.3327783,39.9753716,47505.0,14994,,
+128,2009-09-12 05:23:35,2009-09-12 06:07:07,116.3131749,39.9750316,2612.0,14616,,
+128,2009-09-12 06:21:27,2009-09-12 07:51:58,116.3249716,39.9748166,5431.0,14805,,
+128,2009-09-12 07:55:07,2009-09-12 08:27:19,116.339405,40.0472649,1932.0,15002,"User 128 will move from grid 15002 to grid 14805, at 2009-09-12 09:33:05.","User 128 will move from grid 15002 to grid 14805, at 2009-09-12 09:33:05."
+128,2009-09-12 09:33:05,2009-09-12 11:33:48,116.3249749,39.9746499,7243.0,14805,,
+128,2009-09-12 11:35:47,2009-09-12 12:17:31,116.3306583,39.9755649,2504.0,14994,,
+128,2009-09-12 12:17:31,2009-09-12 13:25:50,116.3378983,39.9769866,4099.0,14995,"User 128 will move from grid 14995 to grid 15043, arriving around in about 2 months.","User 128 will move from grid 14995 to grid 15043, at 2009-10-31 05:28:12."
+128,2009-09-13 02:32:58,2009-09-13 04:09:56,116.4617566,39.9440899,5818.0,17070,"User 128 will move from grid 17070 to grid 14995, arriving around in about 9 months.","User 128 will move from grid 17070 to grid 14995, at 2010-05-31 01:38:17."
+128,2009-09-13 04:28:53,2009-09-13 07:22:09,116.5846449,40.07885,10396.0,18975,"User 128 will move from grid 18975 to grid 14995, arriving around in the next month.","User 128 will move from grid 18975 to grid 14995, at 2009-10-26 01:38:29."
+128,2009-09-13 08:56:52,2009-09-13 13:47:16,116.3277866,39.9712866,17424.0,14805,,
+128,2009-09-15 01:18:16,2009-09-15 14:10:56,116.3328116,39.9797216,46360.0,14995,,
+128,2009-09-16 01:09:59,2009-09-16 13:38:25,116.3327716,39.9793366,44906.0,14995,,
+128,2009-09-17 00:31:03,2009-09-17 13:34:25,116.3332549,39.9754933,47002.0,14994,,
+128,2009-09-18 01:17:30,2009-09-18 13:44:38,116.3328516,39.9791799,44828.0,14995,"User 128 will move from grid 14995 to grid 28255, arriving around in about 4 weeks, specifically next Saturday.","User 128 will move from grid 14995 to grid 28255, at 2009-10-17 04:02:08."
+128,2009-09-19 11:34:23,2009-09-19 12:12:04,116.2660416,40.2115466,2261.0,13887,"User 128 will move from grid 13887 to grid 14804, arriving around in about 2 months.","User 128 will move from grid 13887 to grid 14804, at 2009-12-02 08:31:01."
+128,2009-09-20 01:27:30,2009-09-20 02:19:14,116.20675,39.992415,3104.0,12917,,
+128,2009-09-20 02:39:52,2009-09-20 03:28:41,116.1825583,39.99805,2929.0,12540,,
+128,2009-09-20 03:28:41,2009-09-20 05:02:29,116.17178,40.0010949,5628.0,12351,"User 128 will move from grid 12351 to grid 15180, arriving around in about 6 months.","User 128 will move from grid 12351 to grid 15180, at 2010-03-11 04:58:28."
+128,2009-09-20 05:30:05,2009-09-21 00:15:05,116.1835916,40.0185599,67500.0,12542,,
+128,2009-09-22 01:14:54,2009-09-22 14:21:08,116.3325666,39.9795666,47174.0,14995,,
+128,2009-09-22 14:34:58,2009-09-23 00:39:41,116.3131899,40.0737116,36283.0,14627,"User 128 will move from grid 14627 to grid 15184, arriving around in about 7 months.","User 128 will move from grid 14627 to grid 15184, at 2010-04-11 02:47:06."
+128,2009-09-23 01:23:39,2009-09-23 13:26:20,116.3329783,39.9799883,43361.0,14995,"User 128 will move from grid 14995 to grid 17077, at 2009-12-28 07:38:13.","User 128 will move from grid 14995 to grid 17077, at 2009-12-28 07:38:13."
+128,2009-09-24 00:42:00,2009-09-24 13:47:13,116.333455,39.9759183,47113.0,14994,"User 128 will move from grid 14994 to grid 18975, arriving around in about 8 months.","User 128 will move from grid 14994 to grid 18975, at 2010-05-23 02:13:14."
+128,2009-09-25 00:56:56,2009-09-25 14:11:54,116.3329483,39.9794833,47698.0,14995,"User 128 will move from grid 14995 to grid 14816, arriving around in about 6 months.","User 128 will move from grid 14995 to grid 14816, at 2010-03-21 14:30:52."
+128,2009-09-28 01:29:33,2009-09-28 13:40:56,116.33284,39.9796383,43883.0,14995,"User 128 will move from grid 14995 to grid 14816, arriving around in about 10 months.","User 128 will move from grid 14995 to grid 14816, at 2010-07-12 10:20:27."
+128,2009-09-29 01:34:49,2009-09-29 13:38:30,116.3331249,39.97539,43421.0,14994,,
+128,2009-09-29 23:41:40,2009-09-30 13:11:14,116.333035,39.9792816,48574.0,14995,"User 128 will move from grid 14995 to grid 7629, arriving around in about 2 weeks, specifically next Saturday.","User 128 will move from grid 14995 to grid 7629, at 2009-10-17 00:04:26."
+128,2009-10-01 02:44:03,2009-10-07 09:44:39,117.53963,39.7282533,543636.0,34434,"User 128 will move from grid 34434 to grid 14995, arriving around in about 5 months.","User 128 will move from grid 34434 to grid 14995, at 2010-02-28 07:48:01."
+128,2009-10-08 07:02:22,2009-10-08 13:50:17,116.3456133,39.9439966,24475.0,15180,,
+128,2009-10-14 01:08:37,2009-10-14 12:45:32,116.3329149,39.9796366,41815.0,14995,,
+128,2009-10-17 00:04:26,2009-10-17 03:04:53,115.8744162,40.0294149,10827.0,7629,,
+128,2009-10-17 03:11:40,2009-10-17 03:44:45,117.1497883,40.2453833,1985.0,28065,,
+128,2009-10-17 04:02:08,2009-10-17 04:34:18,117.1615716,40.25236,1930.0,28255,,
+128,2009-10-17 08:19:49,2009-10-18 06:04:26,116.3546833,40.0217083,78277.0,15378,,
+128,2009-10-18 07:08:39,2009-10-18 08:05:47,116.3849166,39.9169733,3428.0,15744,"User 128 will move from grid 15744 to grid 16685, arriving around in about 5 months.","User 128 will move from grid 15744 to grid 16685, at 2010-03-07 07:59:52."
+128,2009-10-18 08:40:32,2009-10-18 09:25:17,116.38389,39.9210683,2685.0,15744,,
+128,2009-10-18 10:27:26,2009-10-18 13:35:48,116.3277483,39.9718516,11302.0,14805,"User 128 will move from grid 14805 to grid 16701, arriving around in about 1 weeks, specifically next Thursday.","User 128 will move from grid 14805 to grid 16701, at 2009-10-29 01:07:17."
+128,2009-10-18 13:52:31,2009-10-19 00:44:04,116.3142033,40.0739916,39093.0,14627,"User 128 will move from grid 14627 to grid 11223, arriving around in about 6 months.","User 128 will move from grid 14627 to grid 11223, at 2010-04-10 00:56:35."
+128,2009-10-19 01:14:38,2009-10-19 12:46:42,116.3328666,39.9794299,41524.0,14995,,
+128,2009-10-20 10:13:14,2009-10-20 12:18:53,116.4554399,40.0101716,7539.0,16888,,
+128,2009-10-21 12:09:06,2009-10-21 14:08:56,116.3458266,39.9663183,7190.0,15182,,
+128,2009-10-23 11:07:45,2009-10-23 12:31:58,116.4659083,39.9736066,5053.0,17073,,
+128,2009-10-23 12:32:43,2009-10-24 06:56:33,116.4663016,39.9744266,66230.0,17073,,
+128,2009-10-24 10:13:44,2009-10-24 13:00:20,116.2856283,39.9618883,9996.0,14237,,
+128,2009-10-25 04:30:23,2009-10-25 06:35:58,116.3846883,39.8884033,7535.0,15741,,
+128,2009-10-25 06:37:52,2009-10-25 07:12:09,116.4664233,39.9477049,2057.0,17070,"User 128 will move from grid 17070 to grid 14995, arriving around in about 3 months.","User 128 will move from grid 17070 to grid 14995, at 2010-02-04 02:20:24."
+128,2009-10-25 08:29:11,2009-10-26 01:09:03,116.7575749,39.5364732,59992.0,21750,,
+128,2009-10-26 01:38:29,2009-10-26 12:37:40,116.3330583,39.9796316,39551.0,14995,"User 128 will move from grid 14995 to grid 14995, arriving around in about 6 months.","User 128 will move from grid 14995 to grid 14995, at 2010-04-30 01:26:30."
+128,2009-10-28 12:08:14,2009-10-28 13:58:30,116.3465216,39.9704266,6616.0,15183,,
+128,2009-10-29 01:07:17,2009-10-29 01:45:00,116.435215,40.0245799,2263.0,16701,,
+128,2009-10-29 01:45:00,2009-10-29 02:28:02,116.4354716,40.0256333,2582.0,16701,,
+128,2009-10-31 02:43:35,2009-10-31 03:16:07,116.3957166,40.0868733,1952.0,15952,,
+128,2009-10-31 04:56:38,2009-10-31 05:28:12,116.3412433,40.4122733,1894.0,15232,,
+128,2009-10-31 05:28:12,2009-10-31 06:02:18,116.3367433,40.41554,2046.0,15043,"User 128 will move from grid 15043 to grid 14995, arriving around in about 10 months.","User 128 will move from grid 15043 to grid 14995, at 2010-08-23 01:11:31."
+128,2009-11-01 00:57:02,2009-11-01 05:42:40,116.3105316,39.9798833,17138.0,14617,,
+128,2009-11-01 06:17:06,2009-11-02 00:56:34,116.3013016,40.0763866,67168.0,14439,,
+128,2009-11-02 01:42:14,2009-11-02 13:52:07,116.0304699,40.2395,43793.0,10110,"User 128 will move from grid 10110 to grid 16881, arriving around in about 4 weeks, specifically next Sunday.","User 128 will move from grid 10110 to grid 16881, at 2009-11-29 09:58:14."
+128,2009-11-03 14:40:56,2009-11-04 00:54:41,116.2949033,40.0613333,36825.0,14437,,
+128,2009-11-04 01:26:20,2009-11-04 12:24:35,116.3328533,39.979385,39495.0,14995,,
+128,2009-11-05 01:32:47,2009-11-05 11:59:25,116.3329233,39.9794066,37598.0,14995,"User 128 will move from grid 14995 to grid 14995, arriving around in about 7 months.","User 128 will move from grid 14995 to grid 14995, at 2010-06-02 01:38:53."
+128,2009-11-05 23:46:10,2009-11-06 01:12:25,116.5254466,39.8683583,5175.0,18007,,
+128,2009-11-06 02:02:58,2009-11-06 04:00:37,116.477975,39.847715,7059.0,17248,"User 128 will move from grid 17248 to grid 14995, arriving around in about 5 months.","User 128 will move from grid 17248 to grid 14995, at 2010-04-02 01:45:29."
+128,2009-11-06 04:22:54,2009-11-06 06:16:36,116.4351966,40.0247299,6822.0,16701,,
+128,2009-11-09 00:48:45,2009-11-09 13:09:58,116.3338649,39.9759133,44473.0,14994,,
+128,2009-11-10 01:37:27,2009-11-10 13:46:41,116.3131183,40.0712149,43754.0,14627,,
+128,2009-11-11 01:50:20,2009-11-11 12:13:09,116.3338949,39.9757483,37369.0,14994,"User 128 will move from grid 14994 to grid 14232, arriving around in about 3 weeks, specifically next Friday.","User 128 will move from grid 14994 to grid 14232, at 2009-12-04 10:51:35."
+128,2009-11-13 01:48:04,2009-11-13 12:52:42,116.3324483,39.9752283,39878.0,14994,,
+128,2009-11-14 06:06:38,2009-11-16 01:07:33,116.2842166,39.8175349,154855.0,14221,,
+128,2009-11-17 01:53:16,2009-11-17 13:28:01,116.3331116,39.9754216,41685.0,14994,,
+128,2009-11-18 01:56:44,2009-11-18 12:33:46,116.3329616,39.9795116,38222.0,14995,"User 128 will move from grid 14995 to grid 14816, arriving around in about 4 weeks, specifically next Wednesday.","User 128 will move from grid 14995 to grid 14816, at 2009-12-16 02:09:02."
+128,2009-11-19 01:57:31,2009-11-19 02:33:19,116.34782,39.9858683,2148.0,15185,"User 128 will move from grid 15185 to grid 14995, arriving around in about 7 months.","User 128 will move from grid 15185 to grid 14995, at 2010-06-24 01:26:47."
+128,2009-11-20 01:40:36,2009-11-20 04:55:51,116.33345,39.9752866,11715.0,14994,,
+128,2009-11-20 05:34:54,2009-11-20 06:53:19,116.4780016,39.8476433,4705.0,17248,,
+128,2009-11-21 03:03:30,2009-11-21 03:47:31,116.0233749,40.0697249,2641.0,10091,"User 128 will move from grid 10091 to grid 14994, at 2009-12-08 02:11:04.","User 128 will move from grid 10091 to grid 14994, at 2009-12-08 02:11:04."
+128,2009-11-21 04:15:54,2009-11-21 04:51:23,116.0477783,39.9889749,2129.0,10460,"User 128 will move from grid 10460 to grid 14994, arriving around in about 6 months.","User 128 will move from grid 10460 to grid 14994, at 2010-05-05 05:26:16."
+128,2009-11-21 05:47:13,2009-11-21 06:25:10,116.3368699,39.9850466,2277.0,14995,,
+128,2009-11-21 06:56:21,2009-11-21 08:01:13,116.3039983,39.9263116,3892.0,14422,,
+128,2009-11-24 01:54:14,2009-11-24 12:52:37,116.3006466,40.0709599,39503.0,14438,,
+128,2009-11-25 02:05:58,2009-11-25 11:27:01,116.3325049,39.9755383,33663.0,14994,,
+128,2009-11-26 02:18:26,2009-11-26 08:37:58,116.3309933,39.9751216,22772.0,14994,,
+128,2009-11-26 09:02:55,2009-11-26 11:04:48,116.454385,39.9478083,7313.0,16881,,
+128,2009-11-28 06:51:42,2009-11-28 11:21:18,116.3795966,39.9440466,16176.0,15747,,
+128,2009-11-28 11:25:32,2009-11-28 12:44:30,116.4433933,39.9595183,4738.0,16694,,
+128,2009-11-29 04:25:04,2009-11-29 05:40:24,116.4429616,39.9513666,4520.0,16693,,
+128,2009-11-29 06:06:20,2009-11-29 09:33:58,116.3837516,39.9014333,12458.0,15742,"User 128 will move from grid 15742 to grid 16313, arriving around in about 9 months.","User 128 will move from grid 15742 to grid 16313, at 2010-08-29 10:25:09."
+128,2009-11-29 09:58:14,2009-11-29 10:53:39,116.4575066,39.9443583,3325.0,16881,,
+128,2009-11-29 11:01:42,2009-11-30 02:37:09,116.3833483,39.9866099,56127.0,15752,,
+128,2009-12-01 02:02:44,2009-12-01 13:30:31,116.3328566,39.9795766,41267.0,14995,,
+128,2009-12-02 01:44:37,2009-12-02 08:29:52,116.3335799,39.9758433,24315.0,14994,,
+128,2009-12-02 08:31:01,2009-12-02 12:42:17,116.3245483,39.9662366,15076.0,14804,"User 128 will move from grid 14804 to grid 14995, arriving around in about 2 months.","User 128 will move from grid 14804 to grid 14995, at 2010-01-22 03:48:01."
+128,2009-12-02 13:00:36,2009-12-02 13:40:58,116.43007,39.9397716,2422.0,16502,"User 128 will move from grid 16502 to grid 14994, at 2010-01-25 02:10:57.","User 128 will move from grid 16502 to grid 14994, at 2010-01-25 02:10:57."
+128,2009-12-03 01:50:30,2009-12-03 12:22:10,116.3326216,39.9797683,37900.0,14995,,
+128,2009-12-04 02:17:36,2009-12-04 10:06:29,116.3035433,40.0702499,28133.0,14438,,
+128,2009-12-04 10:51:35,2009-12-04 13:19:14,116.2902866,39.9170266,8859.0,14232,,
+128,2009-12-06 09:16:48,2009-12-06 12:15:30,116.4311066,39.9321033,10722.0,16502,,
+128,2009-12-08 02:11:04,2009-12-08 13:22:39,116.3327399,39.9756983,40295.0,14994,,
+128,2009-12-10 02:08:31,2009-12-10 10:05:39,116.3328849,39.9794716,28628.0,14995,,
+128,2009-12-10 10:06:17,2009-12-10 12:10:19,116.3454333,39.9440216,7442.0,15180,"User 128 will move from grid 15180 to grid 12539, arriving around in about 4 weeks, specifically next Saturday.","User 128 will move from grid 15180 to grid 12539, at 2010-01-09 06:09:37."
+128,2009-12-11 02:14:29,2009-12-11 12:19:41,116.332665,39.9799116,36312.0,14995,,
+128,2009-12-12 03:34:03,2009-12-12 04:38:33,116.2891416,40.0933533,3870.0,14251,,
+128,2009-12-13 03:15:31,2009-12-13 04:11:56,116.3485366,39.8685749,3385.0,15172,"User 128 will move from grid 15172 to grid 14816, arriving around in about 2 months.","User 128 will move from grid 15172 to grid 14816, at 2010-01-30 02:08:56."
+128,2009-12-13 04:29:02,2009-12-13 05:03:38,116.3478149,39.872155,2076.0,15172,,
+128,2009-12-13 06:35:44,2009-12-13 07:28:06,116.4309166,39.8996849,3142.0,16498,"User 128 will move from grid 16498 to grid 14993, arriving around in the next month.","User 128 will move from grid 16498 to grid 14993, at 2010-01-19 04:33:16."
+128,2009-12-13 08:10:03,2009-12-14 01:48:34,116.3115816,40.0686883,63511.0,14627,,
+128,2009-12-14 02:21:41,2009-12-14 12:14:37,116.3545466,39.991965,35576.0,15374,,
+128,2009-12-15 02:18:29,2009-12-15 12:31:23,116.3319449,39.97595,36774.0,14994,,
+128,2009-12-16 02:09:02,2009-12-16 12:26:12,116.3172683,40.070095,37030.0,14816,,
+128,2009-12-18 01:50:35,2009-12-18 12:25:09,116.3326466,39.9799133,38074.0,14995,"User 128 will move from grid 14995 to grid 14802, arriving around in about 3 months.","User 128 will move from grid 14995 to grid 14802, at 2010-03-12 08:20:56."
+128,2009-12-19 04:30:54,2009-12-19 06:08:47,116.3077633,39.9800499,5873.0,14617,,
+128,2009-12-19 07:02:45,2009-12-19 08:46:04,116.3542199,40.178625,6199.0,15395,,
+128,2009-12-20 05:25:25,2009-12-20 05:57:23,116.4423683,40.1328216,1918.0,16713,,
+128,2009-12-22 06:57:52,2009-12-22 07:53:36,116.2554516,39.9890866,3344.0,13673,,
+128,2009-12-23 02:14:52,2009-12-23 12:59:00,116.3224599,40.0694116,38648.0,14816,"User 128 will move from grid 14816 to grid 15558, arriving around in about 2 months.","User 128 will move from grid 14816 to grid 15558, at 2010-02-25 02:16:18."
+128,2009-12-24 02:32:45,2009-12-25 07:25:29,116.3333749,39.9774299,103964.0,14995,,
+128,2009-12-26 02:16:23,2009-12-26 08:48:23,116.6661733,40.4388183,23520.0,20338,"User 128 will move from grid 20338 to grid 14994, arriving around in about 5 months.","User 128 will move from grid 20338 to grid 14994, at 2010-06-07 01:33:20."
+128,2009-12-26 10:02:55,2009-12-26 12:29:05,116.4423866,39.932395,8770.0,16691,,
+128,2009-12-27 02:37:52,2009-12-27 06:30:20,116.4426566,39.9217233,13948.0,16689,,
+128,2009-12-27 06:51:52,2009-12-27 08:32:58,116.4837433,39.9801083,6066.0,17452,,
+128,2009-12-28 06:53:51,2009-12-28 07:34:25,116.4545433,40.0102466,2434.0,16888,,
+128,2009-12-28 07:38:13,2009-12-28 09:24:02,116.4614416,40.0069716,6349.0,17077,,
+128,2009-12-28 13:09:45,2009-12-30 01:52:41,116.3367266,40.0771633,132176.0,15006,"User 128 will move from grid 15006 to grid 16313, arriving around in about 2 weeks, specifically next Saturday.","User 128 will move from grid 15006 to grid 16313, at 2010-01-16 09:35:21."
+128,2009-12-30 02:03:01,2009-12-30 06:59:12,116.2891566,40.0933616,17771.0,14251,,
+128,2009-12-31 12:31:02,2009-12-31 13:03:53,116.3952333,39.9968533,1971.0,15942,"User 128 will move from grid 15942 to grid 17832, arriving around in about 3 weeks, specifically next Sunday.","User 128 will move from grid 15942 to grid 17832, at 2010-01-24 03:26:12."
+128,2009-12-31 13:58:38,2009-12-31 16:23:15,116.4427383,39.9120683,8677.0,16688,"User 128 will move from grid 16688 to grid 14994, arriving around in about 12 months.","User 128 will move from grid 16688 to grid 14994, at 2011-01-07 01:24:38."
+128,2010-01-01 06:56:35,2010-01-01 08:12:14,116.33551,40.0790783,4539.0,15006,,
+128,2010-01-05 02:02:12,2010-01-05 14:49:00,116.3320566,39.9755433,46008.0,14994,,
+128,2010-01-06 00:30:35,2010-01-06 12:18:22,116.4428866,39.9936933,42467.0,16697,,
+128,2010-01-08 01:52:18,2010-01-08 09:25:53,116.3979083,40.0907916,27215.0,15952,"User 128 will move from grid 15952 to grid 14995, arriving around in about 4 months.","User 128 will move from grid 15952 to grid 14995, at 2010-05-04 01:44:34."
+128,2010-01-08 09:57:13,2010-01-08 11:34:06,116.3184866,39.9440716,5813.0,14802,,
+128,2010-01-09 06:09:37,2010-01-09 06:53:38,116.1835699,39.9941333,2641.0,12539,,
+128,2010-01-12 02:05:59,2010-01-13 02:12:07,116.4124249,40.0804099,86768.0,16329,"User 128 will move from grid 16329 to grid 14995, arriving around in about 2 months.","User 128 will move from grid 16329 to grid 14995, at 2010-03-08 01:40:00."
+128,2010-01-13 02:22:45,2010-01-13 13:26:33,116.3327533,39.9748683,39828.0,14994,,
+128,2010-01-14 02:31:07,2010-01-15 01:02:10,116.3311516,39.9756349,81063.0,14994,"User 128 will move from grid 14994 to grid 16503, arriving around in about 4 months.","User 128 will move from grid 14994 to grid 16503, at 2010-05-16 09:43:38."
+128,2010-01-15 01:29:46,2010-01-15 02:24:22,116.3013116,40.05622,3276.0,14436,"User 128 will move from grid 14436 to grid 14994, arriving around in the next month.","User 128 will move from grid 14436 to grid 14994, at 2010-03-01 02:10:24."
+128,2010-01-15 02:44:37,2010-01-15 13:25:58,116.3330799,39.9792266,38481.0,14995,,
+128,2010-01-16 06:01:53,2010-01-16 08:42:05,116.0703733,40.2860916,9612.0,10871,,
+128,2010-01-16 09:35:21,2010-01-16 11:10:38,116.4192133,39.9398816,5717.0,16313,,
+128,2010-01-19 02:26:23,2010-01-19 04:06:20,116.3329016,39.9792033,5997.0,14995,"User 128 will move from grid 14995 to grid 12361, arriving around in about 4 months.","User 128 will move from grid 14995 to grid 12361, at 2010-05-15 06:15:57."
+128,2010-01-19 04:33:16,2010-01-19 13:34:58,116.329679,39.9638945,32502.0,14993,"User 128 will move from grid 14993 to grid 14426, arriving around in about 3 months.","User 128 will move from grid 14993 to grid 14426, at 2010-04-25 07:37:36."
+128,2010-01-20 02:21:47,2010-01-20 12:44:29,116.3236866,40.0727216,37362.0,14816,,
+128,2010-01-20 13:10:58,2010-01-21 02:15:39,116.3281749,40.0702983,47081.0,14816,,
+128,2010-01-21 02:38:47,2010-01-21 13:26:19,116.3329866,39.979705,38852.0,14995,,
+128,2010-01-22 03:48:01,2010-01-22 13:53:40,116.3328983,39.9799899,36339.0,14995,,
+128,2010-01-24 02:13:02,2010-01-24 02:47:52,116.2879172,39.9737472,2090.0,14238,"User 128 will move from grid 14238 to grid 14428, arriving around in about 7 months.","User 128 will move from grid 14238 to grid 14428, at 2010-08-27 10:20:42."
+128,2010-01-24 03:26:12,2010-01-24 05:01:33,116.5135816,39.99593,5721.0,17832,,
+128,2010-01-24 05:28:49,2010-01-24 06:43:50,116.5056783,39.9890999,4501.0,17831,,
+128,2010-01-24 07:34:06,2010-01-24 11:43:31,116.4767,39.9890633,14965.0,17264,,
+128,2010-01-24 13:02:16,2010-01-24 14:00:00,116.3232098,39.8463117,3464.0,14791,,
+128,2010-01-24 14:00:00,2010-01-25 01:19:02,116.3141764,39.873848,40742.0,14605,"User 128 will move from grid 14605 to grid 15753, at 2010-02-06 08:55:34.","User 128 will move from grid 14605 to grid 15753, at 2010-02-06 08:55:34."
+128,2010-01-25 02:10:57,2010-01-26 15:08:40,116.3331299,39.975345,133063.0,14994,,
+128,2010-01-27 02:20:28,2010-01-28 14:18:15,116.3328516,39.9798366,129467.0,14995,"User 128 will move from grid 14995 to grid 14994, arriving around in about 6 months.","User 128 will move from grid 14995 to grid 14994, at 2010-07-22 02:22:55."
+128,2010-01-29 02:20:42,2010-01-29 06:33:34,116.3329966,39.9791649,15172.0,14995,,
+128,2010-01-29 06:38:33,2010-01-29 11:20:55,116.3248899,39.966185,16942.0,14804,,
+128,2010-01-30 02:08:56,2010-01-30 03:09:38,116.324705,40.0698983,3642.0,14816,,
+128,2010-01-30 03:24:46,2010-01-30 13:05:16,116.3517333,39.8780233,34830.0,15173,,
+128,2010-01-31 12:42:16,2010-01-31 13:38:26,116.3278266,39.971815,3370.0,14805,,
+128,2010-01-31 13:55:56,2010-02-01 01:33:58,116.2568216,40.1073216,41882.0,13686,"User 128 will move from grid 13686 to grid 14439, arriving around in about 3 months.","User 128 will move from grid 13686 to grid 14439, at 2010-05-15 10:44:59."
+128,2010-02-01 02:08:57,2010-02-01 13:08:46,116.3327716,39.9796066,39589.0,14995,"User 128 will move from grid 14995 to grid 16502, arriving around in about 7 months.","User 128 will move from grid 14995 to grid 16502, at 2010-08-29 11:09:27."
+128,2010-02-02 03:23:36,2010-02-02 04:42:33,116.3327983,39.9796566,4737.0,14995,"User 128 will move from grid 14995 to grid 13891, arriving around in about 9 months.","User 128 will move from grid 14995 to grid 13891, at 2010-10-16 06:17:11."
+128,2010-02-02 04:44:06,2010-02-02 13:30:20,116.3373733,39.9848566,31574.0,14995,,
+128,2010-02-04 02:20:24,2010-02-04 12:22:49,116.3329266,39.9791366,36145.0,14995,,
+128,2010-02-05 06:22:49,2010-02-05 11:16:41,116.4347149,39.9167283,17632.0,16689,,
+128,2010-02-05 11:16:41,2010-02-05 12:56:24,116.3316533,39.9757449,5983.0,14994,"User 128 will move from grid 14994 to grid 14816, at 2010-02-06 03:33:56.","User 128 will move from grid 14994 to grid 14816, at 2010-02-06 03:33:56."
+128,2010-02-06 03:33:56,2010-02-06 08:40:13,116.3241816,40.0692599,18377.0,14816,"User 128 will move from grid 14816 to grid 16692, arriving around in about 3 weeks, specifically next Friday.","User 128 will move from grid 14816 to grid 16692, at 2010-02-26 09:23:28."
+128,2010-02-06 08:55:34,2010-02-06 14:06:25,116.3823883,39.9976633,18651.0,15753,,
+128,2010-02-21 11:37:40,2010-02-21 12:45:30,116.4545066,39.8749199,4070.0,16873,"User 128 will move from grid 16873 to grid 14995, arriving around in about 10 months.","User 128 will move from grid 16873 to grid 14995, at 2010-12-24 01:27:52."
+128,2010-02-23 01:56:35,2010-02-24 12:56:01,116.3328499,39.97987,125966.0,14995,,
+128,2010-02-25 02:16:18,2010-02-25 03:22:23,116.3718899,39.9477899,3965.0,15558,"User 128 will move from grid 15558 to grid 13853, arriving around in about 3 months.","User 128 will move from grid 15558 to grid 13853, at 2010-06-07 09:03:29."
+128,2010-02-25 03:31:06,2010-02-25 13:00:25,116.3356183,39.9715733,34159.0,14994,,
+128,2010-02-26 02:05:26,2010-02-26 05:32:51,116.422975,40.153125,12445.0,16526,"User 128 will move from grid 16526 to grid 14994, arriving around in about 2 weeks, specifically next Thursday.","User 128 will move from grid 16526 to grid 14994, at 2010-03-11 07:56:52."
+128,2010-02-26 05:54:09,2010-02-26 09:04:25,116.4958566,39.9354616,11416.0,17636,,
+128,2010-02-26 09:23:28,2010-02-26 11:28:55,116.4426116,39.9473766,7527.0,16692,"User 128 will move from grid 16692 to grid 16692, arriving around in about 2 months.","User 128 will move from grid 16692 to grid 16692, at 2010-05-09 07:57:12."
+128,2010-02-28 07:48:01,2010-03-01 01:44:35,116.3328483,39.97996,64594.0,14995,"User 128 will move from grid 14995 to grid 13321, arriving around in about 3 months.","User 128 will move from grid 14995 to grid 13321, at 2010-06-05 10:02:30."
+128,2010-03-01 02:10:24,2010-03-01 14:58:49,116.33235,39.975445,46105.0,14994,,
+128,2010-03-02 10:45:29,2010-03-02 13:01:49,116.4443399,39.9442849,8180.0,16692,,
+128,2010-03-03 02:24:06,2010-03-03 12:56:05,116.3361166,39.974285,37919.0,14994,,
+128,2010-03-04 02:08:27,2010-03-04 14:18:18,116.3329516,39.9796016,43791.0,14995,"User 128 will move from grid 14995 to grid 16875, arriving around in the next month.","User 128 will move from grid 14995 to grid 16875, at 2010-04-04 06:51:06."
+128,2010-03-07 01:42:32,2010-03-07 07:53:10,116.4668433,39.806625,22238.0,17055,,
+128,2010-03-07 07:59:52,2010-03-07 08:46:36,116.4447283,39.88132,2804.0,16685,,
+128,2010-03-07 09:57:49,2010-03-07 12:32:01,116.3359483,39.9751033,9252.0,14994,,
+128,2010-03-08 01:40:00,2010-03-08 12:10:05,116.333175,39.979315,37805.0,14995,"User 128 will move from grid 14995 to grid 13870, arriving around later today, late at night.","User 128 will move from grid 14995 to grid 13870, at 2010-03-09 02:09:39."
+128,2010-03-09 02:09:39,2010-03-09 13:00:13,116.261455,40.0579966,39034.0,13870,,
+128,2010-03-10 02:08:37,2010-03-10 13:33:14,116.3328516,39.9797766,41077.0,14995,,
+128,2010-03-11 01:54:07,2010-03-11 04:49:29,116.3313116,39.9971616,10522.0,14997,,
+128,2010-03-11 04:58:28,2010-03-11 07:36:02,116.3457533,39.9428449,9454.0,15180,"User 128 will move from grid 15180 to grid 17255, arriving around in about 5 months.","User 128 will move from grid 15180 to grid 17255, at 2010-07-31 03:06:24."
+128,2010-03-11 07:56:52,2010-03-11 12:00:21,116.3361966,39.9710799,14609.0,14994,"User 128 will move from grid 14994 to grid 14995, at 2010-03-18 02:26:37.","User 128 will move from grid 14994 to grid 14995, at 2010-03-18 02:26:37."
+128,2010-03-12 02:08:39,2010-03-12 08:11:05,116.3328149,39.9796966,21746.0,14995,,
+128,2010-03-12 08:20:56,2010-03-12 08:53:04,116.3183949,39.9440166,1928.0,14802,,
+128,2010-03-12 10:37:09,2010-03-12 13:24:28,116.4679766,39.9443483,10039.0,17070,,
+128,2010-03-15 01:57:18,2010-03-15 12:25:13,116.3334233,39.9755899,37675.0,14994,"User 128 will move from grid 14994 to grid 14995, arriving around in about 2 months.","User 128 will move from grid 14994 to grid 14995, at 2010-05-11 01:24:15."
+128,2010-03-16 02:11:02,2010-03-16 09:44:42,116.3337549,39.9754683,27220.0,14994,,
+128,2010-03-16 09:55:34,2010-03-16 11:03:10,116.3140016,39.9447033,4056.0,14613,,
+128,2010-03-16 11:11:56,2010-03-16 13:07:19,116.3250283,39.97494,6923.0,14805,"User 128 will move from grid 14805 to grid 16881, at 2010-03-21 09:42:20.","User 128 will move from grid 14805 to grid 16881, at 2010-03-21 09:42:20."
+128,2010-03-17 02:38:45,2010-03-17 12:54:34,116.3329383,39.979215,36949.0,14995,,
+128,2010-03-18 02:26:37,2010-03-19 08:12:18,116.3330533,39.979215,107141.0,14995,,
+128,2010-03-19 09:29:58,2010-03-19 13:04:22,116.3014366,39.9850083,12864.0,14428,"User 128 will move from grid 14428 to grid 14995, arriving around in about 3 months.","User 128 will move from grid 14428 to grid 14995, at 2010-06-10 01:32:24."
+128,2010-03-21 09:42:20,2010-03-21 12:06:49,116.4554416,39.9440116,8669.0,16881,,
+128,2010-03-21 14:30:52,2010-03-22 01:25:23,116.3283599,40.0722866,39271.0,14816,,
+128,2010-03-22 01:50:34,2010-03-22 12:36:51,116.3329233,39.9792233,38777.0,14995,,
+128,2010-03-23 02:32:36,2010-03-23 12:44:07,116.3329016,39.9794116,36691.0,14995,,
+128,2010-03-24 01:50:48,2010-03-24 13:16:29,116.332805,39.9796483,41141.0,14995,,
+128,2010-03-25 01:50:34,2010-03-25 14:08:17,116.3330216,39.9791349,44263.0,14995,,
+128,2010-03-26 01:38:02,2010-03-26 08:35:16,116.3326266,39.9797466,25034.0,14995,,
+128,2010-03-26 09:36:26,2010-03-26 12:45:41,116.4459966,39.9169766,11355.0,16689,,
+128,2010-03-27 10:07:04,2010-03-27 14:35:29,116.3483966,39.9391983,16105.0,15179,,
+128,2010-03-29 01:50:34,2010-03-29 11:48:46,116.3329149,39.97913,35892.0,14995,,
+128,2010-03-29 11:48:46,2010-03-30 01:27:01,116.3285066,40.0723783,49095.0,14816,"User 128 will move from grid 14816 to grid 14995, at 2010-03-30 01:50:07.","User 128 will move from grid 14816 to grid 14995, at 2010-03-30 01:50:07."
+128,2010-03-30 01:50:07,2010-03-30 13:43:05,116.3324133,39.9791833,42778.0,14995,,
+128,2010-03-31 02:01:16,2010-03-31 12:56:29,116.3311316,39.975615,39313.0,14994,,
+128,2010-04-01 00:41:32,2010-04-01 01:55:25,116.3282177,40.0723201,4433.0,14816,,
+128,2010-04-01 01:55:25,2010-04-01 13:41:46,116.3315583,39.9761283,42381.0,14994,,
+128,2010-04-02 01:45:29,2010-04-02 08:15:53,116.33263,39.9798216,23424.0,14995,,
+128,2010-04-02 08:40:12,2010-04-02 09:18:36,116.4420666,39.9527899,2304.0,16693,,
+128,2010-04-02 09:25:53,2010-04-02 12:31:06,116.4305449,39.93978,11113.0,16502,"User 128 will move from grid 16502 to grid 14995, arriving around in about 3 weeks, specifically next Wednesday.","User 128 will move from grid 16502 to grid 14995, at 2010-04-21 01:26:31."
+128,2010-04-03 02:43:04,2010-04-03 15:35:38,116.3245749,40.0739883,46354.0,14816,"User 128 will move from grid 14816 to grid 16693, arriving around in about 2 weeks, specifically next Friday.","User 128 will move from grid 14816 to grid 16693, at 2010-04-16 09:13:56."
+128,2010-04-04 06:51:06,2010-04-04 10:26:17,116.4544583,39.8921466,12911.0,16875,,
+128,2010-04-04 11:19:20,2010-04-04 14:04:04,116.3173999,39.9529716,9884.0,14803,,
+128,2010-04-05 08:11:26,2010-04-05 09:06:47,116.384345,40.021155,3321.0,15755,,
+128,2010-04-05 09:19:21,2010-04-05 12:01:58,116.3470733,39.9800566,9757.0,15184,,
+128,2010-04-05 12:43:59,2010-04-06 11:06:39,116.3363799,39.975165,80560.0,14994,,
+128,2010-04-06 11:36:20,2010-04-06 13:07:10,116.4301233,39.93982,5450.0,16502,"User 128 will move from grid 16502 to grid 35, arriving around in about 2 months.","User 128 will move from grid 16502 to grid 35, at 2010-05-23 03:41:55."
+128,2010-04-06 13:28:12,2010-04-06 14:08:20,116.3357316,39.9751816,2408.0,14994,,
+128,2010-04-07 01:44:28,2010-04-07 12:54:06,116.3330799,39.97973,40178.0,14995,,
+128,2010-04-08 01:38:40,2010-04-08 13:33:28,116.3323966,39.9795516,42888.0,14995,,
+128,2010-04-09 02:02:07,2010-04-09 09:33:49,116.3329749,39.9790666,27102.0,14995,,
+128,2010-04-09 10:31:19,2010-04-09 23:55:42,116.453825,39.9273583,48263.0,16879,,
+128,2010-04-10 00:56:35,2010-04-10 01:54:28,116.100935,40.0517133,3473.0,11223,,
+128,2010-04-10 02:09:05,2010-04-10 03:09:45,116.0869966,40.0520166,3640.0,11034,"User 128 will move from grid 11034 to grid 14994, at 2010-09-07 01:24:04.","User 128 will move from grid 11034 to grid 14994, at 2010-09-07 01:24:04."
+128,2010-04-10 03:35:09,2010-04-10 04:16:54,116.0758233,40.0603433,2505.0,10846,"User 128 will move from grid 10846 to grid 15570, arriving around in about 3 months.","User 128 will move from grid 10846 to grid 15570, at 2010-07-20 14:29:57."
+128,2010-04-10 04:26:36,2010-04-11 02:19:48,116.0622333,40.0623066,78792.0,10657,,
+128,2010-04-11 02:47:06,2010-04-11 03:18:49,116.341885,39.9800833,1903.0,15184,,
+128,2010-04-11 04:16:37,2010-04-11 05:54:48,116.25639,40.2317483,5891.0,13700,"User 128 will move from grid 13700 to grid 15416, arriving around in about 5 months.","User 128 will move from grid 13700 to grid 15416, at 2010-09-11 06:51:29."
+128,2010-04-11 05:54:48,2010-04-11 07:30:30,116.2556916,40.2225383,5742.0,13699,,
+128,2010-04-11 07:36:43,2010-04-11 09:39:08,116.2307616,40.2112833,7345.0,13320,"User 128 will move from grid 13320 to grid 14816, arriving around in the next month.","User 128 will move from grid 13320 to grid 14816, at 2010-05-17 13:44:26."
+128,2010-04-11 10:22:22,2010-04-11 10:58:36,116.3324016,40.0789049,2174.0,15006,,
+128,2010-04-11 11:23:35,2010-04-11 12:09:18,116.3418033,39.9801133,2743.0,15184,,
+128,2010-04-11 13:02:42,2010-04-11 14:38:20,116.3361716,39.975165,5738.0,14994,,
+128,2010-04-12 01:44:13,2010-04-12 12:05:35,116.3327949,39.9794483,37282.0,14995,,
+128,2010-04-13 01:38:33,2010-04-13 09:13:03,116.3328149,39.9795449,27270.0,14995,,
+128,2010-04-13 10:07:02,2010-04-13 12:41:23,116.4398933,39.9621633,9261.0,16694,"User 128 will move from grid 16694 to grid 14995, at 2010-04-29 01:26:36.","User 128 will move from grid 16694 to grid 14995, at 2010-04-29 01:26:36."
+128,2010-04-13 13:14:17,2010-04-13 13:53:10,116.3277566,39.971645,2333.0,14805,"User 128 will move from grid 14805 to grid 14608, arriving around in about 4 months.","User 128 will move from grid 14805 to grid 14608, at 2010-08-05 06:47:16."
+128,2010-04-14 01:57:29,2010-04-14 11:50:34,116.3330233,39.9798466,35585.0,14995,,
+128,2010-04-14 11:53:02,2010-04-14 13:07:19,116.3469249,39.9709616,4457.0,15183,,
+128,2010-04-16 01:26:28,2010-04-16 08:51:06,116.3331233,39.979045,26678.0,14995,,
+128,2010-04-16 09:13:56,2010-04-16 10:16:36,116.4417749,39.9524966,3760.0,16693,"User 128 will move from grid 16693 to grid 16691, arriving around in about 1 weeks, specifically next Saturday.","User 128 will move from grid 16693 to grid 16691, at 2010-04-24 09:33:54."
+128,2010-04-16 10:18:09,2010-04-16 11:42:12,116.4309933,39.9397899,5043.0,16502,,
+128,2010-04-19 01:49:38,2010-04-19 12:24:40,116.3327249,39.9793316,38102.0,14995,,
+128,2010-04-20 01:38:21,2010-04-20 09:37:05,116.3329216,39.9794183,28724.0,14995,,
+128,2010-04-20 10:09:40,2010-04-20 11:59:57,116.4309816,39.93977,6617.0,16502,,
+128,2010-04-21 01:26:31,2010-04-22 11:27:28,116.3329166,39.9792316,122457.0,14995,,
+128,2010-04-22 11:40:11,2010-04-22 12:46:18,116.4419949,39.9526983,3967.0,16693,,
+128,2010-04-22 13:15:54,2010-04-22 13:58:19,116.3278099,39.97169,2545.0,14805,"User 128 will move from grid 14805 to grid 15179, arriving around in about 2 weeks, specifically next Wednesday.","User 128 will move from grid 14805 to grid 15179, at 2010-05-05 04:08:09."
+128,2010-04-23 01:26:31,2010-04-23 12:03:04,116.3327616,39.9795233,38193.0,14995,"User 128 will move from grid 14995 to grid 15182, arriving around in about 2 months.","User 128 will move from grid 14995 to grid 15182, at 2010-06-30 12:06:40."
+128,2010-04-24 03:51:45,2010-04-24 09:31:04,116.3250666,40.0034083,20359.0,14809,,
+128,2010-04-24 09:33:54,2010-04-24 11:38:09,116.4419533,39.9323499,7455.0,16691,"User 128 will move from grid 16691 to grid 14995, arriving around in about 4 months.","User 128 will move from grid 16691 to grid 14995, at 2010-08-17 02:02:42."
+128,2010-04-25 07:37:36,2010-04-26 11:52:46,116.2953283,39.9584866,101710.0,14426,"User 128 will move from grid 14426 to grid 14995, arriving around in the next month.","User 128 will move from grid 14426 to grid 14995, at 2010-06-08 01:23:37."
+128,2010-04-27 01:44:25,2010-04-28 01:13:55,116.3328299,39.9795983,84570.0,14995,,
+128,2010-04-28 01:44:40,2010-04-28 12:56:13,116.3328833,39.9799766,40293.0,14995,,
+128,2010-04-29 01:26:36,2010-04-29 09:17:18,116.3327566,39.9799349,28242.0,14995,,
+128,2010-04-29 10:28:57,2010-04-29 13:18:15,116.43092,39.9398433,10158.0,16502,,
+128,2010-04-30 01:26:30,2010-04-30 03:41:07,116.3327866,39.9796716,8077.0,14995,,
+128,2010-04-30 03:52:18,2010-04-30 15:18:34,116.2985949,39.9890199,41176.0,14429,"User 128 will move from grid 14429 to grid 14995, at 2010-09-17 02:02:50.","User 128 will move from grid 14429 to grid 14995, at 2010-09-17 02:02:50."
+128,2010-05-01 08:38:24,2010-05-01 09:55:55,116.4418966,39.9525966,4651.0,16693,"User 128 will move from grid 16693 to grid 15374, arriving around in about 9 months.","User 128 will move from grid 16693 to grid 15374, at 2011-01-24 13:37:23."
+128,2010-05-01 10:39:32,2010-05-01 12:51:32,116.3042983,39.8902899,7920.0,14418,,
+128,2010-05-04 01:44:34,2010-05-04 13:49:33,116.3328299,39.9793583,43499.0,14995,,
+128,2010-05-05 02:08:21,2010-05-05 03:48:18,116.33286,39.9794216,5997.0,14995,,
+128,2010-05-05 04:08:09,2010-05-05 05:15:07,116.3492866,39.9328433,4018.0,15179,,
+128,2010-05-05 05:26:16,2010-05-06 01:17:33,116.3311016,39.9723783,71477.0,14994,"User 128 will move from grid 14994 to grid 16692, arriving around in about 2 months.","User 128 will move from grid 14994 to grid 16692, at 2010-07-03 10:08:51."
+128,2010-05-06 01:59:22,2010-05-06 12:40:07,116.3329933,39.9754549,38445.0,14994,,
+128,2010-05-07 01:20:13,2010-05-07 13:11:21,116.3327649,39.9798249,42668.0,14995,,
+128,2010-05-08 10:58:19,2010-05-08 11:30:13,116.2557216,40.222505,1914.0,13699,"User 128 will move from grid 13699 to grid 18975, arriving around in about 4 months.","User 128 will move from grid 13699 to grid 18975, at 2010-09-07 03:43:13."
+128,2010-05-09 01:24:26,2010-05-09 03:13:57,116.3040916,39.8991066,6571.0,14419,,
+128,2010-05-09 03:45:53,2010-05-09 07:40:58,116.4069116,39.9142399,14105.0,16122,,
+128,2010-05-09 07:57:12,2010-05-09 10:01:40,116.4427216,39.9473866,7468.0,16692,"User 128 will move from grid 16692 to grid 16130, arriving around in the next month.","User 128 will move from grid 16692 to grid 16130, at 2010-06-10 09:07:17."
+128,2010-05-09 10:01:40,2010-05-09 10:49:42,116.4499683,39.9511816,2882.0,16882,"User 128 will move from grid 16882 to grid 14995, at 2010-07-28 02:08:54.","User 128 will move from grid 16882 to grid 14995, at 2010-07-28 02:08:54."
+128,2010-05-10 01:44:27,2010-05-10 13:08:56,116.3328966,39.9798733,41069.0,14995,,
+128,2010-05-11 01:24:15,2010-05-12 12:51:13,116.3328799,39.9795383,127618.0,14995,,
+128,2010-05-13 01:20:42,2010-05-13 12:57:21,116.3326216,39.9798833,41799.0,14995,"User 128 will move from grid 14995 to grid 15002, arriving around in about 8 months.","User 128 will move from grid 14995 to grid 15002, at 2011-01-21 13:35:55."
+128,2010-05-13 13:01:28,2010-05-13 13:42:44,116.4165683,39.9074016,2476.0,16310,,
+128,2010-05-15 04:13:53,2010-05-15 06:14:43,116.2895833,40.0933949,7250.0,14251,"User 128 will move from grid 14251 to grid 14994, arriving around in about 4 months.","User 128 will move from grid 14251 to grid 14994, at 2010-09-06 01:57:31."
+128,2010-05-15 06:15:57,2010-05-15 10:23:54,116.1743099,40.0882716,14877.0,12361,,
+128,2010-05-15 10:44:59,2010-05-16 08:55:37,116.3033633,40.0781066,79838.0,14439,"User 128 will move from grid 14439 to grid 14994, arriving around in about 2 months.","User 128 will move from grid 14439 to grid 14994, at 2010-07-09 01:48:13."
+128,2010-05-16 09:43:38,2010-05-16 12:15:38,116.4271933,39.9437099,9120.0,16503,,
+128,2010-05-17 01:50:56,2010-05-17 13:18:10,116.3329216,39.9798133,41234.0,14995,,
+128,2010-05-17 13:44:26,2010-05-18 14:00:33,116.3280199,40.0732183,87367.0,14816,,
+128,2010-05-18 15:53:46,2010-05-19 09:29:56,116.2254099,40.0530899,63370.0,13302,,
+128,2010-05-19 09:59:19,2010-05-19 11:57:34,116.4431816,39.9515849,7095.0,16693,,
+128,2010-05-20 01:29:03,2010-05-20 09:31:18,116.3331483,39.9795033,28935.0,14995,,
+128,2010-05-20 10:43:09,2010-05-20 13:31:42,116.4666183,39.9473666,10113.0,17070,,
+128,2010-05-21 01:27:50,2010-05-22 07:12:47,116.3251633,40.0131666,107097.0,14810,,
+128,2010-05-22 07:49:04,2010-05-22 10:12:34,116.44194,39.9526416,8610.0,16693,"User 128 will move from grid 16693 to grid 14995, arriving around in about 2 weeks, specifically next Friday.","User 128 will move from grid 16693 to grid 14995, at 2010-06-04 01:44:29."
+128,2010-05-22 10:57:52,2010-05-22 13:59:47,116.3842233,39.888335,10915.0,15741,,
+128,2010-05-23 02:13:14,2010-05-23 03:26:28,116.5844749,40.0777766,4394.0,18975,,
+128,2010-05-23 03:41:55,2010-05-27 13:20:47,115.4078466,39.7224116,380332.0,35,,
+128,2010-05-28 01:38:31,2010-05-28 13:19:42,116.332875,39.9793466,42071.0,14995,,
+128,2010-05-29 10:11:36,2010-05-29 12:29:51,116.3478066,39.9391633,8295.0,15179,,
+128,2010-05-30 03:36:18,2010-05-30 04:45:14,116.3412183,40.4121766,4136.0,15232,,
+128,2010-05-30 10:06:55,2010-05-30 11:53:24,116.4437566,39.9079433,6389.0,16688,"User 128 will move from grid 16688 to grid 15006, arriving around in about 2 months.","User 128 will move from grid 16688 to grid 15006, at 2010-07-15 12:21:49."
+128,2010-05-30 13:29:42,2010-05-31 00:56:17,116.3318499,39.9898916,41195.0,14996,,
+128,2010-05-31 01:38:17,2010-05-31 07:38:04,116.3328633,39.9792899,21587.0,14995,,
+128,2010-05-31 07:57:20,2010-05-31 12:25:21,116.3850066,40.0070483,16081.0,15754,,
+128,2010-05-31 12:43:33,2010-05-31 13:18:45,116.3362083,39.9753399,2112.0,14994,"User 128 will move from grid 14994 to grid 15554, arriving around later today, in the morning.","User 128 will move from grid 14994 to grid 15554, at 2010-06-01 09:26:22."
+128,2010-05-31 13:30:18,2010-06-01 00:59:24,116.2999583,40.0527033,41346.0,14436,,
+128,2010-06-01 01:38:29,2010-06-01 08:31:16,116.3327516,39.9799499,24767.0,14995,,
+128,2010-06-01 09:26:22,2010-06-01 12:57:56,116.3720683,39.9067666,12694.0,15554,,
+128,2010-06-02 01:38:53,2010-06-02 13:13:33,116.3330783,39.979355,41680.0,14995,,
+128,2010-06-03 01:57:07,2010-06-03 13:07:38,116.3328416,39.9794049,40231.0,14995,,
+128,2010-06-04 01:44:29,2010-06-04 13:28:27,116.3329816,39.9798316,42238.0,14995,,
+128,2010-06-05 10:02:30,2010-06-05 11:07:01,116.2273583,40.22289,3871.0,13321,"User 128 will move from grid 13321 to grid 6912, arriving around in about 2 months.","User 128 will move from grid 13321 to grid 6912, at 2010-08-08 02:34:35."
+128,2010-06-05 11:38:26,2010-06-05 13:18:54,116.2614433,40.1329383,6028.0,13878,,
+128,2010-06-07 01:33:20,2010-06-07 08:45:47,116.3324083,39.9754466,25947.0,14994,,
+128,2010-06-07 09:03:29,2010-06-07 11:38:22,116.265295,39.9062799,9293.0,13853,,
+128,2010-06-08 01:23:37,2010-06-08 13:50:36,116.3328133,39.9796283,44819.0,14995,,
+128,2010-06-09 02:14:36,2010-06-09 03:16:16,116.1952599,39.9232666,3700.0,12721,,
+128,2010-06-10 01:32:24,2010-06-10 08:57:11,116.33293,39.97973,26687.0,14995,"User 128 will move from grid 14995 to grid 14428, arriving around in the next month.","User 128 will move from grid 14995 to grid 14428, at 2010-07-16 10:26:29."
+128,2010-06-10 09:07:17,2010-06-10 10:15:01,116.4078583,39.98713,4064.0,16130,,
+128,2010-06-10 10:31:34,2010-06-10 12:22:45,116.4192383,39.9438499,6671.0,16314,,
+128,2010-06-11 01:38:24,2010-06-11 13:58:28,116.3331266,39.9796149,44404.0,14995,,
+128,2010-06-12 01:32:40,2010-06-12 09:16:53,116.3329783,39.9791583,27853.0,14995,,
+128,2010-06-12 10:13:20,2010-06-12 12:40:09,116.4426783,39.9400249,8809.0,16691,"User 128 will move from grid 16691 to grid 22247, arriving around in about 3 months.","User 128 will move from grid 16691 to grid 22247, at 2010-08-28 08:47:08."
+128,2010-06-13 03:16:26,2010-06-16 07:01:38,117.5397466,40.8744266,272712.0,34561,,
+128,2010-06-18 01:20:21,2010-06-18 12:02:48,116.3327766,39.9800266,38547.0,14995,,
+128,2010-06-19 06:23:29,2010-06-19 08:53:54,116.3610999,40.0081133,9025.0,15376,,
+128,2010-06-19 09:20:31,2010-06-19 12:52:46,116.3718216,39.9058566,12735.0,15554,,
+128,2010-06-21 09:10:31,2010-06-21 11:59:17,116.305015,39.9804433,10126.0,14617,,
+128,2010-06-24 01:26:47,2010-06-24 11:39:30,116.3334266,39.9765933,36763.0,14995,"User 128 will move from grid 14995 to grid 16713, arriving around in the next month.","User 128 will move from grid 14995 to grid 16713, at 2010-07-25 10:33:21."
+128,2010-06-24 12:08:00,2010-06-24 12:38:36,116.3133008,40.0689408,1836.0,14627,,
+128,2010-06-25 01:50:28,2010-06-25 12:34:44,116.3304466,39.9756933,38656.0,14994,,
+128,2010-06-28 00:33:12,2010-06-28 12:50:24,116.3001984,39.8526155,44232.0,14414,"User 128 will move from grid 14414 to grid 14994, at 2010-09-13 01:59:19.","User 128 will move from grid 14414 to grid 14994, at 2010-09-13 01:59:19."
+128,2010-06-29 02:32:20,2010-06-29 12:04:38,116.3328233,39.9797533,34338.0,14995,,
+128,2010-06-30 01:17:19,2010-06-30 11:09:36,116.33277,39.979915,35537.0,14995,,
+128,2010-06-30 12:06:40,2010-06-30 13:34:38,116.3476966,39.9665233,5278.0,15182,,
+128,2010-07-02 01:30:46,2010-07-02 14:08:14,116.338395,39.9759733,45448.0,14994,"User 128 will move from grid 14994 to grid 23166, arriving around in about 2 months.","User 128 will move from grid 14994 to grid 23166, at 2010-08-28 10:30:14."
+128,2010-07-03 08:06:46,2010-07-03 09:25:30,116.3477,39.9665083,4724.0,15182,"User 128 will move from grid 15182 to grid 19149, arriving around in about 2 months.","User 128 will move from grid 15182 to grid 19149, at 2010-08-22 03:11:52."
+128,2010-07-03 10:08:51,2010-07-03 12:41:20,116.4426216,39.9474066,9149.0,16692,"User 128 will move from grid 16692 to grid 14994, at 2010-08-18 02:05:43.","User 128 will move from grid 16692 to grid 14994, at 2010-08-18 02:05:43."
+128,2010-07-04 08:42:05,2010-07-04 09:54:47,116.3019616,39.9847016,4362.0,14428,"User 128 will move from grid 14428 to grid 14994, arriving around in about 3 months.","User 128 will move from grid 14428 to grid 14994, at 2010-09-26 01:59:38."
+128,2010-07-05 12:55:27,2010-07-06 01:08:38,116.3221116,40.0653949,43991.0,14815,,
+128,2010-07-07 01:32:31,2010-07-08 13:33:27,116.3327583,39.9794766,129656.0,14995,,
+128,2010-07-09 01:48:13,2010-07-09 12:37:41,116.3330433,39.97549,38968.0,14994,"User 128 will move from grid 14994 to grid 14816, arriving around in about 5 months.","User 128 will move from grid 14994 to grid 14816, at 2010-12-16 13:08:02."
+128,2010-07-12 02:00:43,2010-07-12 10:19:13,116.3317899,39.9756566,29910.0,14994,"User 128 will move from grid 14994 to grid 16881, at 2010-07-18 09:40:43.","User 128 will move from grid 14994 to grid 16881, at 2010-07-18 09:40:43."
+128,2010-07-12 10:20:27,2010-07-13 01:23:07,116.3283366,40.0703499,54160.0,14816,,
+128,2010-07-13 10:44:19,2010-07-13 12:51:52,116.4081516,39.9871366,7653.0,16130,,
+128,2010-07-13 13:04:11,2010-07-13 14:21:26,116.4425516,39.9474266,4635.0,16692,,
+128,2010-07-15 01:50:58,2010-07-15 12:16:58,116.3326266,39.9795999,37560.0,14995,,
+128,2010-07-15 12:21:49,2010-07-16 00:34:10,116.33057,40.0802583,43941.0,15006,"User 128 will move from grid 15006 to grid 14816, arriving around in about 2 months.","User 128 will move from grid 15006 to grid 14816, at 2010-09-21 12:38:31."
+128,2010-07-16 10:26:29,2010-07-16 11:32:37,116.3049533,39.9799216,3968.0,14428,,
+128,2010-07-16 12:03:13,2010-07-16 13:52:06,116.4425366,39.9476033,6533.0,16692,,
+128,2010-07-18 04:11:07,2010-07-18 05:01:05,115.9814633,40.2324483,2998.0,9353,"User 128 will move from grid 9353 to grid 14816, at 2010-07-21 13:51:08.","User 128 will move from grid 9353 to grid 14816, at 2010-07-21 13:51:08."
+128,2010-07-18 05:22:52,2010-07-18 06:00:38,116.1142749,40.2320383,2266.0,11432,,
+128,2010-07-18 07:48:59,2010-07-18 09:21:37,116.3744433,39.9704466,5558.0,15561,,
+128,2010-07-18 09:40:43,2010-07-18 13:48:39,116.4540483,39.9476716,14876.0,16881,"User 128 will move from grid 16881 to grid 14816, arriving around in about 6 months.","User 128 will move from grid 16881 to grid 14816, at 2011-01-11 12:46:29."
+128,2010-07-20 02:13:19,2010-07-20 09:46:02,116.32511,39.9750716,27163.0,14805,"User 128 will move from grid 14805 to grid 15935, arriving around in about 3 weeks, specifically next Sunday.","User 128 will move from grid 14805 to grid 15935, at 2010-08-08 09:36:27."
+128,2010-07-20 14:29:57,2010-07-21 13:51:08,116.3740549,40.0542566,84071.0,15570,,
+128,2010-07-21 13:51:08,2010-07-22 01:46:27,116.3276316,40.0749549,42919.0,14816,,
+128,2010-07-22 02:22:55,2010-07-22 12:35:41,116.3317133,39.9756083,36766.0,14994,"User 128 will move from grid 14994 to grid 17070, arriving around in about 1 weeks, specifically next Saturday.","User 128 will move from grid 14994 to grid 17070, at 2010-07-31 09:37:31."
+128,2010-07-23 10:26:38,2010-07-23 12:53:11,116.3079849,39.9799966,8793.0,14617,"User 128 will move from grid 14617 to grid 17084, arriving around in about 2 weeks, specifically next Thursday.","User 128 will move from grid 14617 to grid 17084, at 2010-08-05 00:31:42."
+128,2010-07-24 10:22:51,2010-07-24 13:10:55,116.3955933,39.9321216,10084.0,15935,,
+128,2010-07-25 10:33:21,2010-07-25 11:38:41,116.4422583,40.1328416,3920.0,16713,,
+128,2010-07-26 02:07:15,2010-07-26 12:36:47,116.3314366,39.9757633,37772.0,14994,,
+128,2010-07-27 02:15:33,2010-07-27 12:01:22,116.3228149,39.9763483,35149.0,14805,,
+128,2010-07-28 02:08:54,2010-07-28 12:50:40,116.33286,39.9796399,38506.0,14995,,
+128,2010-07-28 13:29:49,2010-07-29 10:34:12,116.3127149,40.0817199,75863.0,14628,,
+128,2010-07-29 10:34:12,2010-07-29 11:05:15,116.3313266,39.9770016,1863.0,14995,,
+128,2010-07-29 11:09:03,2010-07-30 01:13:22,116.328405,40.070055,50659.0,14816,,
+128,2010-07-30 01:38:25,2010-07-31 01:25:50,116.3326199,39.9796716,85645.0,14995,"User 128 will move from grid 14995 to grid 17072, arriving around in about 3 weeks, specifically next Thursday.","User 128 will move from grid 14995 to grid 17072, at 2010-08-19 07:09:21."
+128,2010-07-31 03:06:24,2010-07-31 04:12:36,116.4716933,39.9080683,3972.0,17255,,
+128,2010-07-31 04:29:55,2010-07-31 08:13:07,116.5140866,39.9973066,13392.0,17832,,
+128,2010-07-31 08:20:32,2010-07-31 09:16:18,116.5018649,40.0005799,3346.0,17643,,
+128,2010-07-31 09:37:31,2010-07-31 11:50:54,116.4664666,39.9475649,8003.0,17070,,
+128,2010-08-02 01:44:20,2010-08-02 12:29:19,116.3330283,39.9798916,38699.0,14995,,
+128,2010-08-03 01:56:41,2010-08-03 12:03:27,116.3329849,39.9797616,36406.0,14995,"User 128 will move from grid 14995 to grid 19151, at 2010-08-07 07:19:14.","User 128 will move from grid 14995 to grid 19151, at 2010-08-07 07:19:14."
+128,2010-08-05 00:31:42,2010-08-05 01:02:12,116.4589349,40.0703766,1830.0,17084,,
+128,2010-08-05 01:30:12,2010-08-05 06:47:16,116.3349616,39.9753533,19024.0,14994,"User 128 will move from grid 14994 to grid 14807, arriving around in about 3 months.","User 128 will move from grid 14994 to grid 14807, at 2010-10-24 03:41:55."
+128,2010-08-05 06:47:16,2010-08-05 08:11:22,116.3053983,39.8955883,5046.0,14608,,
+128,2010-08-05 12:17:53,2010-08-05 23:26:16,116.3906549,39.998075,40103.0,15942,,
+128,2010-08-06 06:53:14,2010-08-07 06:41:04,116.3944249,39.9981033,85670.0,15942,,
+128,2010-08-07 07:19:14,2010-08-07 09:48:59,116.5960816,39.9637733,8985.0,19151,"User 128 will move from grid 19151 to grid 16122, at 2010-09-18 08:09:05.","User 128 will move from grid 19151 to grid 16122, at 2010-09-18 08:09:05."
+128,2010-08-08 02:34:35,2010-08-08 03:20:59,115.8299982,40.3777133,2784.0,6912,,
+128,2010-08-08 04:25:44,2010-08-08 05:35:43,115.9601983,40.3629766,4199.0,8989,,
+128,2010-08-08 05:44:13,2010-08-08 07:28:45,116.0040133,40.3577499,6272.0,9745,,
+128,2010-08-08 09:36:27,2010-08-08 13:00:53,116.389915,39.9352,12266.0,15935,,
+128,2010-08-09 01:42:18,2010-08-09 10:23:05,116.3320666,39.9751583,31247.0,14994,,
+128,2010-08-10 11:27:29,2010-08-11 01:37:20,116.339915,40.1438016,50991.0,15013,"User 128 will move from grid 15013 to grid 14419, arriving around in about 1 weeks, specifically next Saturday.","User 128 will move from grid 15013 to grid 14419, at 2010-08-21 03:08:14."
+128,2010-08-11 02:02:13,2010-08-11 11:32:41,116.3331166,39.97976,34228.0,14995,,
+128,2010-08-12 01:48:42,2010-08-12 13:00:27,116.2842799,40.0665999,40305.0,14249,"User 128 will move from grid 14249 to grid 14997, arriving around in about 2 months.","User 128 will move from grid 14249 to grid 14997, at 2010-10-13 01:47:28."
+128,2010-08-13 01:50:32,2010-08-13 14:00:49,116.3329983,39.9796233,43817.0,14995,"User 128 will move from grid 14995 to grid 15186, arriving around in about 2 months.","User 128 will move from grid 14995 to grid 15186, at 2010-10-24 07:26:04."
+128,2010-08-17 02:02:42,2010-08-17 11:46:33,116.3331149,39.9791349,35031.0,14995,,
+128,2010-08-18 02:05:43,2010-08-18 11:24:58,116.3330299,39.9752916,33555.0,14994,,
+128,2010-08-19 01:54:52,2010-08-19 06:41:52,116.3317466,39.97549,17220.0,14994,,
+128,2010-08-19 07:09:21,2010-08-19 08:38:42,116.4660133,39.9650733,5361.0,17072,"User 128 will move from grid 17072 to grid 15011, arriving around in the next month.","User 128 will move from grid 17072 to grid 15011, at 2010-09-24 09:28:52."
+128,2010-08-20 01:45:55,2010-08-20 13:09:09,116.31409,40.0699533,40994.0,14627,,
+128,2010-08-21 03:08:14,2010-08-21 04:02:41,116.3040949,39.8990949,3267.0,14419,,
+128,2010-08-21 04:31:21,2010-08-21 06:51:40,116.4272333,39.9437466,8419.0,16503,,
+128,2010-08-21 07:23:47,2010-08-22 01:18:09,116.3251183,40.0700749,64462.0,14816,"User 128 will move from grid 14816 to grid 14438, at 2010-08-24 05:57:15.","User 128 will move from grid 14816 to grid 14438, at 2010-08-24 05:57:15."
+128,2010-08-22 03:11:52,2010-08-22 04:27:13,116.5980016,39.9439199,4521.0,19149,,
+128,2010-08-22 05:24:53,2010-08-22 08:57:12,116.3717166,39.9081433,12739.0,15554,,
+128,2010-08-23 01:11:31,2010-08-23 10:18:59,116.33265,39.9799416,32848.0,14995,,
+128,2010-08-24 02:59:44,2010-08-24 03:38:46,116.5959949,39.9407233,2342.0,19149,,
+128,2010-08-24 04:31:57,2010-08-24 05:43:54,116.3254166,40.0740283,4317.0,14816,"User 128 will move from grid 14816 to grid 14994, arriving around in about 5 days, on 2010-08-30.","User 128 will move from grid 14816 to grid 14994, at 2010-08-30 01:51:41."
+128,2010-08-24 05:57:15,2010-08-24 10:21:04,116.3003916,40.0709833,15829.0,14438,"User 128 will move from grid 14438 to grid 14627, arriving around in about 3 days, on 2010-08-27.","User 128 will move from grid 14438 to grid 14627, at 2010-08-27 14:19:47."
+128,2010-08-25 08:02:53,2010-08-25 08:53:05,116.3120516,39.8777866,3012.0,14606,,
+128,2010-08-25 09:19:07,2010-08-25 11:04:41,116.4545883,39.864795,6334.0,16872,,
+128,2010-08-27 10:20:42,2010-08-27 13:45:15,116.3049616,39.9804316,12273.0,14428,,
+128,2010-08-27 14:19:47,2010-08-28 05:32:07,116.31348,40.0737683,54740.0,14627,,
+128,2010-08-28 08:47:08,2010-08-28 09:26:01,116.7845083,40.6128833,2333.0,22247,"User 128 will move from grid 22247 to grid 14816, arriving around in about 3 weeks, specifically next Friday.","User 128 will move from grid 22247 to grid 14816, at 2010-09-17 11:04:12."
+128,2010-08-28 10:30:14,2010-08-28 11:30:24,116.8348849,40.3756049,3610.0,23166,,
+128,2010-08-29 10:25:09,2010-08-29 11:02:07,116.4108266,39.9350966,2218.0,16313,,
+128,2010-08-29 11:09:27,2010-08-29 13:42:43,116.4310083,39.93248,9196.0,16502,"User 128 will move from grid 16502 to grid 15239, arriving around in about 2 weeks, specifically next Saturday.","User 128 will move from grid 16502 to grid 15239, at 2010-09-11 04:27:35."
+128,2010-08-30 01:51:41,2010-08-30 13:19:37,116.3337183,39.9752949,41276.0,14994,,
+128,2010-09-06 01:57:31,2010-09-06 11:40:04,116.3335066,39.97574,34953.0,14994,"User 128 will move from grid 14994 to grid 14617, arriving around in about 3 months.","User 128 will move from grid 14994 to grid 14617, at 2010-11-26 10:43:52."
+128,2010-09-07 01:24:04,2010-09-07 03:14:43,116.3366133,39.9752933,6639.0,14994,,
+128,2010-09-07 03:43:13,2010-09-07 04:52:28,116.5844083,40.0766716,4155.0,18975,,
+128,2010-09-07 05:18:56,2010-09-10 04:33:35,116.5976366,40.0718233,256479.0,19163,,
+128,2010-09-10 05:04:23,2010-09-10 07:25:47,116.3363683,39.9753849,8484.0,14994,"User 128 will move from grid 14994 to grid 10258, arriving around in about 2 months.","User 128 will move from grid 14994 to grid 10258, at 2010-10-30 04:59:58."
+128,2010-09-11 02:18:17,2010-09-11 03:01:01,116.3604183,40.3651283,2564.0,15416,,
+128,2010-09-11 04:27:35,2010-09-11 05:07:19,116.3485383,40.4753866,2384.0,15239,,
+128,2010-09-11 06:51:29,2010-09-11 07:42:00,116.3608049,40.3665016,3031.0,15416,,
+128,2010-09-11 11:36:25,2010-09-11 13:06:23,116.368195,39.8630899,5398.0,15549,,
+128,2010-09-13 01:59:19,2010-09-13 12:39:31,116.3334733,39.9755133,38412.0,14994,,
+128,2010-09-15 02:14:31,2010-09-15 13:36:04,116.3330816,39.9791833,40893.0,14995,"User 128 will move from grid 14995 to grid 13883, arriving around in about 4 months.","User 128 will move from grid 14995 to grid 13883, at 2010-12-31 05:58:35."
+128,2010-09-16 01:49:51,2010-09-16 10:39:36,116.3312866,39.9758533,31785.0,14994,,
+128,2010-09-16 10:48:44,2010-09-17 01:42:34,116.3007449,40.0773349,53630.0,14439,,
+128,2010-09-17 02:02:50,2010-09-17 11:04:12,116.3325566,39.9800566,32482.0,14995,"User 128 will move from grid 14995 to grid 14796, arriving around in about 3 weeks, specifically next Saturday.","User 128 will move from grid 14995 to grid 14796, at 2010-10-09 02:02:59."
+128,2010-09-17 11:04:12,2010-09-18 07:11:40,116.3284999,40.0726016,72448.0,14816,,
+128,2010-09-18 08:09:05,2010-09-19 01:11:08,116.40744,39.9143983,61323.0,16122,,
+128,2010-09-20 01:50:33,2010-09-20 10:41:28,116.3330733,39.9793883,31855.0,14995,"User 128 will move from grid 14995 to grid 14617, arriving around in about 2 months.","User 128 will move from grid 14995 to grid 14617, at 2010-11-19 10:57:06."
+128,2010-09-20 10:42:35,2010-09-21 01:06:06,116.3327883,39.9708166,51811.0,14994,,
+128,2010-09-21 01:48:03,2010-09-21 12:11:13,116.3324099,39.9753933,37390.0,14994,,
+128,2010-09-21 12:38:31,2010-09-22 08:14:16,116.3257166,40.0698883,70545.0,14816,,
+128,2010-09-22 09:07:36,2010-09-22 11:10:09,116.3495166,39.8880866,7353.0,15174,,
+128,2010-09-24 08:45:46,2010-09-24 09:20:02,116.3604366,40.098535,2056.0,15386,"User 128 will move from grid 15386 to grid 16313, arriving around in about 4 months.","User 128 will move from grid 15386 to grid 16313, at 2011-01-22 15:17:55."
+128,2010-09-24 09:28:52,2010-09-24 10:14:00,116.3366483,40.1283766,2708.0,15011,,
+128,2010-09-26 01:59:38,2010-09-27 01:47:38,116.33284,39.9753799,85680.0,14994,,
+128,2010-09-27 01:56:29,2010-09-27 06:53:28,116.3328566,39.9800283,17819.0,14995,,
+128,2010-09-27 07:17:25,2010-09-27 08:05:50,116.3273733,40.0728666,2905.0,14816,"User 128 will move from grid 14816 to grid 15364, arriving around in about 3 months.","User 128 will move from grid 14816 to grid 15364, at 2010-12-25 10:06:03."
+128,2010-09-27 08:31:59,2010-09-27 10:41:35,116.5836166,40.0790933,7776.0,18975,,
+128,2010-10-09 02:02:59,2010-10-09 03:00:41,116.3249199,39.8948533,3462.0,14796,,
+128,2010-10-11 10:42:18,2010-10-12 13:28:43,116.3298083,40.076415,96385.0,15006,,
+128,2010-10-13 01:47:28,2010-10-13 13:22:15,116.3316716,39.9977499,41687.0,14997,,
+128,2010-10-14 01:54:08,2010-10-14 11:02:12,116.3327816,39.9752933,32884.0,14994,,
+128,2010-10-14 11:30:27,2010-10-15 01:13:25,116.3132033,40.0745766,49378.0,14627,"User 128 will move from grid 14627 to grid 14617, arriving around in about 4 months.","User 128 will move from grid 14627 to grid 14617, at 2011-02-25 10:34:14."
+128,2010-10-16 06:17:11,2010-10-16 09:42:01,116.2687566,40.2498866,12290.0,13891,,
+128,2010-10-17 09:32:41,2010-10-17 12:57:01,116.4666999,39.9036333,12260.0,17065,,
+128,2010-10-19 02:03:27,2010-10-20 08:33:21,116.3329383,39.9797633,109794.0,14995,,
+128,2010-10-24 03:41:55,2010-10-24 07:19:39,116.3249816,39.9922916,13064.0,14807,"User 128 will move from grid 14807 to grid 14049, at 2010-10-27 07:33:49.","User 128 will move from grid 14807 to grid 14049, at 2010-10-27 07:33:49."
+128,2010-10-24 07:26:04,2010-10-24 11:27:37,116.3468699,39.9981766,14493.0,15186,,
+128,2010-10-27 07:33:49,2010-10-28 01:30:03,116.2772783,39.9756866,64574.0,14049,,
+128,2010-10-30 03:58:51,2010-10-30 04:52:54,116.0797683,39.8721049,3243.0,10825,,
+128,2010-10-30 04:59:58,2010-10-30 05:36:39,116.0419583,39.8760333,2201.0,10258,,
+128,2010-10-30 05:41:31,2010-10-30 06:25:17,116.0238966,39.8991283,2626.0,10072,"User 128 will move from grid 10072 to grid 16130, arriving around in about 4 months.","User 128 will move from grid 10072 to grid 16130, at 2011-03-08 06:42:55."
+128,2010-11-19 10:57:06,2010-11-22 00:33:31,116.3076916,39.9800716,221785.0,14617,,
+128,2010-11-26 10:43:52,2010-11-26 13:47:40,116.3074666,39.9802516,11028.0,14617,,
+128,2010-12-16 13:08:02,2010-12-17 01:03:41,116.3284766,40.0733366,42939.0,14816,,
+128,2010-12-17 01:30:13,2010-12-17 10:26:45,116.3332583,39.9753816,32192.0,14994,,
+128,2010-12-17 11:15:11,2010-12-17 16:00:41,116.3488583,39.9527566,17130.0,15181,,
+128,2010-12-23 12:29:14,2010-12-23 13:05:23,116.3080516,39.9800883,2169.0,14617,,
+128,2010-12-24 01:27:52,2010-12-25 06:35:23,116.3332349,39.9772016,104851.0,14995,,
+128,2010-12-25 07:39:39,2010-12-25 09:53:30,116.3485799,39.8881,8031.0,15174,,
+128,2010-12-25 10:06:03,2010-12-25 13:05:11,116.3606299,39.8981266,10748.0,15364,,
+128,2010-12-31 05:58:35,2010-12-31 06:30:36,116.2687316,40.1792083,1921.0,13883,,
+128,2011-01-02 10:13:44,2011-01-02 11:30:09,116.3659916,39.9392516,4585.0,15557,,
+128,2011-01-04 01:19:00,2011-01-04 11:57:53,116.3336083,39.9764183,38333.0,14995,"User 128 will move from grid 14995 to grid 14428, arriving around in about 2 months.","User 128 will move from grid 14995 to grid 14428, at 2011-03-08 05:34:37."
+128,2011-01-04 11:57:53,2011-01-05 01:00:47,116.3279166,40.0744866,46974.0,14816,,
+128,2011-01-06 01:21:06,2011-01-07 00:51:09,116.3332166,39.97542,84603.0,14994,"User 128 will move from grid 14994 to grid 14993, arriving around in about 2 weeks, specifically next Saturday.","User 128 will move from grid 14994 to grid 14993, at 2011-01-22 08:22:47."
+128,2011-01-07 01:24:38,2011-01-07 12:33:17,116.3320066,39.9754066,40119.0,14994,,
+128,2011-01-11 12:46:29,2011-01-12 01:12:39,116.3188833,40.0728866,44770.0,14816,,
+128,2011-01-12 01:14:49,2011-01-14 15:08:32,116.31732,40.0241283,222823.0,14811,,
+128,2011-01-21 13:35:55,2011-01-22 07:08:46,116.3297649,40.0448366,63171.0,15002,,
+128,2011-01-22 08:22:47,2011-01-22 15:12:37,116.3369333,39.9638766,24590.0,14993,,
+128,2011-01-22 15:17:55,2011-01-22 16:18:49,116.4192333,39.93968,3654.0,16313,,
+128,2011-01-24 13:37:23,2011-01-24 14:45:54,116.3558983,39.9892833,4111.0,15374,,
+128,2011-02-25 10:34:14,2011-02-25 13:20:11,116.3050966,39.9802416,9957.0,14617,,
+128,2011-02-26 09:19:30,2011-02-26 14:13:09,116.4543233,39.8922649,17619.0,16875,,
+128,2011-02-27 06:09:39,2011-02-27 08:23:55,116.3543616,40.1785599,8056.0,15395,,
+128,2011-03-08 05:34:37,2011-03-08 06:34:15,116.3035483,39.9801333,3578.0,14428,,
+128,2011-03-08 06:42:55,2011-03-08 12:26:39,116.4078383,39.9871783,20624.0,16130,,
+128,2011-03-10 01:24:15,2011-03-10 04:34:21,116.3017599,39.9847599,11406.0,14428,,
+128,2011-03-10 04:41:24,2011-03-10 07:43:49,116.4663366,39.9653733,10945.0,17072,,

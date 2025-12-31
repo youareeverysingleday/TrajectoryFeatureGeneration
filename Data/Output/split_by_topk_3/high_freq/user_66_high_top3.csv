@@ -1,0 +1,12 @@
+userID,stime,etime,lon,lat,duration,grid,context_fuzzy,context_precise
+66,2009-08-18 14:20:12,2009-08-18 15:32:17,116.489338,39.782232,4325.0,17430,"User 66 will move from grid 17430 to grid 16688, arriving around later today, in the afternoon.","User 66 will move from grid 17430 to grid 16688, at 2009-08-18 16:49:19."
+66,2009-08-19 13:45:27,2009-08-19 15:13:40,116.488837,39.782813,5293.0,17430,"User 66 will move from grid 17430 to grid 15362, arriving around in about 3 days, on 2009-08-22.","User 66 will move from grid 17430 to grid 15362, at 2009-08-22 19:03:39."
+66,2009-08-19 15:13:40,2009-08-19 15:48:24,116.488313,39.782168,2084.0,17430,"User 66 will move from grid 17430 to grid 22751, at 2009-08-19 18:44:45.","User 66 will move from grid 17430 to grid 22751, at 2009-08-19 18:44:45."
+66,2009-08-19 15:48:24,2009-08-19 16:33:30,116.48903,39.782877,2706.0,17430,"User 66 will move from grid 17430 to grid 14989, at 2009-08-20 11:19:50.","User 66 will move from grid 17430 to grid 14989, at 2009-08-20 11:19:50."
+66,2009-08-19 16:35:28,2009-08-19 17:12:34,116.489923,39.781507,2226.0,17430,"User 66 will move from grid 17430 to grid 12720, arriving around in about 4 days, on 2009-08-23.","User 66 will move from grid 17430 to grid 12720, at 2009-08-23 20:08:18."
+66,2009-08-20 13:51:40,2009-08-20 15:54:17,116.483595,39.785077,7357.0,17430,"User 66 will move from grid 17430 to grid 16884, arriving around in about 4 weeks, specifically next Friday.","User 66 will move from grid 17430 to grid 16884, at 2009-09-18 16:41:30."
+66,2009-08-20 17:37:52,2009-08-20 18:14:32,116.489942,39.781825,2200.0,17430,,
+66,2009-08-20 20:41:42,2009-08-21 12:37:12,116.266013,39.901715,57330.0,13852,"User 66 will move from grid 13852 to grid 16689, at 2009-08-26 11:19:22.","User 66 will move from grid 13852 to grid 16689, at 2009-08-26 11:19:22."
+66,2009-08-21 13:17:26,2009-08-21 13:58:18,116.236908,39.872223,2452.0,13471,"User 66 will move from grid 13471 to grid 17648, at 2009-08-26 13:25:16.","User 66 will move from grid 13471 to grid 17648, at 2009-08-26 13:25:16."
+66,2009-08-21 16:51:42,2009-08-22 12:59:15,116.258875,39.900628,72453.0,13852,,
+66,2009-08-22 14:12:18,2009-08-22 15:42:10,116.235167,39.87217,5392.0,13471,,

@@ -1,0 +1,5 @@
+userID,stime,etime,lon,lat,duration,grid,context_fuzzy,context_precise
+175,2007-10-19 06:19:38,2007-10-19 06:56:05,116.189883333333,39.9888666666667,2187.0,12728,"User 175 will move from grid 12728 to grid 14805, arriving around later today, in the morning.","User 175 will move from grid 12728 to grid 14805, at 2007-10-19 11:49:44."
+175,2007-10-19 06:56:05,2007-10-19 07:41:42,116.1829,39.9852,2737.0,12538,,
+175,2007-10-19 07:41:42,2007-10-19 08:19:56,116.172183333333,39.9891833333333,2294.0,12350,"User 175 will move from grid 12350 to grid 14615, at 2007-10-19 13:16:15.","User 175 will move from grid 12350 to grid 14615, at 2007-10-19 13:16:15."
+175,2007-10-19 09:35:48,2007-10-19 11:27:34,116.195766666667,39.99125,6706.0,12728,"User 175 will move from grid 12728 to grid 14993, arriving around later today, late at night.","User 175 will move from grid 12728 to grid 14993, at 2007-10-19 22:14:51."

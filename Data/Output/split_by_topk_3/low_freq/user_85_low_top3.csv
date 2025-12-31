@@ -1,0 +1,388 @@
+userID,stime,etime,lon,lat,duration,grid,context_fuzzy,context_precise
+85,2008-02-13 14:36:20,2008-02-16 13:28:22,116.3043066,39.9413233,255122.0,14424,"User 85 will move from grid 14424 to grid 15171, arriving around in about 7 months.","User 85 will move from grid 14424 to grid 15171, at 2008-09-12 01:14:20."
+85,2008-02-16 13:44:37,2008-02-16 14:16:40,116.3458333,39.9437466,1923.0,15180,"User 85 will move from grid 15180 to grid 14994, arriving around in about 2 weeks, specifically next Friday.","User 85 will move from grid 15180 to grid 14994, at 2008-02-29 21:38:24."
+85,2008-02-16 14:24:03,2008-02-16 16:38:33,116.3641383,39.905855,8070.0,15554,"User 85 will move from grid 15554 to grid 15167, arriving around in about 6 months.","User 85 will move from grid 15554 to grid 15167, at 2008-08-30 05:36:35."
+85,2008-02-16 16:51:55,2008-02-20 06:38:56,116.3839083,39.9063566,308821.0,15743,"User 85 will move from grid 15743 to grid 14427, arriving around in about 1 weeks, specifically next Wednesday.","User 85 will move from grid 15743 to grid 14427, at 2008-02-27 17:41:18."
+85,2008-02-20 07:37:05,2008-02-20 11:41:49,116.3013766,39.9422783,14684.0,14424,"User 85 will move from grid 14424 to grid 14424, arriving around in about 3 months.","User 85 will move from grid 14424 to grid 14424, at 2008-05-12 23:56:49."
+85,2008-02-20 12:22:49,2008-02-21 06:53:42,116.3334449,39.90454,66653.0,14987,"User 85 will move from grid 14987 to grid 16138, arriving around in about 16 months.","User 85 will move from grid 14987 to grid 16138, at 2009-06-24 00:11:47."
+85,2008-02-21 07:13:22,2008-02-26 06:49:18,116.3028583,39.9529516,430556.0,14425,"User 85 will move from grid 14425 to grid 14994, arriving around in about 7 months.","User 85 will move from grid 14425 to grid 14994, at 2008-09-26 09:54:37."
+85,2008-02-26 07:41:39,2008-02-27 06:50:38,116.2999716,39.93985,83339.0,14423,"User 85 will move from grid 14423 to grid 14994, arriving around in about 7 months.","User 85 will move from grid 14423 to grid 14994, at 2008-09-13 09:31:53."
+85,2008-02-27 17:41:18,2008-02-27 19:59:37,116.3022433,39.9743899,8299.0,14427,"User 85 will move from grid 14427 to grid 14996, at 2008-07-26 12:25:45.","User 85 will move from grid 14427 to grid 14996, at 2008-07-26 12:25:45."
+85,2008-02-27 20:27:51,2008-02-28 06:53:34,116.3073566,39.9501783,37543.0,14614,"User 85 will move from grid 14614 to grid 14805, arriving around in about 3 months.","User 85 will move from grid 14614 to grid 14805, at 2008-05-24 04:48:38."
+85,2008-02-28 07:23:03,2008-02-28 20:53:46,116.3128416,40.0082566,48643.0,14620,"User 85 will move from grid 14620 to grid 16136, arriving around in about 3 months.","User 85 will move from grid 14620 to grid 16136, at 2008-05-25 10:26:17."
+85,2008-02-28 21:16:30,2008-02-28 22:01:26,116.3409349,39.9693666,2696.0,15183,"User 85 will move from grid 15183 to grid 14801, at 2008-05-17 04:12:07.","User 85 will move from grid 15183 to grid 14801, at 2008-05-17 04:12:07."
+85,2008-02-28 22:01:26,2008-02-29 17:24:26,116.3309949,39.9753316,69780.0,14994,"User 85 will move from grid 14994 to grid 15171, arriving around in about 6 months.","User 85 will move from grid 14994 to grid 15171, at 2008-09-10 00:54:27."
+85,2008-02-29 17:33:38,2008-02-29 18:26:26,116.3471233,39.9388516,3168.0,15179,"User 85 will move from grid 15179 to grid 14616, arriving around in about 2 months.","User 85 will move from grid 15179 to grid 14616, at 2008-05-10 03:10:35."
+85,2008-02-29 18:26:26,2008-02-29 20:50:12,116.36872,39.9071933,8626.0,15554,"User 85 will move from grid 15554 to grid 14805, at 2008-10-25 09:52:42.","User 85 will move from grid 15554 to grid 14805, at 2008-10-25 09:52:42."
+85,2008-02-29 21:38:24,2008-02-29 22:36:16,116.3358833,39.9751266,3472.0,14994,"User 85 will move from grid 14994 to grid 16137, arriving around in about 8 months.","User 85 will move from grid 14994 to grid 16137, at 2008-10-18 05:16:32."
+85,2008-03-06 06:55:38,2008-03-06 07:28:10,116.3182849,39.9751233,1952.0,14805,"User 85 will move from grid 14805 to grid 15373, arriving around in about 2 months.","User 85 will move from grid 14805 to grid 15373, at 2008-05-07 02:11:23."
+85,2008-03-15 15:59:12,2008-03-16 00:14:07,116.4170616,40.0614333,29695.0,16327,"User 85 will move from grid 16327 to grid 15172, arriving around in about 7 months.","User 85 will move from grid 16327 to grid 15172, at 2008-10-23 23:42:59."
+85,2008-05-01 01:26:25,2008-05-01 02:35:58,116.314768,39.900997,4173.0,14608,"User 85 will move from grid 14608 to grid 14424, at 2008-05-14 22:59:08.","User 85 will move from grid 14608 to grid 14424, at 2008-05-14 22:59:08."
+85,2008-05-02 08:55:32,2008-05-02 09:42:32,116.303593,39.943936,2820.0,14424,"User 85 will move from grid 14424 to grid 14424, arriving around in about 2 weeks, specifically next Thursday.","User 85 will move from grid 14424 to grid 14424, at 2008-05-15 23:26:14."
+85,2008-05-02 09:44:47,2008-05-02 12:44:57,116.313683,39.930952,10810.0,14611,"User 85 will move from grid 14611 to grid 16138, arriving around in about 16 months.","User 85 will move from grid 14611 to grid 16138, at 2009-09-07 14:05:18."
+85,2008-05-05 23:30:15,2008-05-06 09:09:41,116.301377,39.941748,34766.0,14424,"User 85 will move from grid 14424 to grid 14994, arriving around in about 5 months.","User 85 will move from grid 14424 to grid 14994, at 2008-10-09 04:42:32."
+85,2008-05-07 02:11:23,2008-05-07 02:45:48,116.352231,39.980154,2065.0,15373,"User 85 will move from grid 15373 to grid 14996, at 2008-05-20 10:38:23.","User 85 will move from grid 15373 to grid 14996, at 2008-05-20 10:38:23."
+85,2008-05-07 03:23:38,2008-05-07 04:02:58,116.327132,39.989003,2360.0,14807,"User 85 will move from grid 14807 to grid 15931, arriving around in about 6 months.","User 85 will move from grid 14807 to grid 15931, at 2008-11-01 08:43:43."
+85,2008-05-10 03:10:35,2008-05-10 04:04:05,116.313177,39.975037,3210.0,14616,"User 85 will move from grid 14616 to grid 15171, at 2008-12-02 04:39:10.","User 85 will move from grid 14616 to grid 15171, at 2008-12-02 04:39:10."
+85,2008-05-12 00:02:07,2008-05-12 22:50:14,116.301195,39.94193,82087.0,14424,"User 85 will move from grid 14424 to grid 14801, at 2008-05-26 07:32:58.","User 85 will move from grid 14424 to grid 14801, at 2008-05-26 07:32:58."
+85,2008-05-12 23:56:49,2008-05-13 07:45:11,116.301363,39.941774,28102.0,14424,"User 85 will move from grid 14424 to grid 16136, arriving around in about 11 months.","User 85 will move from grid 14424 to grid 16136, at 2009-03-29 09:01:12."
+85,2008-05-13 08:07:46,2008-05-14 22:37:03,116.325264,39.975066,138557.0,14805,"User 85 will move from grid 14805 to grid 16502, arriving around in about 2 months.","User 85 will move from grid 14805 to grid 16502, at 2008-07-25 03:10:24."
+85,2008-05-14 22:59:08,2008-05-15 07:38:31,116.301307,39.941659,31163.0,14424,"User 85 will move from grid 14424 to grid 16138, arriving around in about 16 months.","User 85 will move from grid 14424 to grid 16138, at 2009-09-10 11:54:01."
+85,2008-05-15 23:26:14,2008-05-16 13:24:31,116.301354,39.941849,50297.0,14424,"User 85 will move from grid 14424 to grid 13664, at 2008-10-26 04:33:27.","User 85 will move from grid 14424 to grid 13664, at 2008-10-26 04:33:27."
+85,2008-05-17 04:12:07,2008-05-17 05:40:00,116.325096,39.936859,5273.0,14801,"User 85 will move from grid 14801 to grid 16130, arriving around in about 2 months.","User 85 will move from grid 14801 to grid 16130, at 2008-07-24 11:13:14."
+85,2008-05-17 05:41:18,2008-05-17 06:32:28,116.313144,39.938208,3070.0,14612,"User 85 will move from grid 14612 to grid 14424, arriving around in about 4 days, on 2008-05-21.","User 85 will move from grid 14612 to grid 14424, at 2008-05-21 23:33:37."
+85,2008-05-17 07:49:40,2008-05-17 09:17:38,116.301534,39.941779,5278.0,14424,"User 85 will move from grid 14424 to grid 14987, arriving around in about 11 months.","User 85 will move from grid 14424 to grid 14987, at 2009-04-26 23:28:06."
+85,2008-05-17 09:53:54,2008-05-17 11:02:50,116.298407,39.944101,4136.0,14424,"User 85 will move from grid 14424 to grid 14993, arriving around in about 11 months.","User 85 will move from grid 14424 to grid 14993, at 2009-04-04 03:24:47."
+85,2008-05-18 23:30:34,2008-05-19 04:05:59,116.301306,39.94012,16525.0,14423,"User 85 will move from grid 14423 to grid 14804, at 2009-06-18 08:36:59.","User 85 will move from grid 14423 to grid 14804, at 2009-06-18 08:36:59."
+85,2008-05-19 23:26:04,2008-05-20 09:58:05,116.301395,39.941777,37921.0,14424,"User 85 will move from grid 14424 to grid 15171, arriving around in about 5 months.","User 85 will move from grid 14424 to grid 15171, at 2008-10-10 02:05:03."
+85,2008-05-20 10:38:23,2008-05-20 23:03:08,116.331483,39.989871,44685.0,14996,"User 85 will move from grid 14996 to grid 15554, arriving around in about 10 months.","User 85 will move from grid 14996 to grid 15554, at 2009-03-29 10:30:06."
+85,2008-05-21 00:07:50,2008-05-21 09:54:07,116.301331,39.940172,35177.0,14423,"User 85 will move from grid 14423 to grid 15175, arriving around in about 6 months.","User 85 will move from grid 14423 to grid 15175, at 2008-11-04 03:14:19."
+85,2008-05-21 23:33:37,2008-05-22 02:33:55,116.301361,39.94169,10818.0,14424,"User 85 will move from grid 14424 to grid 12918, arriving around in about 2 days, on 2008-05-24.","User 85 will move from grid 14424 to grid 12918, at 2008-05-24 06:36:20."
+85,2008-05-22 23:33:15,2008-05-23 09:18:07,116.301371,39.939393,35092.0,14423,"User 85 will move from grid 14423 to grid 15554, at 2008-07-23 11:09:36.","User 85 will move from grid 14423 to grid 15554, at 2008-07-23 11:09:36."
+85,2008-05-24 04:48:38,2008-05-24 05:33:06,116.321186,39.974444,2668.0,14805,"User 85 will move from grid 14805 to grid 16502, arriving around in about 2 months.","User 85 will move from grid 14805 to grid 16502, at 2008-07-22 00:37:47."
+85,2008-05-24 05:59:00,2008-05-24 06:36:20,116.203114,39.997315,2240.0,12918,"User 85 will move from grid 12918 to grid 14989, arriving around in about 3 months.","User 85 will move from grid 12918 to grid 14989, at 2008-08-30 07:04:29."
+85,2008-05-24 06:36:20,2008-05-24 07:37:00,116.202028,39.99805,3640.0,12918,"User 85 will move from grid 12918 to grid 15172, arriving around in about 6 months.","User 85 will move from grid 12918 to grid 15172, at 2008-11-12 01:38:21."
+85,2008-05-24 07:37:00,2008-05-24 08:13:18,116.197114,40.007049,2178.0,12730,"User 85 will move from grid 12730 to grid 14994, arriving around in about 5 months.","User 85 will move from grid 12730 to grid 14994, at 2008-11-03 02:02:45."
+85,2008-05-25 10:26:17,2008-05-25 11:25:23,116.405221,40.043022,3546.0,16136,"User 85 will move from grid 16136 to grid 15175, arriving around in about 4 months.","User 85 will move from grid 16136 to grid 15175, at 2008-09-11 23:42:21."
+85,2008-05-26 07:32:58,2008-05-26 08:11:50,116.326452,39.936575,2332.0,14801,"User 85 will move from grid 14801 to grid 15171, at 2008-11-06 09:54:21.","User 85 will move from grid 14801 to grid 15171, at 2008-11-06 09:54:21."
+85,2008-05-26 08:11:50,2008-05-26 08:51:52,116.317341,39.895517,2402.0,14797,"User 85 will move from grid 14797 to grid 15175, arriving around in about 6 months.","User 85 will move from grid 14797 to grid 15175, at 2008-11-14 11:00:07."
+85,2008-05-27 23:14:13,2008-05-28 09:27:56,116.301344,39.941584,36823.0,14424,"User 85 will move from grid 14424 to grid 16502, arriving around in about 2 months.","User 85 will move from grid 14424 to grid 16502, at 2008-07-22 09:14:36."
+85,2008-05-28 23:33:57,2008-05-29 10:41:56,116.301375,39.941685,40079.0,14424,"User 85 will move from grid 14424 to grid 14987, arriving around in about 10 months.","User 85 will move from grid 14424 to grid 14987, at 2009-03-17 23:16:32."
+85,2008-05-29 23:26:07,2008-05-30 08:49:19,116.301403,39.941617,33792.0,14424,"User 85 will move from grid 14424 to grid 14805, arriving around in about 6 months.","User 85 will move from grid 14424 to grid 14805, at 2008-11-16 03:10:14."
+85,2008-07-22 00:37:47,2008-07-22 07:21:10,116.430119,39.935095,24203.0,16502,"User 85 will move from grid 16502 to grid 16138, arriving around in about 11 months.","User 85 will move from grid 16502 to grid 16138, at 2009-06-26 00:30:11."
+85,2008-07-22 07:40:24,2008-07-22 08:17:02,116.418127,39.980101,2198.0,16318,"User 85 will move from grid 16318 to grid 16502, at 2008-07-23 00:47:08.","User 85 will move from grid 16318 to grid 16502, at 2008-07-23 00:47:08."
+85,2008-07-22 09:14:36,2008-07-22 10:07:41,116.430326,39.934999,3185.0,16502,"User 85 will move from grid 16502 to grid 16884, at 2008-08-03 08:30:23.","User 85 will move from grid 16502 to grid 16884, at 2008-08-03 08:30:23."
+85,2008-07-22 11:25:21,2008-07-22 12:27:01,116.310897,39.980049,3700.0,14617,"User 85 will move from grid 14617 to grid 16137, arriving around in about 5 months.","User 85 will move from grid 14617 to grid 16137, at 2009-01-02 07:13:12."
+85,2008-07-22 12:30:13,2008-07-22 14:11:07,116.325027,39.974967,6054.0,14805,"User 85 will move from grid 14805 to grid 14805, at 2008-07-23 15:01:00.","User 85 will move from grid 14805 to grid 14805, at 2008-07-23 15:01:00."
+85,2008-07-23 00:47:08,2008-07-23 11:09:36,116.429993,39.934385,37348.0,16502,"User 85 will move from grid 16502 to grid 14987, arriving around in about 4 months.","User 85 will move from grid 16502 to grid 14987, at 2008-11-29 02:27:50."
+85,2008-07-23 11:09:36,2008-07-23 14:05:30,116.37115,39.905295,10554.0,15554,"User 85 will move from grid 15554 to grid 11391, arriving around in about 4 months.","User 85 will move from grid 15554 to grid 11391, at 2008-11-15 06:45:59."
+85,2008-07-23 14:05:30,2008-07-23 14:39:28,116.367624,39.908762,2038.0,15554,"User 85 will move from grid 15554 to grid 16502, at 2008-08-01 01:13:55.","User 85 will move from grid 15554 to grid 16502, at 2008-08-01 01:13:55."
+85,2008-07-23 15:01:00,2008-07-24 10:28:56,116.327845,39.971124,70076.0,14805,"User 85 will move from grid 14805 to grid 14987, arriving around in about 2 months.","User 85 will move from grid 14805 to grid 14987, at 2008-09-16 02:56:44."
+85,2008-07-24 11:13:14,2008-07-24 13:25:44,116.401287,39.989101,7950.0,16130,"User 85 will move from grid 16130 to grid 15176, arriving around in about 5 months.","User 85 will move from grid 16130 to grid 15176, at 2009-01-05 02:04:32."
+85,2008-07-24 13:53:34,2008-07-25 02:54:32,116.336743,39.975232,46858.0,14994,"User 85 will move from grid 14994 to grid 14608, arriving around in the next month.","User 85 will move from grid 14994 to grid 14608, at 2008-08-26 03:35:37."
+85,2008-07-25 03:10:24,2008-07-25 12:31:55,116.429962,39.935079,33691.0,16502,"User 85 will move from grid 16502 to grid 15183, arriving around in about 2 months.","User 85 will move from grid 16502 to grid 15183, at 2008-09-13 05:52:37."
+85,2008-07-26 12:25:45,2008-07-27 12:39:31,116.336684,39.985487,87226.0,14996,"User 85 will move from grid 14996 to grid 15171, arriving around in the next month.","User 85 will move from grid 14996 to grid 15171, at 2008-09-03 23:53:45."
+85,2008-08-01 01:13:55,2008-08-03 07:48:07,116.43265,39.932407,196452.0,16502,"User 85 will move from grid 16502 to grid 15171, arriving around in about 2 months.","User 85 will move from grid 16502 to grid 15171, at 2008-10-16 23:49:22."
+85,2008-08-03 08:30:23,2008-08-03 09:34:56,116.454592,39.976308,3873.0,16884,"User 85 will move from grid 16884 to grid 14987, arriving around in about 8 months.","User 85 will move from grid 16884 to grid 14987, at 2009-03-29 23:12:06."
+85,2008-08-26 03:35:37,2008-08-26 05:53:01,116.3131916,39.895665,8244.0,14608,"User 85 will move from grid 14608 to grid 15171, arriving around in about 2 months.","User 85 will move from grid 14608 to grid 15171, at 2008-10-14 03:56:15."
+85,2008-08-30 05:36:35,2008-08-30 06:14:42,116.3451216,39.82669,2287.0,15167,"User 85 will move from grid 15167 to grid 15175, at 2008-08-30 06:17:02.","User 85 will move from grid 15167 to grid 15175, at 2008-08-30 06:17:02."
+85,2008-08-30 06:17:02,2008-08-30 06:49:59,116.3429616,39.899145,1977.0,15175,"User 85 will move from grid 15175 to grid 14990, arriving around in about 2 months.","User 85 will move from grid 15175 to grid 14990, at 2008-11-10 02:43:31."
+85,2008-08-30 07:04:29,2008-08-30 09:42:30,116.33668,39.9232349,9481.0,14989,"User 85 will move from grid 14989 to grid 15172, arriving around in about 2 months.","User 85 will move from grid 14989 to grid 15172, at 2008-10-30 23:47:03."
+85,2008-09-03 23:53:45,2008-09-04 03:43:40,116.3470449,39.8631766,13795.0,15171,,
+85,2008-09-10 00:15:32,2008-09-10 00:54:27,116.3470133,39.863115,2335.0,15171,"User 85 will move from grid 15171 to grid 15175, arriving around in the next month.","User 85 will move from grid 15171 to grid 15175, at 2008-10-14 10:03:37."
+85,2008-09-10 00:54:27,2008-09-10 10:04:45,116.3470583,39.8633816,33018.0,15171,"User 85 will move from grid 15171 to grid 14608, at 2008-10-25 02:17:24.","User 85 will move from grid 15171 to grid 14608, at 2008-10-25 02:17:24."
+85,2008-09-10 14:43:31,2008-09-10 15:21:15,116.3364316,39.9058516,2264.0,14987,"User 85 will move from grid 14987 to grid 14807, arriving around in the next month.","User 85 will move from grid 14987 to grid 14807, at 2008-10-20 07:11:17."
+85,2008-09-11 23:42:21,2008-09-12 00:13:53,116.3406749,39.8991283,1892.0,15175,"User 85 will move from grid 15175 to grid 11391, arriving around in about 2 months.","User 85 will move from grid 15175 to grid 11391, at 2008-11-15 02:50:59."
+85,2008-09-12 01:14:20,2008-09-12 08:08:11,116.3485016,39.8664449,24831.0,15171,"User 85 will move from grid 15171 to grid 15171, arriving around in about 2 months.","User 85 will move from grid 15171 to grid 15171, at 2008-10-28 04:56:08."
+85,2008-09-12 08:24:54,2008-09-12 09:24:18,116.3406583,39.8995483,3564.0,15175,"User 85 will move from grid 15175 to grid 15172, arriving around in about 2 months.","User 85 will move from grid 15175 to grid 15172, at 2008-11-07 01:27:57."
+85,2008-09-13 04:21:25,2008-09-13 05:51:49,116.3538999,39.974995,5424.0,15372,,
+85,2008-09-13 05:52:37,2008-09-13 06:33:08,116.3485483,39.9745933,2431.0,15183,"User 85 will move from grid 15183 to grid 15175, arriving around in about 3 months.","User 85 will move from grid 15183 to grid 15175, at 2008-12-09 04:44:11."
+85,2008-09-13 06:33:08,2008-09-13 07:44:28,116.4062833,40.0645749,4280.0,16138,"User 85 will move from grid 16138 to grid 14994, arriving around in about 4 weeks, specifically next Friday.","User 85 will move from grid 16138 to grid 14994, at 2008-10-10 10:42:45."
+85,2008-09-13 07:49:40,2008-09-13 09:31:53,116.4022933,40.0652983,6133.0,16138,"User 85 will move from grid 16138 to grid 15175, at 2008-09-25 06:59:39.","User 85 will move from grid 16138 to grid 15175, at 2008-09-25 06:59:39."
+85,2008-09-13 09:31:53,2008-09-13 12:28:53,116.3334733,39.9752999,10620.0,14994,,
+85,2008-09-16 02:56:44,2008-09-16 04:48:44,116.3398299,39.9081633,6720.0,14987,"User 85 will move from grid 14987 to grid 16873, arriving around in about 1 weeks, specifically next Thursday.","User 85 will move from grid 14987 to grid 16873, at 2008-09-25 05:16:23."
+85,2008-09-16 05:13:29,2008-09-16 09:50:51,116.3470566,39.8631783,16642.0,15171,"User 85 will move from grid 15171 to grid 15180, arriving around in about 9 months.","User 85 will move from grid 15171 to grid 15180, at 2009-06-14 02:59:31."
+85,2008-09-17 10:13:20,2008-09-17 11:26:05,116.3462483,39.8665266,4365.0,15171,"User 85 will move from grid 15171 to grid 14807, at 2008-09-17 13:13:20.","User 85 will move from grid 15171 to grid 14807, at 2008-09-17 13:13:20."
+85,2008-09-17 13:13:20,2008-09-18 00:18:15,116.3271066,39.9890683,39895.0,14807,"User 85 will move from grid 14807 to grid 16138, arriving around in about 6 months.","User 85 will move from grid 14807 to grid 16138, at 2009-03-29 01:37:26."
+85,2008-09-18 00:54:30,2008-09-24 23:52:08,116.3383533,39.9259849,601058.0,14989,"User 85 will move from grid 14989 to grid 15171, arriving around in about 2 months.","User 85 will move from grid 14989 to grid 15171, at 2008-11-13 23:53:42."
+85,2008-09-25 03:05:19,2008-09-25 05:13:49,116.449808,39.87224,7710.0,16873,"User 85 will move from grid 16873 to grid 14990, at 2008-11-08 06:54:57.","User 85 will move from grid 16873 to grid 14990, at 2008-11-08 06:54:57."
+85,2008-09-25 05:16:23,2008-09-25 06:27:45,116.44982,39.872207,4282.0,16873,"User 85 will move from grid 16873 to grid 15171, arriving around in about 2 months.","User 85 will move from grid 16873 to grid 15171, at 2008-11-28 00:02:11."
+85,2008-09-25 06:59:39,2008-09-25 23:11:55,116.342613,39.899174,58336.0,15175,"User 85 will move from grid 15175 to grid 15174, arriving around in about 2 months.","User 85 will move from grid 15175 to grid 15174, at 2008-12-02 11:52:49."
+85,2008-09-25 23:34:49,2008-09-26 08:07:34,116.342526,39.871999,30765.0,15172,"User 85 will move from grid 15172 to grid 14987, arriving around in about 7 months.","User 85 will move from grid 15172 to grid 14987, at 2009-05-07 23:34:25."
+85,2008-09-26 09:54:37,2008-09-26 13:48:31,116.336721,39.97517,14034.0,14994,,
+85,2008-09-27 05:32:25,2008-09-29 04:21:08,116.313018,39.97534,168523.0,14616,"User 85 will move from grid 14616 to grid 15171, arriving around in about 1 weeks, specifically next Friday.","User 85 will move from grid 14616 to grid 15171, at 2008-10-10 02:39:42."
+85,2008-09-29 05:32:48,2008-09-29 11:41:54,116.407415,40.066725,22146.0,16139,"User 85 will move from grid 16139 to grid 15175, arriving around in about 2 months.","User 85 will move from grid 16139 to grid 15175, at 2008-12-11 03:54:37."
+85,2008-09-29 12:28:48,2008-09-29 13:13:18,116.286718,39.96192,2670.0,14237,"User 85 will move from grid 14237 to grid 15554, arriving around in about 6 months.","User 85 will move from grid 14237 to grid 15554, at 2009-03-20 01:47:16."
+85,2008-10-09 04:42:32,2008-10-10 00:29:31,116.330557,39.975563,71219.0,14994,"User 85 will move from grid 14994 to grid 14798, arriving around in about 2 months.","User 85 will move from grid 14994 to grid 14798, at 2008-11-29 01:41:38."
+85,2008-10-10 02:05:03,2008-10-10 02:39:40,116.347163,39.865158,2077.0,15171,"User 85 will move from grid 15171 to grid 15175, arriving around in the next month.","User 85 will move from grid 15171 to grid 15175, at 2008-11-11 09:57:14."
+85,2008-10-10 02:39:42,2008-10-10 08:13:05,116.347117,39.864098,20003.0,15171,"User 85 will move from grid 15171 to grid 15554, at 2008-10-10 08:41:59.","User 85 will move from grid 15171 to grid 15554, at 2008-10-10 08:41:59."
+85,2008-10-10 08:41:59,2008-10-10 09:46:46,116.367999,39.908148,3887.0,15554,"User 85 will move from grid 15554 to grid 15175, arriving around in about 2 weeks, specifically next Tuesday.","User 85 will move from grid 15554 to grid 15175, at 2008-10-21 11:39:17."
+85,2008-10-10 10:42:45,2008-10-11 07:43:25,116.336727,39.975384,75640.0,14994,,
+85,2008-10-14 03:56:15,2008-10-14 09:41:07,116.346951,39.863165,20692.0,15171,"User 85 will move from grid 15171 to grid 14804, arriving around in about 2 months.","User 85 will move from grid 15171 to grid 14804, at 2008-12-06 04:00:56."
+85,2008-10-14 10:03:37,2008-10-14 22:57:07,116.340961,39.899177,46410.0,15175,,
+85,2008-10-14 23:16:57,2008-10-15 09:31:38,116.342678,39.872099,36881.0,15172,"User 85 will move from grid 15172 to grid 14424, arriving around in about 2 weeks, specifically next Sunday.","User 85 will move from grid 15172 to grid 14424, at 2008-11-02 03:28:00."
+85,2008-10-15 09:58:59,2008-10-15 10:42:57,116.347743,39.86776,2638.0,15171,"User 85 will move from grid 15171 to grid 15175, arriving around in about 2 months.","User 85 will move from grid 15171 to grid 15175, at 2008-12-23 11:25:31."
+85,2008-10-15 11:10:07,2008-10-15 14:30:05,116.327782,39.971155,11998.0,14805,,
+85,2008-10-16 03:56:20,2008-10-16 04:35:47,116.325215,39.975016,2367.0,14805,"User 85 will move from grid 14805 to grid 14987, arriving around in about 2 weeks, specifically next Thursday.","User 85 will move from grid 14805 to grid 14987, at 2008-10-30 09:52:35."
+85,2008-10-16 07:06:07,2008-10-16 23:26:02,116.334743,39.890805,58795.0,14985,"User 85 will move from grid 14985 to grid 15171, at 2008-12-23 00:12:17.","User 85 will move from grid 14985 to grid 15171, at 2008-12-23 00:12:17."
+85,2008-10-16 23:49:22,2008-10-17 12:31:50,116.348532,39.866488,45748.0,15171,"User 85 will move from grid 15171 to grid 15175, arriving around in about 2 weeks, specifically next Tuesday.","User 85 will move from grid 15171 to grid 15175, at 2008-11-04 11:37:53."
+85,2008-10-18 05:16:32,2008-10-18 08:15:01,116.401672,40.052016,10709.0,16137,"User 85 will move from grid 16137 to grid 14801, at 2009-07-07 09:27:58.","User 85 will move from grid 16137 to grid 14801, at 2009-07-07 09:27:58."
+85,2008-10-18 09:53:05,2008-10-18 10:37:48,116.301409,39.965736,2683.0,14426,"User 85 will move from grid 14426 to grid 9745, arriving around in about 9 months.","User 85 will move from grid 14426 to grid 9745, at 2009-07-05 06:49:07."
+85,2008-10-19 07:01:43,2008-10-19 07:59:24,116.30642,39.989038,3461.0,14618,,
+85,2008-10-19 08:26:00,2008-10-20 04:33:54,116.327451,39.988931,72474.0,14807,,
+85,2008-10-20 07:11:17,2008-10-20 12:24:40,116.326689,39.988992,18803.0,14807,,
+85,2008-10-20 23:41:07,2008-10-21 11:27:36,116.344881,39.863283,42389.0,15171,"User 85 will move from grid 15171 to grid 15171, arriving around later today, late at night.","User 85 will move from grid 15171 to grid 15171, at 2008-10-22 00:06:35."
+85,2008-10-21 11:39:17,2008-10-21 23:42:09,116.341704,39.899132,43372.0,15175,,
+85,2008-10-22 00:06:35,2008-10-22 10:05:41,116.348535,39.864176,35946.0,15171,,
+85,2008-10-23 03:01:37,2008-10-23 06:38:52,116.33679,39.866443,13035.0,14982,"User 85 will move from grid 14982 to grid 15171, arriving around in about 5 days, on 2008-10-28.","User 85 will move from grid 14982 to grid 15171, at 2008-10-28 23:52:44."
+85,2008-10-23 06:53:43,2008-10-23 23:28:37,116.341611,39.899133,59694.0,15175,,
+85,2008-10-23 23:42:59,2008-10-24 08:22:18,116.341523,39.871965,31159.0,15172,"User 85 will move from grid 15172 to grid 14797, arriving around in about 2 months.","User 85 will move from grid 15172 to grid 14797, at 2009-01-08 00:28:30."
+85,2008-10-25 02:17:24,2008-10-25 09:23:08,116.313236,39.895604,25544.0,14608,"User 85 will move from grid 14608 to grid 15175, arriving around in about 3 weeks, specifically next Wednesday.","User 85 will move from grid 14608 to grid 15175, at 2008-11-12 10:40:50."
+85,2008-10-25 09:52:42,2008-10-25 11:17:04,116.328029,39.971058,5062.0,14805,"User 85 will move from grid 14805 to grid 15171, arriving around in about 2 months.","User 85 will move from grid 14805 to grid 15171, at 2009-01-08 23:43:29."
+85,2008-10-26 04:33:27,2008-10-26 07:52:46,116.246651,39.908102,11959.0,13664,,
+85,2008-10-28 04:56:08,2008-10-28 09:06:51,116.346743,39.863151,15043.0,15171,,
+85,2008-10-28 10:39:54,2008-10-28 23:38:31,116.34038,39.899131,46717.0,15175,"User 85 will move from grid 15175 to grid 11981, arriving around in about 6 months.","User 85 will move from grid 15175 to grid 11981, at 2009-04-12 06:43:06."
+85,2008-10-28 23:52:44,2008-10-29 09:42:19,116.348522,39.866564,35375.0,15171,"User 85 will move from grid 15171 to grid 11227, arriving around in about 5 months.","User 85 will move from grid 15171 to grid 11227, at 2009-04-11 06:54:35."
+85,2008-10-30 09:18:33,2008-10-30 09:52:35,116.336797,39.906458,2042.0,14987,,
+85,2008-10-30 09:52:35,2008-10-30 10:51:26,116.338845,39.910836,3531.0,14987,,
+85,2008-10-30 11:22:27,2008-10-30 23:42:27,116.340274,39.899123,44400.0,15175,"User 85 will move from grid 15175 to grid 15172, arriving around in the next month.","User 85 will move from grid 15175 to grid 15172, at 2008-12-10 01:47:22."
+85,2008-10-30 23:47:03,2008-10-31 08:10:24,116.34267,39.872043,30201.0,15172,"User 85 will move from grid 15172 to grid 14987, arriving around in about 5 months.","User 85 will move from grid 15172 to grid 14987, at 2009-04-09 23:24:22."
+85,2008-11-01 05:18:22,2008-11-01 07:29:02,116.368107,39.908122,7840.0,15554,,
+85,2008-11-01 08:07:02,2008-11-01 08:43:43,116.383898,39.905411,2201.0,15743,"User 85 will move from grid 15743 to grid 16874, arriving around in about 6 months.","User 85 will move from grid 15743 to grid 16874, at 2009-04-18 10:29:29."
+85,2008-11-01 08:43:43,2008-11-01 09:26:43,116.392941,39.899122,2580.0,15931,"User 85 will move from grid 15931 to grid 15175, at 2008-11-06 13:31:25.","User 85 will move from grid 15931 to grid 15175, at 2008-11-06 13:31:25."
+85,2008-11-02 03:28:00,2008-11-02 09:02:23,116.303734,39.944041,20063.0,14424,"User 85 will move from grid 14424 to grid 15171, at 2008-11-04 04:47:06.","User 85 will move from grid 14424 to grid 15171, at 2008-11-04 04:47:06."
+85,2008-11-03 02:02:45,2008-11-03 02:52:11,116.3352,39.971428,2966.0,14994,"User 85 will move from grid 14994 to grid 15171, arriving around in the next month.","User 85 will move from grid 14994 to grid 15171, at 2008-12-11 23:55:43."
+85,2008-11-04 03:14:19,2008-11-04 04:10:54,116.340583,39.899115,3395.0,15175,,
+85,2008-11-04 04:47:06,2008-11-04 11:26:33,116.346819,39.863305,23967.0,15171,,
+85,2008-11-04 11:37:53,2008-11-05 02:48:56,116.341511,39.89913,54663.0,15175,"User 85 will move from grid 15175 to grid 14616, at 2009-04-11 03:59:23.","User 85 will move from grid 15175 to grid 14616, at 2009-04-11 03:59:23."
+85,2008-11-05 04:45:39,2008-11-05 05:17:03,116.347145,39.863194,1884.0,15171,,
+85,2008-11-05 05:17:17,2008-11-05 09:42:49,116.347254,39.865069,15932.0,15171,,
+85,2008-11-06 05:55:32,2008-11-06 09:42:21,116.340386,39.899108,13609.0,15175,,
+85,2008-11-06 09:54:21,2008-11-06 13:14:31,116.348514,39.866465,12010.0,15171,,
+85,2008-11-06 13:31:25,2008-11-07 01:14:31,116.341661,39.899135,42186.0,15175,"User 85 will move from grid 15175 to grid 14987, arriving around in the next month.","User 85 will move from grid 15175 to grid 14987, at 2008-12-18 03:03:53."
+85,2008-11-07 01:27:57,2008-11-07 08:05:38,116.342476,39.872018,23861.0,15172,,
+85,2008-11-08 06:54:57,2008-11-08 08:30:37,116.336736,39.935586,5740.0,14990,"User 85 will move from grid 14990 to grid 14994, at 2009-01-04 05:17:37.","User 85 will move from grid 14990 to grid 14994, at 2009-01-04 05:17:37."
+85,2008-11-10 02:43:31,2008-11-10 04:46:31,116.33673,39.936126,7380.0,14990,,
+85,2008-11-10 05:04:05,2008-11-10 05:38:07,116.332396,39.935133,2042.0,14990,"User 85 will move from grid 14990 to grid 14987, arriving around in about 4 months.","User 85 will move from grid 14990 to grid 14987, at 2009-03-22 23:12:23."
+85,2008-11-10 05:38:09,2008-11-10 06:20:49,116.33807,39.936064,2560.0,14990,,
+85,2008-11-11 05:32:21,2008-11-11 09:42:52,116.342306,39.871946,15031.0,15172,,
+85,2008-11-11 09:57:14,2008-11-12 01:22:38,116.34154,39.899129,55524.0,15175,"User 85 will move from grid 15175 to grid 14988, arriving around in the next month.","User 85 will move from grid 15175 to grid 14988, at 2008-12-18 01:31:15."
+85,2008-11-12 01:38:21,2008-11-12 03:59:42,116.342534,39.872052,8481.0,15172,"User 85 will move from grid 15172 to grid 14996, arriving around in about 2 months.","User 85 will move from grid 15172 to grid 14996, at 2008-12-27 10:25:32."
+85,2008-11-12 07:31:03,2008-11-12 09:54:00,116.348526,39.866519,8577.0,15171,,
+85,2008-11-12 10:40:50,2008-11-13 09:04:02,116.341155,39.899072,80592.0,15175,"User 85 will move from grid 15175 to grid 15175, at 2008-11-13 09:46:48.","User 85 will move from grid 15175 to grid 15175, at 2008-11-13 09:46:48."
+85,2008-11-13 09:46:48,2008-11-13 23:32:02,116.340542,39.899136,49514.0,15175,"User 85 will move from grid 15175 to grid 16311, at 2008-12-02 05:24:54.","User 85 will move from grid 15175 to grid 16311, at 2008-12-02 05:24:54."
+85,2008-11-13 23:53:42,2008-11-14 08:08:51,116.348493,39.866613,29709.0,15171,,
+85,2008-11-14 11:00:07,2008-11-15 00:38:13,116.340768,39.89955,49086.0,15175,"User 85 will move from grid 15175 to grid 14617, arriving around in the next month.","User 85 will move from grid 15175 to grid 14617, at 2008-12-28 08:09:36."
+85,2008-11-15 02:50:59,2008-11-15 03:36:49,116.110948,39.863149,2750.0,11391,"User 85 will move from grid 11391 to grid 11416, at 2009-03-21 23:30:15.","User 85 will move from grid 11391 to grid 11416, at 2009-03-21 23:30:15."
+85,2008-11-15 03:36:49,2008-11-15 05:36:43,116.110024,39.863279,7194.0,11391,"User 85 will move from grid 11391 to grid 11391, at 2008-11-15 05:36:43.","User 85 will move from grid 11391 to grid 11391, at 2008-11-15 05:36:43."
+85,2008-11-15 05:36:43,2008-11-15 06:31:41,116.112877,39.866588,3298.0,11391,"User 85 will move from grid 11391 to grid 15175, arriving around in about 3 weeks, specifically next Monday.","User 85 will move from grid 11391 to grid 15175, at 2008-12-08 08:10:19."
+85,2008-11-15 06:45:59,2008-11-15 07:21:35,116.112879,39.861044,2136.0,11391,"User 85 will move from grid 11391 to grid 14994, arriving around in about 5 months.","User 85 will move from grid 11391 to grid 14994, at 2009-04-04 06:53:56."
+85,2008-11-16 03:10:14,2008-11-16 03:44:22,116.327932,39.970871,2048.0,14805,"User 85 will move from grid 14805 to grid 15171, arriving around in about 2 weeks, specifically next Tuesday.","User 85 will move from grid 14805 to grid 15171, at 2008-12-02 07:09:33."
+85,2008-11-17 10:16:26,2008-11-17 12:25:36,116.336729,39.905591,7750.0,14987,,
+85,2008-11-17 12:59:14,2008-11-18 01:59:01,116.34118,39.899105,46787.0,15175,"User 85 will move from grid 15175 to grid 14617, arriving around in the next month.","User 85 will move from grid 15175 to grid 14617, at 2008-12-30 12:53:44."
+85,2008-11-26 04:30:14,2008-11-26 10:04:42,116.342602,39.871971,20068.0,15172,"User 85 will move from grid 15172 to grid 14994, at 2009-05-16 06:04:59.","User 85 will move from grid 15172 to grid 14994, at 2009-05-16 06:04:59."
+85,2008-11-28 00:02:11,2008-11-28 08:15:37,116.346672,39.863077,29606.0,15171,"User 85 will move from grid 15171 to grid 16138, arriving around in about 10 months.","User 85 will move from grid 15171 to grid 16138, at 2009-09-16 14:54:10."
+85,2008-11-28 10:09:51,2008-11-29 00:28:36,116.340765,39.899052,51525.0,15175,"User 85 will move from grid 15175 to grid 15172, arriving around in about 5 days, on 2008-12-04.","User 85 will move from grid 15175 to grid 15172, at 2008-12-04 23:41:40."
+85,2008-11-29 01:41:38,2008-11-29 02:12:38,116.318129,39.908122,1860.0,14798,"User 85 will move from grid 14798 to grid 17453, arriving around in about 2 weeks, specifically next Sunday.","User 85 will move from grid 14798 to grid 17453, at 2008-12-14 03:00:52."
+85,2008-11-29 02:27:50,2008-11-29 03:30:13,116.336773,39.905916,3743.0,14987,,
+85,2008-12-02 04:39:10,2008-12-02 05:14:24,116.347064,39.863309,2114.0,15171,,
+85,2008-12-02 05:24:54,2008-12-02 06:51:39,116.411365,39.917187,5205.0,16311,"User 85 will move from grid 16311 to grid 14804, at 2008-12-06 05:49:28.","User 85 will move from grid 16311 to grid 14804, at 2008-12-06 05:49:28."
+85,2008-12-02 07:09:33,2008-12-02 11:46:01,116.348447,39.868268,16588.0,15171,,
+85,2008-12-02 11:52:49,2008-12-03 01:10:20,116.344295,39.890198,47851.0,15174,"User 85 will move from grid 15174 to grid 16137, arriving around in the next month.","User 85 will move from grid 15174 to grid 16137, at 2009-01-02 06:04:46."
+85,2008-12-03 01:28:06,2008-12-03 10:12:42,116.34853,39.86654,31476.0,15171,,
+85,2008-12-03 10:25:23,2008-12-04 23:26:24,116.341714,39.899139,133261.0,15175,"User 85 will move from grid 15175 to grid 15176, arriving around in the next month.","User 85 will move from grid 15175 to grid 15176, at 2009-01-07 00:14:28."
+85,2008-12-04 23:41:40,2008-12-05 08:07:19,116.342663,39.872022,30339.0,15172,,
+85,2008-12-06 04:00:56,2008-12-06 05:49:28,116.324782,39.966409,6512.0,14804,,
+85,2008-12-06 05:49:28,2008-12-06 06:47:48,116.324981,39.965891,3500.0,14804,,
+85,2008-12-08 08:10:19,2008-12-08 23:46:56,116.340754,39.899021,56197.0,15175,"User 85 will move from grid 15175 to grid 16136, arriving around in about 3 weeks, specifically next Friday.","User 85 will move from grid 15175 to grid 16136, at 2009-01-02 10:43:11."
+85,2008-12-09 00:24:38,2008-12-09 03:49:37,116.346187,39.864784,12299.0,15171,"User 85 will move from grid 15171 to grid 16136, at 2009-01-02 09:25:26.","User 85 will move from grid 15171 to grid 16136, at 2009-01-02 09:25:26."
+85,2008-12-09 03:55:17,2008-12-09 04:35:21,116.344614,39.863157,2404.0,15171,,
+85,2008-12-09 04:44:11,2008-12-09 08:55:35,116.346942,39.899371,15084.0,15175,"User 85 will move from grid 15175 to grid 14987, at 2008-12-18 00:32:26.","User 85 will move from grid 15175 to grid 14987, at 2008-12-18 00:32:26."
+85,2008-12-10 01:47:22,2008-12-10 10:14:54,116.34293,39.871968,30452.0,15172,"User 85 will move from grid 15172 to grid 15175, arriving around in about 4 weeks, specifically next Wednesday.","User 85 will move from grid 15172 to grid 15175, at 2009-01-07 11:02:17."
+85,2008-12-11 03:54:37,2008-12-11 23:41:32,116.340579,39.89913,71215.0,15175,,
+85,2008-12-11 23:55:43,2008-12-12 08:10:39,116.348531,39.866503,29696.0,15171,"User 85 will move from grid 15171 to grid 15171, arriving around in about 5 months.","User 85 will move from grid 15171 to grid 15171, at 2009-05-06 02:57:19."
+85,2008-12-14 03:00:52,2008-12-14 03:53:48,116.490005,39.986684,3176.0,17453,,
+85,2008-12-16 00:14:45,2008-12-16 00:49:41,116.342821,39.872071,2096.0,15172,"User 85 will move from grid 15172 to grid 16138, arriving around in about 9 months.","User 85 will move from grid 15172 to grid 16138, at 2009-09-21 12:02:13."
+85,2008-12-16 00:49:41,2008-12-16 11:45:55,116.348968,39.870423,39374.0,15172,,
+85,2008-12-17 01:34:58,2008-12-17 09:55:38,116.340462,39.898617,30040.0,15175,,
+85,2008-12-18 00:32:26,2008-12-18 01:31:15,116.33816,39.90814,3529.0,14987,,
+85,2008-12-18 01:31:15,2008-12-18 03:03:53,116.336746,39.913792,5558.0,14988,"User 85 will move from grid 14988 to grid 15173, arriving around in about 6 days, on 2008-12-24.","User 85 will move from grid 14988 to grid 15173, at 2008-12-24 07:14:55."
+85,2008-12-18 03:03:53,2008-12-18 03:47:07,116.336797,39.912629,2594.0,14987,,
+85,2008-12-18 23:50:18,2008-12-19 08:03:47,116.342445,39.872059,29609.0,15172,,
+85,2008-12-21 08:26:46,2008-12-21 09:23:30,116.327681,39.97101,3404.0,14805,"User 85 will move from grid 14805 to grid 14240, arriving around in about 3 months.","User 85 will move from grid 14805 to grid 14240, at 2009-03-13 22:58:34."
+85,2008-12-23 00:12:17,2008-12-23 11:25:31,116.341329,39.86599,40394.0,15171,,
+85,2008-12-23 11:25:31,2008-12-24 07:11:59,116.343379,39.896753,71188.0,15175,"User 85 will move from grid 15175 to grid 16138, arriving around in about 5 months.","User 85 will move from grid 15175 to grid 16138, at 2009-05-17 10:07:32."
+85,2008-12-24 07:14:55,2008-12-24 12:19:05,116.341661,39.879962,18250.0,15173,"User 85 will move from grid 15173 to grid 14430, arriving around in about 3 months.","User 85 will move from grid 15173 to grid 14430, at 2009-03-14 03:50:52."
+85,2008-12-24 12:26:05,2008-12-24 13:00:37,116.3316,39.938518,2072.0,14990,"User 85 will move from grid 14990 to grid 14994, arriving around in about 3 months.","User 85 will move from grid 14990 to grid 14994, at 2009-04-05 08:57:21."
+85,2008-12-25 23:57:06,2008-12-26 08:04:08,116.348512,39.866477,29222.0,15171,"User 85 will move from grid 15171 to grid 14994, at 2008-12-30 16:10:52.","User 85 will move from grid 15171 to grid 14994, at 2008-12-30 16:10:52."
+85,2008-12-27 10:25:32,2008-12-28 07:56:30,116.332968,39.98545,77458.0,14996,,
+85,2008-12-28 08:09:36,2008-12-28 09:19:04,116.313133,39.984779,4168.0,14617,,
+85,2008-12-30 00:07:15,2008-12-30 11:20:15,116.342433,39.87198,40380.0,15172,"User 85 will move from grid 15172 to grid 13863, arriving around in about 7 months.","User 85 will move from grid 15172 to grid 13863, at 2009-08-03 06:08:33."
+85,2008-12-30 12:53:44,2008-12-30 16:04:41,116.307646,39.980075,11457.0,14617,,
+85,2008-12-30 16:10:52,2008-12-31 01:02:08,116.330933,39.97629,31876.0,14994,"User 85 will move from grid 14994 to grid 14805, arriving around in about 2 months.","User 85 will move from grid 14994 to grid 14805, at 2009-02-23 09:20:32."
+85,2008-12-31 09:57:32,2008-12-31 11:09:18,116.341173,39.899132,4306.0,15175,"User 85 will move from grid 15175 to grid 14619, at 2009-03-14 02:16:33.","User 85 will move from grid 15175 to grid 14619, at 2009-03-14 02:16:33."
+85,2009-01-02 03:03:24,2009-01-02 04:37:22,116.666111,40.438829,5638.0,20338,"User 85 will move from grid 20338 to grid 16138, arriving around in about 5 months.","User 85 will move from grid 20338 to grid 16138, at 2009-05-24 05:11:31."
+85,2009-01-02 06:04:46,2009-01-02 07:13:12,116.407516,40.052492,4106.0,16137,,
+85,2009-01-02 07:13:12,2009-01-02 09:20:42,116.407427,40.056678,7650.0,16137,,
+85,2009-01-02 09:25:26,2009-01-02 10:25:59,116.405207,40.04301,3633.0,16136,"User 85 will move from grid 16136 to grid 14805, arriving around in about 3 months.","User 85 will move from grid 16136 to grid 14805, at 2009-04-12 22:34:06."
+85,2009-01-02 10:43:11,2009-01-02 11:20:17,116.408464,40.04563,2226.0,16136,"User 85 will move from grid 16136 to grid 14994, arriving around in about 8 months.","User 85 will move from grid 16136 to grid 14994, at 2009-09-01 00:27:50."
+85,2009-01-04 05:17:37,2009-01-04 06:10:22,116.329386,39.974549,3165.0,14994,"User 85 will move from grid 14994 to grid 15175, arriving around in about 3 months.","User 85 will move from grid 14994 to grid 15175, at 2009-03-31 02:16:23."
+85,2009-01-05 02:04:32,2009-01-05 02:57:57,116.348516,39.905945,3205.0,15176,,
+85,2009-01-06 00:13:23,2009-01-06 23:54:06,116.341929,39.865186,85243.0,15171,"User 85 will move from grid 15171 to grid 14808, arriving around in about 2 months.","User 85 will move from grid 15171 to grid 14808, at 2009-02-23 18:39:27."
+85,2009-01-07 00:14:28,2009-01-07 04:31:22,116.34986,39.908124,15414.0,15176,,
+85,2009-01-07 04:42:02,2009-01-07 10:32:42,116.341779,39.86432,21040.0,15171,,
+85,2009-01-07 11:02:17,2009-01-08 00:28:30,116.341914,39.899139,48373.0,15175,,
+85,2009-01-08 00:28:30,2009-01-08 02:34:24,116.328127,39.896826,7554.0,14797,,
+85,2009-01-08 23:43:29,2009-01-09 07:33:25,116.3473,39.863128,28196.0,15171,,
+85,2009-02-23 07:34:35,2009-02-23 09:12:32,116.310365,39.980184,5877.0,14617,,
+85,2009-02-23 09:20:32,2009-02-23 12:40:34,116.325094,39.97488,12002.0,14805,,
+85,2009-02-23 18:39:27,2009-02-24 02:16:53,116.324887,39.999776,27446.0,14808,,
+85,2009-02-24 02:22:58,2009-02-24 05:22:37,116.309667,39.989042,10779.0,14618,,
+85,2009-02-24 05:46:17,2009-03-02 05:21:17,116.325028,39.975261,516900.0,14805,"User 85 will move from grid 14805 to grid 14993, arriving around in about 6 months.","User 85 will move from grid 14805 to grid 14993, at 2009-08-19 11:42:20."
+85,2009-03-02 05:32:47,2009-03-02 07:51:43,116.32488,39.999762,8336.0,14808,"User 85 will move from grid 14808 to grid 14987, arriving around in the next month.","User 85 will move from grid 14808 to grid 14987, at 2009-04-06 23:20:52."
+85,2009-03-06 12:28:34,2009-03-06 13:22:33,116.327845,39.971314,3239.0,14805,,
+85,2009-03-07 02:24:23,2009-03-07 08:33:29,116.406321,40.070079,22146.0,16139,"User 85 will move from grid 16139 to grid 14801, arriving around in the next month.","User 85 will move from grid 16139 to grid 14801, at 2009-04-14 10:44:54."
+85,2009-03-07 10:03:44,2009-03-07 22:32:11,116.411085,39.997204,44907.0,16320,"User 85 will move from grid 16320 to grid 15175, arriving around in about 4 months.","User 85 will move from grid 16320 to grid 15175, at 2009-07-05 09:56:28."
+85,2009-03-09 03:55:59,2009-03-09 04:27:25,116.341729,39.899125,1886.0,15175,,
+85,2009-03-09 07:45:37,2009-03-09 10:25:54,116.404534,39.91096,9617.0,16121,,
+85,2009-03-09 10:49:04,2009-03-09 12:14:42,116.332603,39.971054,5138.0,14994,"User 85 will move from grid 14994 to grid 11605, arriving around in the next month.","User 85 will move from grid 14994 to grid 11605, at 2009-04-12 11:23:38."
+85,2009-03-13 22:58:34,2009-03-14 01:41:53,116.292704,39.989481,9799.0,14240,,
+85,2009-03-14 02:16:33,2009-03-14 02:54:38,116.308601,39.997249,2285.0,14619,,
+85,2009-03-14 02:55:03,2009-03-14 03:48:37,116.301181,39.989031,3214.0,14429,,
+85,2009-03-14 03:50:52,2009-03-14 04:58:36,116.299862,39.995637,4064.0,14430,"User 85 will move from grid 14430 to grid 14807, at 2009-03-22 10:17:41.","User 85 will move from grid 14430 to grid 14807, at 2009-03-22 10:17:41."
+85,2009-03-17 23:16:32,2009-03-18 08:39:15,116.338273,39.908087,33763.0,14987,,
+85,2009-03-20 01:47:16,2009-03-21 04:15:40,116.370758,39.905591,95304.0,15554,,
+85,2009-03-21 04:45:45,2009-03-21 22:39:35,116.406967,40.072905,64430.0,16139,,
+85,2009-03-21 23:30:15,2009-03-22 09:52:41,116.112805,40.08857,37346.0,11416,"User 85 will move from grid 11416 to grid 16138, arriving around in about 3 months.","User 85 will move from grid 11416 to grid 16138, at 2009-06-19 02:10:07."
+85,2009-03-22 10:17:41,2009-03-22 22:37:34,116.327071,39.988971,44393.0,14807,,
+85,2009-03-22 23:12:23,2009-03-23 09:05:04,116.336358,39.904747,35561.0,14987,,
+85,2009-03-23 23:22:34,2009-03-24 09:10:58,116.338078,39.908062,35304.0,14987,"User 85 will move from grid 14987 to grid 14438, arriving around in about 2 months.","User 85 will move from grid 14987 to grid 14438, at 2009-05-19 09:57:48."
+85,2009-03-29 01:37:26,2009-03-29 08:32:37,116.40682,40.061431,24911.0,16138,,
+85,2009-03-29 09:01:12,2009-03-29 10:30:06,116.407672,40.041985,5334.0,16136,"User 85 will move from grid 16136 to grid 16328, arriving around in the next month.","User 85 will move from grid 16136 to grid 16328, at 2009-05-09 03:32:37."
+85,2009-03-29 10:30:06,2009-03-29 22:38:33,116.367802,39.907703,43707.0,15554,,
+85,2009-03-29 23:12:06,2009-03-31 02:16:03,116.336607,39.904575,97437.0,14987,,
+85,2009-03-31 02:16:23,2009-03-31 03:01:31,116.34216,39.898288,2708.0,15175,,
+85,2009-03-31 03:24:27,2009-03-31 04:03:25,116.344245,39.890422,2338.0,15174,"User 85 will move from grid 15174 to grid 16138, at 2009-06-22 02:14:51.","User 85 will move from grid 15174 to grid 16138, at 2009-06-22 02:14:51."
+85,2009-04-02 09:59:13,2009-04-02 10:46:18,116.341975,39.898117,2825.0,15175,,
+85,2009-04-04 03:24:47,2009-04-04 06:53:56,116.336822,39.96686,12549.0,14993,,
+85,2009-04-04 06:53:56,2009-04-05 05:31:13,116.335099,39.973404,81437.0,14994,,
+85,2009-04-05 05:44:38,2009-04-05 08:44:36,116.336769,39.966794,10798.0,14993,"User 85 will move from grid 14993 to grid 15383, arriving around in about 4 months.","User 85 will move from grid 14993 to grid 15383, at 2009-07-31 14:50:02."
+85,2009-04-05 08:57:21,2009-04-06 01:31:40,116.333004,39.971085,59659.0,14994,,
+85,2009-04-06 02:04:55,2009-04-06 03:38:07,116.303883,39.943717,5592.0,14424,"User 85 will move from grid 14424 to grid 11416, at 2009-04-12 23:47:06.","User 85 will move from grid 14424 to grid 11416, at 2009-04-12 23:47:06."
+85,2009-04-06 03:46:22,2009-04-06 04:48:46,116.336816,39.966132,3744.0,14993,,
+85,2009-04-06 04:48:46,2009-04-06 22:39:05,116.329704,39.975934,64219.0,14994,,
+85,2009-04-06 23:20:52,2009-04-07 10:43:29,116.338085,39.907672,40957.0,14987,"User 85 will move from grid 14987 to grid 16138, arriving around in the next month.","User 85 will move from grid 14987 to grid 16138, at 2009-05-18 07:59:43."
+85,2009-04-09 23:24:22,2009-04-10 12:30:04,116.335937,39.908292,47142.0,14987,"User 85 will move from grid 14987 to grid 14994, arriving around in the next month.","User 85 will move from grid 14987 to grid 14994, at 2009-05-23 11:14:35."
+85,2009-04-10 13:11:59,2009-04-11 02:34:57,116.328814,39.99384,48178.0,14996,,
+85,2009-04-11 03:59:23,2009-04-11 05:13:55,116.313197,39.974051,4472.0,14616,,
+85,2009-04-11 05:13:55,2009-04-11 06:22:05,116.104313,40.087801,4090.0,11227,"User 85 will move from grid 11227 to grid 11980, at 2009-04-11 07:49:20.","User 85 will move from grid 11227 to grid 11980, at 2009-04-11 07:49:20."
+85,2009-04-11 06:54:35,2009-04-11 07:40:30,116.101341,40.087567,2755.0,11227,,
+85,2009-04-11 07:49:20,2009-04-12 03:14:28,116.143371,40.066281,69908.0,11980,,
+85,2009-04-12 06:43:06,2009-04-12 10:43:18,116.148146,40.066991,14412.0,11981,,
+85,2009-04-12 11:23:38,2009-04-12 12:15:16,116.124141,40.089098,3098.0,11605,"User 85 will move from grid 11605 to grid 16138, arriving around in the next month.","User 85 will move from grid 11605 to grid 16138, at 2009-05-17 08:44:48."
+85,2009-04-12 22:34:06,2009-04-12 23:24:31,116.327142,39.976345,3025.0,14805,,
+85,2009-04-12 23:47:06,2009-04-13 01:08:36,116.112934,40.088688,4890.0,11416,"User 85 will move from grid 11416 to grid 14987, arriving around in about 6 days, on 2009-04-19.","User 85 will move from grid 11416 to grid 14987, at 2009-04-19 23:27:35."
+85,2009-04-13 02:34:58,2009-04-13 22:47:41,116.325585,39.975093,72763.0,14805,,
+85,2009-04-14 10:44:54,2009-04-14 22:50:34,116.324607,39.937182,43540.0,14801,"User 85 will move from grid 14801 to grid 14993, arriving around in about 2 weeks, specifically next Saturday.","User 85 will move from grid 14801 to grid 14993, at 2009-05-02 04:25:37."
+85,2009-04-14 23:25:24,2009-04-15 10:11:05,116.338057,39.908061,38741.0,14987,"User 85 will move from grid 14987 to grid 16138, arriving around in about 2 months.","User 85 will move from grid 14987 to grid 16138, at 2009-06-11 01:46:26."
+85,2009-04-16 09:32:37,2009-04-16 22:46:37,116.337958,39.926234,47640.0,14989,,
+85,2009-04-18 03:37:20,2009-04-18 10:26:59,116.45458,39.866381,24579.0,16872,,
+85,2009-04-18 10:29:29,2009-04-18 11:44:31,116.454711,39.882525,4502.0,16874,,
+85,2009-04-19 23:27:35,2009-04-20 09:20:07,116.333801,39.906262,35552.0,14987,,
+85,2009-04-20 10:54:14,2009-04-20 13:05:52,116.427966,39.916814,7898.0,16500,,
+85,2009-04-20 13:17:42,2009-04-20 22:46:40,116.33624,39.975125,34138.0,14994,"User 85 will move from grid 14994 to grid 16137, arriving around in about 4 weeks, specifically next Sunday.","User 85 will move from grid 14994 to grid 16137, at 2009-05-17 23:55:49."
+85,2009-04-21 11:31:04,2009-04-21 22:45:37,116.327959,39.971321,40473.0,14805,"User 85 will move from grid 14805 to grid 16138, arriving around in the next month.","User 85 will move from grid 14805 to grid 16138, at 2009-05-23 00:31:50."
+85,2009-04-25 03:15:00,2009-04-25 08:41:37,116.406224,40.064495,19597.0,16138,"User 85 will move from grid 16138 to grid 16138, arriving around in about 2 months.","User 85 will move from grid 16138 to grid 16138, at 2009-06-27 02:33:15."
+85,2009-04-25 08:41:37,2009-04-26 14:25:35,116.33327,39.975333,107038.0,14994,"User 85 will move from grid 14994 to grid 14987, arriving around in about 1 weeks, specifically next Wednesday.","User 85 will move from grid 14994 to grid 14987, at 2009-05-06 23:29:37."
+85,2009-04-26 23:28:06,2009-04-27 22:48:57,116.334831,39.905409,84051.0,14987,,
+85,2009-04-27 23:38:52,2009-04-28 22:44:43,116.33307,39.904413,83151.0,14987,,
+85,2009-04-28 23:21:03,2009-04-29 09:16:27,116.338045,39.90779,35724.0,14987,,
+85,2009-05-02 04:25:37,2009-05-03 01:16:41,116.336789,39.965985,75064.0,14993,"User 85 will move from grid 14993 to grid 16138, arriving around in about 4 months.","User 85 will move from grid 14993 to grid 16138, at 2009-08-21 12:14:00."
+85,2009-05-03 01:38:31,2009-05-03 07:13:04,116.403829,40.051788,20073.0,16137,"User 85 will move from grid 16137 to grid 14987, at 2009-05-04 23:33:04.","User 85 will move from grid 16137 to grid 14987, at 2009-05-04 23:33:04."
+85,2009-05-03 07:18:54,2009-05-04 22:45:57,116.313317,40.033258,142023.0,14623,,
+85,2009-05-04 23:33:04,2009-05-06 02:09:42,116.334489,39.906016,95798.0,14987,"User 85 will move from grid 14987 to grid 14805, arriving around in about 3 months.","User 85 will move from grid 14987 to grid 14805, at 2009-07-31 03:10:49."
+85,2009-05-06 02:57:19,2009-05-06 03:45:18,116.347456,39.863288,2879.0,15171,,
+85,2009-05-06 04:20:18,2009-05-06 09:43:33,116.340328,39.899122,19395.0,15175,"User 85 will move from grid 15175 to grid 16138, arriving around in about 2 weeks, specifically next Tuesday.","User 85 will move from grid 15175 to grid 16138, at 2009-05-19 01:25:41."
+85,2009-05-06 23:29:37,2009-05-07 09:19:06,116.338199,39.907958,35369.0,14987,,
+85,2009-05-07 23:34:25,2009-05-08 11:54:31,116.338099,39.907886,44406.0,14987,,
+85,2009-05-09 03:32:37,2009-05-09 12:47:09,116.416757,40.070027,33272.0,16328,,
+85,2009-05-09 12:47:09,2009-05-10 22:42:36,116.399105,40.047174,122127.0,16136,"User 85 will move from grid 16136 to grid 16138, arriving around in the next month.","User 85 will move from grid 16136 to grid 16138, at 2009-06-20 03:36:25."
+85,2009-05-10 23:23:51,2009-05-12 01:46:13,116.3389,39.916702,94942.0,14988,"User 85 will move from grid 14988 to grid 16138, arriving around in about 4 months.","User 85 will move from grid 14988 to grid 16138, at 2009-09-23 14:54:22."
+85,2009-05-14 00:53:28,2009-05-14 07:50:34,116.406361,40.063322,25026.0,16138,"User 85 will move from grid 16138 to grid 16138, at 2009-05-15 00:30:40.","User 85 will move from grid 16138 to grid 16138, at 2009-05-15 00:30:40."
+85,2009-05-14 08:13:30,2009-05-15 00:02:57,116.332915,39.975716,56967.0,14994,,
+85,2009-05-15 00:30:40,2009-05-15 10:59:42,116.406809,40.061753,37742.0,16138,,
+85,2009-05-15 10:59:42,2009-05-16 01:27:19,116.333495,39.97544,52057.0,14994,"User 85 will move from grid 14994 to grid 16138, arriving around in about 3 months.","User 85 will move from grid 14994 to grid 16138, at 2009-08-26 15:00:38."
+85,2009-05-16 01:58:34,2009-05-16 05:41:49,116.403735,40.075669,13395.0,16140,,
+85,2009-05-16 06:04:59,2009-05-17 08:03:43,116.337031,39.970017,93524.0,14994,,
+85,2009-05-17 08:44:48,2009-05-17 10:06:47,116.406479,40.064379,4919.0,16138,"User 85 will move from grid 16138 to grid 16138, arriving around in the next month.","User 85 will move from grid 16138 to grid 16138, at 2009-06-17 02:59:01."
+85,2009-05-17 10:07:32,2009-05-17 10:44:13,116.404491,40.065325,2201.0,16138,,
+85,2009-05-17 23:55:49,2009-05-18 07:59:43,116.404617,40.051992,29034.0,16137,,
+85,2009-05-18 07:59:43,2009-05-19 00:48:09,116.403371,40.064269,60506.0,16138,,
+85,2009-05-19 01:25:41,2009-05-19 09:48:33,116.406761,40.061643,30172.0,16138,,
+85,2009-05-19 09:57:48,2009-05-19 23:39:13,116.30068,40.066745,49285.0,14438,,
+85,2009-05-20 00:07:13,2009-05-20 04:02:06,116.403829,40.05184,14093.0,16137,,
+85,2009-05-21 00:45:00,2009-05-21 09:53:36,116.406616,40.061194,32916.0,16138,,
+85,2009-05-22 01:19:21,2009-05-22 10:48:59,116.403737,40.051986,34178.0,16137,"User 85 will move from grid 16137 to grid 16136, arriving around in about 1 days, on 2009-05-24.","User 85 will move from grid 16137 to grid 16136, at 2009-05-24 02:02:21."
+85,2009-05-23 00:31:50,2009-05-23 11:14:35,116.406815,40.061488,38565.0,16138,,
+85,2009-05-23 11:14:35,2009-05-24 02:00:31,116.33196,39.975494,53156.0,14994,"User 85 will move from grid 14994 to grid 14994, arriving around in about 3 months.","User 85 will move from grid 14994 to grid 14994, at 2009-09-02 02:04:17."
+85,2009-05-24 02:02:21,2009-05-24 05:11:31,116.406654,40.042983,11350.0,16136,"User 85 will move from grid 16136 to grid 9934, arriving around in the next month.","User 85 will move from grid 16136 to grid 9934, at 2009-07-05 05:37:46."
+85,2009-05-24 05:11:31,2009-05-24 05:45:34,116.408125,40.065855,2043.0,16138,,
+85,2009-06-11 01:46:26,2009-06-11 05:18:27,116.406449,40.064459,12721.0,16138,,
+85,2009-06-14 02:59:31,2009-06-14 12:18:34,116.345631,39.943986,33543.0,15180,,
+85,2009-06-15 02:27:47,2009-06-15 03:52:10,116.407117,40.061197,5063.0,16138,"User 85 will move from grid 16138 to grid 16139, arriving around in about 3 months.","User 85 will move from grid 16138 to grid 16139, at 2009-09-21 13:49:05."
+85,2009-06-17 02:59:01,2009-06-17 09:45:27,116.406802,40.063333,24386.0,16138,"User 85 will move from grid 16138 to grid 16138, arriving around in about 3 months.","User 85 will move from grid 16138 to grid 16138, at 2009-09-17 14:53:51."
+85,2009-06-18 07:01:54,2009-06-18 08:30:09,116.318219,39.96984,5295.0,14805,"User 85 will move from grid 14805 to grid 16138, arriving around in about 2 months.","User 85 will move from grid 14805 to grid 16138, at 2009-08-12 15:25:05."
+85,2009-06-18 08:36:59,2009-06-19 01:14:12,116.325414,39.965098,59833.0,14804,"User 85 will move from grid 14804 to grid 16138, at 2009-06-23 01:57:39.","User 85 will move from grid 14804 to grid 16138, at 2009-06-23 01:57:39."
+85,2009-06-19 02:10:07,2009-06-19 09:50:22,116.406572,40.064319,27615.0,16138,,
+85,2009-06-19 10:02:37,2009-06-20 02:50:30,116.301079,40.070928,60473.0,14438,,
+85,2009-06-20 03:36:25,2009-06-20 09:50:38,116.406718,40.06183,22453.0,16138,,
+85,2009-06-22 02:14:51,2009-06-22 09:54:00,116.40702,40.063655,27549.0,16138,,
+85,2009-06-23 01:57:39,2009-06-23 04:03:14,116.407234,40.061059,7535.0,16138,,
+85,2009-06-23 04:37:49,2009-06-23 23:29:05,116.337109,39.970372,67876.0,14994,"User 85 will move from grid 14994 to grid 16319, arriving around in about 2 months.","User 85 will move from grid 14994 to grid 16319, at 2009-08-08 06:06:21."
+85,2009-06-24 00:11:47,2009-06-24 08:59:09,116.407258,40.061311,31642.0,16138,"User 85 will move from grid 16138 to grid 15183, arriving around in about 2 months.","User 85 will move from grid 16138 to grid 15183, at 2009-08-26 12:13:58."
+85,2009-06-26 00:30:11,2009-06-26 09:17:37,116.406678,40.061635,31646.0,16138,,
+85,2009-06-27 02:33:15,2009-06-27 10:50:02,116.405176,40.065039,29807.0,16138,"User 85 will move from grid 16138 to grid 14994, arriving around in about 3 months.","User 85 will move from grid 16138 to grid 14994, at 2009-09-21 00:27:35."
+85,2009-06-28 00:46:38,2009-06-29 01:23:13,116.406782,40.061761,88595.0,16138,"User 85 will move from grid 16138 to grid 14993, arriving around in about 3 months.","User 85 will move from grid 16138 to grid 14993, at 2009-09-23 11:50:29."
+85,2009-06-29 02:07:53,2009-06-29 09:35:07,116.406991,40.061423,26834.0,16138,"User 85 will move from grid 16138 to grid 14994, arriving around in about 2 months.","User 85 will move from grid 16138 to grid 14994, at 2009-08-15 07:05:03."
+85,2009-07-01 01:22:19,2009-07-01 09:10:50,116.406711,40.061665,28111.0,16138,,
+85,2009-07-03 01:33:04,2009-07-03 02:10:06,116.316538,40.025347,2222.0,14622,"User 85 will move from grid 14622 to grid 16138, at 2009-07-03 02:10:11.","User 85 will move from grid 14622 to grid 16138, at 2009-07-03 02:10:11."
+85,2009-07-03 02:10:11,2009-07-03 08:40:22,116.406561,40.063323,23411.0,16138,"User 85 will move from grid 16138 to grid 16138, arriving around later today, late at night.","User 85 will move from grid 16138 to grid 16138, at 2009-07-04 01:25:25."
+85,2009-07-04 01:25:25,2009-07-05 04:25:41,116.406745,40.061011,97216.0,16138,,
+85,2009-07-05 05:37:46,2009-07-05 06:27:02,116.013537,40.357798,2956.0,9934,"User 85 will move from grid 9934 to grid 14608, arriving around in the next month.","User 85 will move from grid 9934 to grid 14608, at 2009-08-08 07:00:13."
+85,2009-07-05 06:49:07,2009-07-05 07:35:02,116.00676,40.354773,2755.0,9745,,
+85,2009-07-05 09:56:28,2009-07-05 10:38:58,116.34172,39.899183,2550.0,15175,,
+85,2009-07-07 09:27:58,2009-07-07 22:56:41,116.324627,39.937331,48523.0,14801,,
+85,2009-07-31 02:20:24,2009-07-31 02:56:48,116.324909,39.896095,2184.0,14797,"User 85 will move from grid 14797 to grid 16138, arriving around in about 4 weeks, specifically next Thursday.","User 85 will move from grid 14797 to grid 16138, at 2009-08-27 14:17:15."
+85,2009-07-31 03:10:49,2009-07-31 14:35:07,116.327829,39.971651,41058.0,14805,,
+85,2009-07-31 14:50:02,2009-08-03 04:11:46,116.36085,40.069047,220904.0,15383,,
+85,2009-08-03 04:11:46,2009-08-03 05:46:58,116.27462,39.994062,5712.0,14051,,
+85,2009-08-03 06:08:33,2009-08-06 22:44:29,116.26332,39.998107,318956.0,13863,,
+85,2009-08-08 06:06:21,2009-08-08 07:00:13,116.411015,39.989024,3232.0,16319,,
+85,2009-08-08 07:00:13,2009-08-08 07:56:44,116.314926,39.896136,3391.0,14608,,
+85,2009-08-08 08:36:34,2009-08-08 09:44:03,116.310634,39.980071,4049.0,14617,"User 85 will move from grid 14617 to grid 15948, at 2009-08-15 12:34:37.","User 85 will move from grid 14617 to grid 15948, at 2009-08-15 12:34:37."
+85,2009-08-08 10:52:34,2009-08-10 01:06:28,116.406344,40.064087,137634.0,16138,,
+85,2009-08-11 11:27:52,2009-08-12 00:59:28,116.406203,40.063743,48696.0,16138,,
+85,2009-08-12 11:39:06,2009-08-12 15:25:05,116.342803,39.967183,13559.0,15182,,
+85,2009-08-12 15:25:05,2009-08-12 20:53:35,116.404935,40.066252,19710.0,16138,,
+85,2009-08-12 20:53:45,2009-08-13 00:09:07,116.404849,40.069897,11722.0,16139,,
+85,2009-08-15 07:05:03,2009-08-15 12:33:07,116.337031,39.969899,19684.0,14994,,
+85,2009-08-15 12:34:37,2009-08-19 11:33:29,116.395828,40.056203,341932.0,15948,"User 85 will move from grid 15948 to grid 16138, arriving around in about 6 days, on 2009-08-25.","User 85 will move from grid 15948 to grid 16138, at 2009-08-25 12:02:21."
+85,2009-08-19 11:42:20,2009-08-19 14:11:04,116.336805,39.966198,8924.0,14993,,
+85,2009-08-19 14:49:20,2009-08-20 00:16:56,116.406745,40.061087,34056.0,16138,,
+85,2009-08-20 00:49:05,2009-08-21 11:42:33,116.333601,39.974075,125608.0,14994,,
+85,2009-08-21 12:14:00,2009-08-23 23:51:01,116.406907,40.061077,214621.0,16138,,
+85,2009-08-24 11:01:53,2009-08-24 12:02:01,116.306478,39.988989,3608.0,14618,,
+85,2009-08-24 12:02:01,2009-08-25 11:27:53,116.305588,39.989104,84352.0,14618,,
+85,2009-08-25 12:02:21,2009-08-26 00:51:21,116.406864,40.061072,46140.0,16138,,
+85,2009-08-26 12:13:58,2009-08-26 14:16:09,116.346869,39.971052,7331.0,15183,,
+85,2009-08-26 15:00:38,2009-08-27 01:09:20,116.40691,40.061122,36522.0,16138,,
+85,2009-08-27 14:17:15,2009-08-28 00:43:12,116.406811,40.061034,37557.0,16138,,
+85,2009-08-31 12:14:09,2009-08-31 23:56:01,116.406775,40.061088,42112.0,16138,"User 85 will move from grid 16138 to grid 16139, at 2009-09-11 11:16:34.","User 85 will move from grid 16138 to grid 16139, at 2009-09-11 11:16:34."
+85,2009-09-01 00:27:50,2009-09-01 11:00:37,116.3338,39.975835,37967.0,14994,,
+85,2009-09-01 11:00:37,2009-09-02 01:20:59,116.405948,40.064823,51622.0,16138,,
+85,2009-09-02 02:04:17,2009-09-04 09:07:19,116.33212,39.973946,198182.0,14994,,
+85,2009-09-04 12:53:13,2009-09-07 01:08:29,116.406782,40.061085,216916.0,16138,,
+85,2009-09-07 14:05:18,2009-09-08 00:43:31,116.40683,40.061084,38293.0,16138,,
+85,2009-09-08 12:06:23,2009-09-09 00:47:27,116.406921,40.061117,45664.0,16138,"User 85 will move from grid 16138 to grid 16138, arriving around in about 1 weeks, specifically next Friday.","User 85 will move from grid 16138 to grid 16138, at 2009-09-18 11:14:01."
+85,2009-09-09 11:46:10,2009-09-09 14:16:01,116.346921,39.97099,8991.0,15183,,
+85,2009-09-09 14:54:52,2009-09-10 01:10:24,116.40682,40.061048,36932.0,16138,,
+85,2009-09-10 11:54:01,2009-09-11 00:44:06,116.406877,40.06113,46205.0,16138,,
+85,2009-09-11 11:16:34,2009-09-12 06:57:47,116.406202,40.06671,70873.0,16139,,
+85,2009-09-12 07:09:28,2009-09-12 07:51:20,116.410685,39.989017,2512.0,16130,"User 85 will move from grid 16130 to grid 16138, at 2009-09-14 15:00:38.","User 85 will move from grid 16130 to grid 16138, at 2009-09-14 15:00:38."
+85,2009-09-12 07:59:05,2009-09-13 23:33:35,116.450779,39.91085,142470.0,16877,,
+85,2009-09-14 15:00:38,2009-09-14 23:48:26,116.406686,40.061007,31668.0,16138,,
+85,2009-09-15 13:05:14,2009-09-16 00:12:29,116.406815,40.06117,40035.0,16138,,
+85,2009-09-16 11:56:42,2009-09-16 14:16:17,116.336835,39.966209,8375.0,14993,,
+85,2009-09-16 14:54:10,2009-09-17 00:04:05,116.406714,40.061082,32995.0,16138,,
+85,2009-09-17 14:53:51,2009-09-18 00:47:20,116.406826,40.061064,35609.0,16138,,
+85,2009-09-18 11:14:01,2009-09-20 23:54:11,116.406757,40.061155,218410.0,16138,,
+85,2009-09-21 00:27:35,2009-09-21 11:48:05,116.333504,39.975306,40830.0,14994,,
+85,2009-09-21 12:02:13,2009-09-21 13:48:04,116.406826,40.061105,6351.0,16138,,
+85,2009-09-21 13:49:05,2009-09-22 00:55:29,116.401779,40.066774,39984.0,16139,,
+85,2009-09-22 11:57:38,2009-09-23 00:52:08,116.406915,40.061141,46470.0,16138,,
+85,2009-09-23 11:50:29,2009-09-23 14:15:54,116.336866,39.966157,8725.0,14993,"User 85 will move from grid 14993 to grid 16138, arriving around in about 4 days, on 2009-09-28.","User 85 will move from grid 14993 to grid 16138, at 2009-09-28 11:18:42."
+85,2009-09-23 14:54:22,2009-09-24 00:35:31,116.406936,40.061029,34869.0,16138,"User 85 will move from grid 16138 to grid 16138, at 2009-09-24 11:08:04.","User 85 will move from grid 16138 to grid 16138, at 2009-09-24 11:08:04."
+85,2009-09-24 11:08:04,2009-09-25 01:00:23,116.406705,40.065249,49939.0,16138,,
+85,2009-09-25 11:07:25,2009-09-27 00:59:38,116.406432,40.063735,136333.0,16138,,
+85,2009-09-27 12:06:46,2009-09-28 00:59:20,116.407,40.061012,46354.0,16138,,
+85,2009-09-28 11:18:42,2009-09-28 14:28:04,116.407033,40.061102,11362.0,16138,,

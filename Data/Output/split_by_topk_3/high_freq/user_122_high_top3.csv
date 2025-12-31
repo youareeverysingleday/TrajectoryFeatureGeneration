@@ -1,0 +1,10 @@
+userID,stime,etime,lon,lat,duration,grid,context_fuzzy,context_precise
+122,2009-05-24 16:33:34,2009-05-24 17:10:40,116.396225,39.962023,2226.0,15938,"User 122 will move from grid 15938 to grid 16314, arriving around in about 3 months.","User 122 will move from grid 15938 to grid 16314, at 2009-08-23 09:54:22."
+122,2009-05-24 18:08:14,2009-05-28 09:11:06,116.3957,39.96713,313372.0,15938,"User 122 will move from grid 15938 to grid 15939, at 2009-06-13 19:57:09.","User 122 will move from grid 15938 to grid 15939, at 2009-06-13 19:57:09."
+122,2009-05-28 12:08:42,2009-05-28 13:27:02,116.183542,39.991632,4700.0,12539,"User 122 will move from grid 12539 to grid 17077, arriving around in about 3 months.","User 122 will move from grid 12539 to grid 17077, at 2009-08-23 18:39:11."
+122,2009-05-28 13:44:53,2009-05-28 14:20:13,116.176931,39.989065,2120.0,12539,"User 122 will move from grid 12539 to grid 15563, arriving around in about 4 months.","User 122 will move from grid 12539 to grid 15563, at 2009-09-22 08:03:25."
+122,2009-05-28 14:32:55,2009-05-28 15:16:37,116.183613,39.990942,2622.0,12539,"User 122 will move from grid 12539 to grid 14807, at 2009-05-28 16:13:10.","User 122 will move from grid 12539 to grid 14807, at 2009-05-28 16:13:10."
+122,2009-06-13 18:11:15,2009-06-13 19:30:06,116.395721,39.967129,4731.0,15938,"User 122 will move from grid 15938 to grid 16128, at 2009-06-14 00:43:04.","User 122 will move from grid 15938 to grid 16128, at 2009-06-14 00:43:04."
+122,2009-10-05 12:06:30,2009-10-05 13:46:26,116.328245,39.980066,5996.0,14806,"User 122 will move from grid 14806 to grid 14995, arriving around later today, in the afternoon.","User 122 will move from grid 14806 to grid 14995, at 2009-10-05 16:55:07."
+122,2009-10-05 14:29:22,2009-10-05 15:12:19,116.328297,39.980089,2577.0,14806,,
+122,2009-10-05 15:12:19,2009-10-05 16:37:43,116.328216,39.980013,5124.0,14806,,
