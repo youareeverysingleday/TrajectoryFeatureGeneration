@@ -272,20 +272,25 @@ def run_all_sampling_grids_mp(
     slice_mode: str = "random_contiguous",
     n_jobs: int | None = None,
 ):
-    U_list = [500, 1000, 2000, 4000, 8000, 9900]
+    U_list_1 = [1000, 2000, 4000, 8000, 9000]
+    # 满足 min_stays=102 的用户只有 9468 个，不足 U=9900 .
 
     # S1: fixed total N_total=1M
-    for U in U_list:
+    for U in U_list_1:
         sample_fixed_total_stays_mp(
             csv_path=csv_path, U=U, N_total=1_000_000, min_stays=65,
+            user_col="userID",time_col="stime",
             random_state=random_state, slice_mode=slice_mode,
             save_dir=save_dir, n_jobs=n_jobs
         )
 
+    U_list_2 = [500, 1000, 2000, 4000, 6000]
+    # 满足 min_stays=500 的用户只有 6358 个，不足 U=8000 .
     # S2: fixed per-user L=500
-    for U in U_list:
+    for U in U_list_2:
         sample_fixed_per_user_stays_mp(
             csv_path=csv_path, U=U, L=500,
+            user_col="userID",time_col="stime",
             random_state=random_state, slice_mode=slice_mode,
             save_dir=save_dir, n_jobs=n_jobs
         )
@@ -294,6 +299,7 @@ def run_all_sampling_grids_mp(
     for L in [100, 200, 500, 800, 1000]:
         sample_fixed_user_count_mp(
             csv_path=csv_path, U=2000, L=L,
+            user_col="userID",time_col="stime",
             random_state=random_state, slice_mode=slice_mode,
             save_dir=save_dir, n_jobs=n_jobs
         )
