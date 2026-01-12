@@ -1,6 +1,29 @@
 # TrajectoryFeatureGeneration
 generate feature of trajectory.
 
+## 时间间隔分布统计特性
+
+### geolife
+
+[Gap sign] <=0 ratio: 0.1149  (zero: 0.1149, neg: 0.0000)
+[Stats] #gaps = 27718
+[Stats] raw gaps minutes: mean=444.077, median=16.000, p95=99.752, p99=13685.512
+[Stats] log gaps: mean=0.944, std=5.525
+
+[MLE Parameters]
+Normal on log-gaps:
+  nu(df)=0.990804, loc=2.979157, scale=0.903595
+  shape(s)=1.590147, loc=0.000000, scale=17.469668
+
+### moreuser
+
+[Gap sign] <=0 ratio: 0.3180  (zero: 0.3180, neg: 0.0000)
+[Stats] #gaps = 6801712
+[Stats] raw gaps minutes: mean=22.208, median=4.617, p95=97.417, p99=201.483
+[Stats] log gaps: mean=-2.879, std=7.691
+
+
+
 ## 1. 类似GeoLife数据处理
 
 ### 主要步骤
