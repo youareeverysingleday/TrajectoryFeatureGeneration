@@ -22,7 +22,13 @@ Normal on log-gaps:
 [Stats] raw gaps minutes: mean=22.208, median=4.617, p95=97.417, p99=201.483
 [Stats] log gaps: mean=-2.879, std=7.691
 
-
+[MLE Parameters]
+Normal on log-gaps:
+  mu=-2.878650, sigma=7.691448
+Student-t on log-gaps:
+  nu(df)=12074209537.129366, loc=-2.878629, scale=7.691454
+LogNormal on raw gaps (minutes):
+  shape(s)=2.225509, loc=0.000000, scale=9.221990
 
 ## 1. 类似GeoLife数据处理
 
