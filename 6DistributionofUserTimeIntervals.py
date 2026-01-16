@@ -299,4 +299,8 @@ if __name__ == "__main__":
 
 
 # python 6DistributionofUserTimeIntervals.py --csv ./Data/Output/all_users_context_combined.csv --out_dir ./Pictures/GeoLife/
+# python 6DistributionofUserTimeIntervals.py --csv ./Data/Output/all_users_context_combined_merged30min.csv --out_dir ./Pictures/GeoLife/
+# python 6DistributionofUserTimeIntervals.py --csv ./Data/Output/all_users_context_combined_gapLE0_merged.csv --out_dir ./Pictures/GeoLife/
+
 # python 6DistributionofUserTimeIntervals.py --csv ./Data/MoreUser/all.csv --out_dir ./Pictures/MoreUser/
+# python 6DistributionofUserTimeIntervals.py --csv ./Data/MoreUser/all_merged30min.csv --out_dir ./Pictures/MoreUser/
