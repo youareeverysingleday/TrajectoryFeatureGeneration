@@ -30,6 +30,20 @@ Student-t on log-gaps:
 LogNormal on raw gaps (minutes):
   shape(s)=2.225509, loc=0.000000, scale=9.221990
 
+合并之后的数据：
+[Gap sign] <=0 ratio: 0.0000  (zero: 0.0000, neg: 0.0000)
+[Stats] #gaps = 2994935
+[Stats] raw gaps minutes: mean=46.597, median=31.683, p95=147.733, p99=274.083
+[Stats] log gaps: mean=3.063, std=1.662
+
+[MLE Parameters]
+Normal on log-gaps:
+  mu=3.063127, sigma=1.662139
+Student-t on log-gaps:
+  nu(df)=2.413243, loc=3.446235, scale=0.949215
+LogNormal on raw gaps (minutes):
+  shape(s)=1.662142, loc=0.000000, scale=21.394329
+
 ## 1. 类似GeoLife数据处理
 
 ### 主要步骤

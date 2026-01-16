@@ -138,7 +138,7 @@ def plot_hist_with_fits(raw_gaps_min: np.ndarray,
         pdf = stats.lognorm.pdf(xs, s=s, loc=loc, scale=scale)
         plt.plot(xs, pdf)
     plt.tight_layout()
-    plt.savefig(os.path.join(out_dir, "hist_rawgap_with_lognorm.png"), dpi=300)
+    plt.savefig(os.path.join(out_dir, "hist_rawgap_with_lognorm.pdf"), dpi=300)
     plt.close()
 
     # ---------- Plot 2: log gaps histogram + Normal & Student-t fits ----------
@@ -165,7 +165,7 @@ def plot_hist_with_fits(raw_gaps_min: np.ndarray,
         plt.plot(xs, stats.t.pdf(xs, df=nu, loc=loc, scale=scale))
 
     plt.tight_layout()
-    plt.savefig(os.path.join(out_dir, "hist_loggap_with_normal_studentt.png"), dpi=300)
+    plt.savefig(os.path.join(out_dir, "hist_loggap_with_normal_studentt.pdf"), dpi=300)
     plt.close()
 
 
@@ -184,7 +184,7 @@ def qq_plots(raw_gaps_min: np.ndarray,
     stats.probplot(log_gaps, dist=stats.norm, sparams=(mu, sigma), plot=plt)
     plt.title("QQ-Plot: log gaps vs Normal")
     plt.tight_layout()
-    plt.savefig(os.path.join(out_dir, "qq_loggap_normal.png"), dpi=300)
+    plt.savefig(os.path.join(out_dir, "qq_loggap_normal.pdf"), dpi=300)
     plt.close()
 
     # -------- QQ 2: log_gaps vs Student-t --------
@@ -196,7 +196,7 @@ def qq_plots(raw_gaps_min: np.ndarray,
     stats.probplot(log_gaps, dist=stats.t, sparams=(nu, loc, scale), plot=plt)
     plt.title("QQ-Plot: log gaps vs Student-t")
     plt.tight_layout()
-    plt.savefig(os.path.join(out_dir, "qq_loggap_studentt.png"), dpi=300)
+    plt.savefig(os.path.join(out_dir, "qq_loggap_studentt.pdf"), dpi=300)
     plt.close()
 
     # -------- QQ 3 (optional): raw gaps vs LogNormal --------
@@ -211,7 +211,7 @@ def qq_plots(raw_gaps_min: np.ndarray,
         stats.probplot(raw_pos, dist=stats.lognorm, sparams=(s, loc, scale), plot=plt)
         plt.title("QQ-Plot: raw gaps (>0) vs LogNormal")
         plt.tight_layout()
-        plt.savefig(os.path.join(out_dir, "qq_rawgap_lognorm.png"), dpi=300)
+        plt.savefig(os.path.join(out_dir, "qq_rawgap_lognorm.pdf"), dpi=300)
     plt.close()
 
 
@@ -257,14 +257,14 @@ def main():
         plt.hist(raw, bins=200, density=True)
         plt.xlabel("Inter-stay gap (minutes)"); plt.ylabel("Density")
         plt.tight_layout()
-        plt.savefig(os.path.join(args.out_dir, "hist_rawgap.png"), dpi=300)
+        plt.savefig(os.path.join(args.out_dir, "hist_rawgap.pdf"), dpi=300)
         plt.close()
 
         plt.figure(figsize=(7.2, 4.2))
         plt.hist(logg, bins=200, density=True)
         plt.xlabel("log(gap_minutes + eps)"); plt.ylabel("Density")
         plt.tight_layout()
-        plt.savefig(os.path.join(args.out_dir, "hist_loggap.png"), dpi=300)
+        plt.savefig(os.path.join(args.out_dir, "hist_loggap.pdf"), dpi=300)
         plt.close()
         return
 
@@ -286,11 +286,11 @@ def main():
         qq_plots(raw_gaps_min=raw, log_gaps=logg, params=params, out_dir=args.out_dir)
 
         print(f"\n[Done] Figures saved to: {os.path.abspath(args.out_dir)}")
-        print("  - hist_rawgap_with_lognorm.png")
-        print("  - hist_loggap_with_normal_studentt.png")
-        print("  - qq_loggap_normal.png")
-        print("  - qq_loggap_studentt.png")
-        print("  - qq_rawgap_lognorm.png (if enough positive gaps)")
+        print("  - hist_rawgap_with_lognorm.pdf")
+        print("  - hist_loggap_with_normal_studentt.pdf")
+        print("  - qq_loggap_normal.pdf")
+        print("  - qq_loggap_studentt.pdf")
+        print("  - qq_rawgap_lognorm.pdf (if enough positive gaps)")
 
 
 if __name__ == "__main__":
@@ -304,3 +304,4 @@ if __name__ == "__main__":
 
 # python 6DistributionofUserTimeIntervals.py --csv ./Data/MoreUser/all.csv --out_dir ./Pictures/MoreUser/
 # python 6DistributionofUserTimeIntervals.py --csv ./Data/MoreUser/all_merged30min.csv --out_dir ./Pictures/MoreUser/
+# python 6DistributionofUserTimeIntervals.py --csv ./Data/MoreUser/all_gapLE0_merged.csv --out_dir ./Pictures/MoreUser/
