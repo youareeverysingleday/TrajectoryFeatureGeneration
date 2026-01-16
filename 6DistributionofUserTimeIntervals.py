@@ -112,6 +112,46 @@ def fit_distributions(raw_gaps_min: np.ndarray,
     return params
 
 
+
+def qqplot_student_t(ax, log_gaps: np.ndarray, nu: float, loc: float, scale: float, max_points: int = 20000):
+    """
+    Robust QQ-plot of log_gaps vs Student-t with fitted (nu, loc, scale).
+
+    Why not scipy.stats.probplot for Student-t here?
+    - probplot's parameter handling for t can be confusing and may ignore loc/scale,
+      producing wildly-scaled theoretical quantiles.
+    This implementation explicitly uses stats.t.ppf(..., loc=loc, scale=scale).
+    """
+    log_gaps = np.asarray(log_gaps, dtype=np.float64)
+    log_gaps = log_gaps[np.isfinite(log_gaps)]
+    log_gaps = np.sort(log_gaps)
+
+    if log_gaps.size == 0:
+        ax.text(0.5, 0.5, "No valid data", ha="center", va="center", fontsize=9)
+        return
+
+    # Downsample to keep the figure light (also helps PDF viewers)
+    if log_gaps.size > max_points:
+        idx = np.linspace(0, log_gaps.size - 1, max_points).astype(int)
+        log_gaps = log_gaps[idx]
+
+    n = log_gaps.size
+    p = (np.arange(1, n + 1) - 0.5) / n
+    theo = stats.t.ppf(p, df=nu, loc=loc, scale=scale)
+
+    # Points: open circles (BW-friendly)
+    ax.scatter(theo, log_gaps, s=10, facecolors="none", edgecolors="black", linewidths=0.6, rasterized=True)
+
+    # Reference line: through 25% and 75% quantiles (robust)
+    q1, q2 = int(0.25 * n), int(0.75 * n)
+    slope = (log_gaps[q2] - log_gaps[q1]) / (theo[q2] - theo[q1] + 1e-12)
+    intercept = log_gaps[q1] - slope * theo[q1]
+    ax.plot(theo, slope * theo + intercept, linewidth=2.0, linestyle="-", color="tab:red")
+
+    ax.set_xlabel("Theoretical quantiles", fontsize=9)
+    ax.set_ylabel("Ordered values", fontsize=9)
+
+
 def plot_hist_with_fits(raw_gaps_min: np.ndarray,
                         log_gaps: np.ndarray,
                         params: dict,
@@ -139,6 +179,7 @@ def plot_hist_with_fits(raw_gaps_min: np.ndarray,
         plt.plot(xs, pdf)
     plt.tight_layout()
     plt.savefig(os.path.join(out_dir, "hist_rawgap_with_lognorm.pdf"), dpi=300)
+    plt.savefig(os.path.join(out_dir, "hist_rawgap_with_lognorm.png"), dpi=300)
     plt.close()
 
     # ---------- Plot 2: log gaps histogram + Normal & Student-t fits ----------
@@ -166,6 +207,7 @@ def plot_hist_with_fits(raw_gaps_min: np.ndarray,
 
     plt.tight_layout()
     plt.savefig(os.path.join(out_dir, "hist_loggap_with_normal_studentt.pdf"), dpi=300)
+    plt.savefig(os.path.join(out_dir, "hist_loggap_with_normal_studentt.png"), dpi=300)
     plt.close()
 
 
@@ -185,18 +227,19 @@ def qq_plots(raw_gaps_min: np.ndarray,
     plt.title("QQ-Plot: log gaps vs Normal")
     plt.tight_layout()
     plt.savefig(os.path.join(out_dir, "qq_loggap_normal.pdf"), dpi=300)
+    plt.savefig(os.path.join(out_dir, "qq_loggap_normal.png"), dpi=300)
     plt.close()
-
-    # -------- QQ 2: log_gaps vs Student-t --------
-    # SciPy probplot supports dist=stats.t with sparams=(df, loc, scale)
+    # -------- QQ 2: log_gaps vs Student-t (robust, uses fitted loc/scale) --------
     plt.figure(figsize=(5.2, 5.2))
     nu = params["studentt_loggap"]["nu"]
     loc = params["studentt_loggap"]["loc"]
     scale = params["studentt_loggap"]["scale"]
-    stats.probplot(log_gaps, dist=stats.t, sparams=(nu, loc, scale), plot=plt)
+    ax = plt.gca()
+    qqplot_student_t(ax, log_gaps, nu=nu, loc=loc, scale=scale, max_points=20000)
     plt.title("QQ-Plot: log gaps vs Student-t")
     plt.tight_layout()
     plt.savefig(os.path.join(out_dir, "qq_loggap_studentt.pdf"), dpi=300)
+    plt.savefig(os.path.join(out_dir, "qq_loggap_studentt.png"), dpi=300)
     plt.close()
 
     # -------- QQ 3 (optional): raw gaps vs LogNormal --------
@@ -212,6 +255,7 @@ def qq_plots(raw_gaps_min: np.ndarray,
         plt.title("QQ-Plot: raw gaps (>0) vs LogNormal")
         plt.tight_layout()
         plt.savefig(os.path.join(out_dir, "qq_rawgap_lognorm.pdf"), dpi=300)
+        plt.savefig(os.path.join(out_dir, "qq_rawgap_lognorm.png"), dpi=300)
     plt.close()
 
 
@@ -258,6 +302,7 @@ def main():
         plt.xlabel("Inter-stay gap (minutes)"); plt.ylabel("Density")
         plt.tight_layout()
         plt.savefig(os.path.join(args.out_dir, "hist_rawgap.pdf"), dpi=300)
+        plt.savefig(os.path.join(args.out_dir, "hist_rawgap.png"), dpi=300)
         plt.close()
 
         plt.figure(figsize=(7.2, 4.2))
@@ -265,6 +310,7 @@ def main():
         plt.xlabel("log(gap_minutes + eps)"); plt.ylabel("Density")
         plt.tight_layout()
         plt.savefig(os.path.join(args.out_dir, "hist_loggap.pdf"), dpi=300)
+        plt.savefig(os.path.join(args.out_dir, "hist_loggap.png"), dpi=300)
         plt.close()
         return
 

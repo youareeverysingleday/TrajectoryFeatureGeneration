@@ -1,26 +1,29 @@
 # -*- coding: utf-8 -*-
 """
-Generate a 2x2 IJCAI/LaTeX-ready figure (vector PDF) for inter-stay gaps
+Generate a 2x2 LaTeX/IJCAI-friendly figure (PDF) for inter-stay gaps
 for BOTH GeoLife and MoreUser datasets in one PDF.
 
-Outputs ONE PDF (Figure 1) with 4 subplots:
+2x2 layout (no caption inside figure):
 (a) GeoLife: histogram of log(gap+eps) + Normal & Student-t fits
-(b) GeoLife: QQ-plot of log(gap+eps) vs Normal
+(b) GeoLife: QQ-plot of log(gap+eps) vs Student-t (fitted nu, loc, scale)
 (c) MoreUser: histogram of log(gap+eps) + Normal & Student-t fits
-(d) MoreUser: QQ-plot of log(gap+eps) vs Normal
+(d) MoreUser: QQ-plot of log(gap+eps) vs Student-t (fitted nu, loc, scale)
+
+Key properties:
+- PDF output (vector container). Dense elements (hist/scatter) are rasterized to keep PDF readable.
+- B/W understandable (linestyle + marker, not only color).
+- Line width >= 0.5pt (we use 2.0).
+- 9pt text in axes/ticks/legend.
+- No caption drawn in the PDF (you add caption in LaTeX).
 
 Usage:
-  python 6DistributionofUserTimeIntervals_2datasets.py \
+  python 6DistributionofUserTimeIntervals_2datasets_final.py \
       --geolife_csv <PATH_TO_GEOLIFE_CSV> \
       --moreuser_csv <PATH_TO_MOREUSER_CSV> \
       --out_pdf <OUTPUT_PDF_PATH>
 
-Notes (IJCAI/LaTeX-friendly):
-- Vector output: PDF
-- Black-and-white readable: linestyle/marker differentiate, not only color
-- Line width >= 0.5pt (we use 2.0)
-- 9pt text for labels/caption
-- Caption placed below the illustration area
+Optional:
+  --user_col userID --stime_col stime --etime_col etime
 """
 
 import os
@@ -55,12 +58,14 @@ def compute_gaps_minutes(df: pd.DataFrame,
 
 
 def safe_log(x: np.ndarray, eps: float = 1e-6) -> np.ndarray:
+    """log(max(x,0)+eps) to avoid log(<=0)."""
     x = np.asarray(x, dtype=np.float64)
     x = np.maximum(x, 0.0)
     return np.log(x + eps)
 
 
 def fit_normal_studentt(log_gaps: np.ndarray):
+    """Fit Normal (mu,sigma) and Student-t (nu,loc,scale) by MLE."""
     if not SCIPY_OK:
         raise RuntimeError("SciPy is required for distribution fitting/QQ plots.")
     mu, sigma = stats.norm.fit(log_gaps)
@@ -77,29 +82,84 @@ def qqplot_normal(ax, log_gaps: np.ndarray, mu: float, sigma: float):
     ax.set_xlabel("Theoretical quantiles", fontsize=9)
     ax.set_ylabel("Ordered values", fontsize=9)
 
-
-def hist_log_with_fits(ax, log_gaps: np.ndarray, mu: float, sigma: float, nu: float, loc: float, scale: float):
+def hist_log_with_fits(ax,
+                       log_gaps: np.ndarray,
+                       mu: float,
+                       sigma: float,
+                       nu: float,
+                       loc: float,
+                       scale: float,
+                       bins: int = 120):
+    """
+    Histogram of log_gaps + fitted Normal & Student-t PDFs.
+    Histogram is rasterized to keep PDF light.
+    """
     ax.hist(
         log_gaps,
-        bins=120,
+        bins=bins,
         density=True,
         color="#D9D9D9",
         edgecolor="black",
         linewidth=0.4,
-        rasterized=True
+        rasterized=True,
     )
 
     x_min, x_max = np.percentile(log_gaps, [0.5, 99.5])
     xs = np.linspace(x_min, x_max, 800)
 
+    # Normal: solid
     ax.plot(xs, stats.norm.pdf(xs, loc=mu, scale=sigma),
             linewidth=2.0, linestyle="-", color="tab:blue", label="Normal fit")
+
+    # Student-t: dashed
     ax.plot(xs, stats.t.pdf(xs, df=nu, loc=loc, scale=scale),
             linewidth=2.0, linestyle="--", color="tab:orange", label="Student-t fit")
 
     ax.set_xlabel("log(gap_minutes + eps)", fontsize=9)
     ax.set_ylabel("Density", fontsize=9)
     ax.legend(frameon=False, fontsize=8)
+
+
+def qqplot_student_t(ax,
+                     log_gaps: np.ndarray,
+                     nu: float,
+                     loc: float,
+                     scale: float,
+                     max_points: int = 20000):
+    """
+    Robust QQ-plot of log_gaps vs Student-t with fitted (nu, loc, scale).
+
+    We explicitly use stats.t.ppf(..., loc=loc, scale=scale) to avoid
+    parameter-handling pitfalls that can occur with generic probplot usage.
+    Scatter is rasterized to keep PDF light.
+    """
+    log_gaps = np.asarray(log_gaps, dtype=np.float64)
+    log_gaps = log_gaps[np.isfinite(log_gaps)]
+    log_gaps = np.sort(log_gaps)
+
+    if log_gaps.size == 0:
+        ax.text(0.5, 0.5, "No valid data", ha="center", va="center", fontsize=9)
+        return
+
+    if log_gaps.size > max_points:
+        idx = np.linspace(0, log_gaps.size - 1, max_points).astype(int)
+        log_gaps = log_gaps[idx]
+
+    n = log_gaps.size
+    p = (np.arange(1, n + 1) - 0.5) / n
+    theo = stats.t.ppf(p, df=nu, loc=loc, scale=scale)
+
+    ax.scatter(theo, log_gaps, s=10, facecolors="none",
+               edgecolors="black", linewidths=0.6, rasterized=True)
+
+    # Reference line through 25% and 75% quantiles (robust)
+    q1, q2 = int(0.25 * n), int(0.75 * n)
+    slope = (log_gaps[q2] - log_gaps[q1]) / (theo[q2] - theo[q1] + 1e-12)
+    intercept = log_gaps[q1] - slope * theo[q1]
+    ax.plot(theo, slope * theo + intercept, linewidth=2.0, linestyle="-", color="tab:red")
+
+    ax.set_xlabel("Theoretical quantiles", fontsize=9)
+    ax.set_ylabel("Ordered values", fontsize=9)
 
 
 def make_2x2_figure(geolife_csv: str,
@@ -114,13 +174,15 @@ def make_2x2_figure(geolife_csv: str,
     if not SCIPY_OK:
         raise RuntimeError("SciPy is required. Please install: pip install scipy")
 
+    # LaTeX/IJCAI-friendly defaults
     plt.rcParams.update({
         "font.size": 9,
         "axes.labelsize": 9,
         "axes.titlesize": 9,
         "legend.fontsize": 8,
-        "lines.linewidth": 2.0,   # >= 0.5pt
-        "pdf.fonttype": 42,
+        "lines.linewidth": 2.0,  # >= 0.5pt
+        "lines.markersize": 5,
+        "pdf.fonttype": 42,      # embed fonts
         "ps.fonttype": 42,
     })
 
@@ -136,6 +198,7 @@ def make_2x2_figure(geolife_csv: str,
     gaps_g = gaps_g[gaps_g >= min_gap_min]
     gaps_m = gaps_m[gaps_m >= min_gap_min]
 
+    # Optional tail clipping to stabilize visuals
     if max_gap_pct < 100.0 and gaps_g.size > 0:
         cap = np.percentile(gaps_g, max_gap_pct)
         gaps_g = gaps_g[gaps_g <= cap]
@@ -155,24 +218,17 @@ def make_2x2_figure(geolife_csv: str,
     hist_log_with_fits(ax1, log_g, mu_g, sigma_g, nu_g, loc_g, scale_g)
     ax1.set_title("(a) GeoLife: log gaps + fits", fontsize=9)
 
-    qqplot_normal(ax2, log_g, mu_g, sigma_g)
-    ax2.set_title("(b) GeoLife: QQ vs Normal", fontsize=9)
+    qqplot_student_t(ax2, log_g, nu=nu_g, loc=loc_g, scale=scale_g, max_points=20000)
+    ax2.set_title("(b) GeoLife: QQ vs Student-t", fontsize=9)
 
     hist_log_with_fits(ax3, log_m, mu_m, sigma_m, nu_m, loc_m, scale_m)
     ax3.set_title("(c) MoreUser: log gaps + fits", fontsize=9)
 
-    qqplot_normal(ax4, log_m, mu_m, sigma_m)
-    ax4.set_title("(d) MoreUser: QQ vs Normal", fontsize=9)
+    qqplot_student_t(ax4, log_m, nu=nu_m, loc=loc_m, scale=scale_m, max_points=20000)
+    ax4.set_title("(d) MoreUser: QQ vs Student-t", fontsize=9)
 
-    # Leave room for caption below
-    fig.subplots_adjust(left=0.08, right=0.98, top=0.93, bottom=0.16, wspace=0.28, hspace=0.40)
-
-    caption = (
-        "Figure 1: Inter-stay gap distributions for GeoLife and MoreUser. "
-        "Left: histogram of log(gap+eps) with Normal and Student-t fits. "
-        "Right: QQ-plot of log(gap+eps) against the fitted Normal distribution."
-    )
-    fig.text(0.5, 0.06, caption, ha="center", va="center", fontsize=9)
+    # No caption in figure: leave standard margins only
+    fig.subplots_adjust(left=0.08, right=0.98, top=0.95, bottom=0.10, wspace=0.28, hspace=0.40)
 
     os.makedirs(os.path.dirname(out_pdf) or ".", exist_ok=True)
     fig.savefig(out_pdf, format="pdf")
