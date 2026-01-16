@@ -44,6 +44,20 @@ Student-t on log-gaps:
 LogNormal on raw gaps (minutes):
   shape(s)=1.662142, loc=0.000000, scale=21.394329
 
+
+python 6DistributionofUserTimeIntervals_2datasets.py \
+  --geolife_csv <PATH_TO_GEOLIFE_CSV> \
+  --moreuser_csv <PATH_TO_MOREUSER_CSV> \
+  --out_pdf <OUTPUT_PDF_PATH>
+
+python 6DistributionofUserTimeIntervals_2datasets.py \
+  --geolife_csv ./Data/Output/all_users_context_combined.csv \
+  --moreuser_csv ./Data/MoreUser/all.csv \
+  --out_pdf ./Pictures/gap_2x2_geolife_moreuser.pdf
+
+
+python 6DistributionofUserTimeIntervals_2datasets.py --geolife_csv ./Data/Output/all_users_context_combined_gapLE0_merged.csv --moreuser_csv ./Data/MoreUser/all_gapLE0_merged.csv --out_pdf ./Pictures/gap_2x2_geolife_moreuser.png
+
 ## 1. 类似GeoLife数据处理
 
 ### 主要步骤
